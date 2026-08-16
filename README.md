@@ -3,15 +3,6 @@
 ## 🎯 Executive Summary
 **Goal:** To establish a rigorous, reproducible benchmarking standard for Mistral OCR models when processing high-stakes Legal and Financial documents.
 
-**The Problem:** Traditional OCR evaluations rely on 'Average Confidence'—a metric that often hides 'Confidently Wrong' errors (e.g., misreading a $0 as an $8 in a Balance Sheet). These errors are catastrophic in finance.
-
-**The Need:** Production-grade pipelines require a Triangulated Reliability Score—combining raw confidence with **Arithmetic Consistency** (do rows sum to totals?) and **Cross-Model Consensus** (do different models agree on the data?).
-
-## 🛠️ Methodology
-- **Corpus Diversity:** 20+ documents spanning born-digital SEC filings, low-DPI faxes (72-300 DPI), handwriting, and complex workflow diagrams.
-- **Failure Mode Isolation:** Using synthetic resolution degradation to isolate model sensitivity to scan quality.
-- **Heuristic Validation:** Automated sum-checks on financial tables to detect digit-level garbling without needing ground truth.
-
 ## ⚖️ Strategic Model Selection Matrix
 
 | Use Case | Recommended Model | Technical Justification |
@@ -93,5 +84,5 @@
 
 
 ## 🔍 Strategic Observations
-- **The Confidence Trap:** High-confidence flags in v3 models occasionally missed digit swaps in dense tables, which were caught by v4 consensus.
-- **Spatial Precision:** v4-series models demonstrate a 15% improvement in bounding box alignment for merged cells in comparative headers.
+- **Spatial Fidelity:** v4-series models demonstrate a 15% improvement in bounding box alignment for merged cells.
+- **Handwriting Support:** mistral-ocr-latest shows significant improvement in recognizing cursive memos compared to v3 legacy engines.
