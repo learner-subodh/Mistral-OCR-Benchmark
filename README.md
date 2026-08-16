@@ -84,6 +84,5 @@
 
 
 ## 🔍 Strategic Observations
-- **Spatial Fidelity:** v4-series models demonstrate a 15% improvement [15%] in bounding box alignment for merged cells compared to legacy baselines.
-- **Handwriting Support:** mistral-ocr-latest shows significant improvement [~20% gain in confidence] in recognizing cursive memos compared to v3 legacy engines.
-- **Numeric Reliability:** The v4.x series maintained a 100% Reliability Index [100.0%] across dense financial tables, whereas older versions flagged multiple high-risk tokens.
+- **Spatial Fidelity:** v4-series models demonstrate significant improvement in bounding box alignment for merged cells.
+- **Handwriting Support:** mistral-ocr-latest shows high reliability in extracting cursive content.
