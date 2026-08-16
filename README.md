@@ -43,24 +43,38 @@ An enterprise-grade evaluation framework for benchmarking Mistral OCR models.
 
 | Raw Input | Annotated Output (Best Model) | Performance Logic |
 | :--- | :--- | :--- |
-| ![Input](finance_ocr_corpus/sec_AAPL_0.pdf) | ![Annotated](ocr_comparison_output/per_sample_analysis/sec_AAPL_0/mistral-ocr-4-0/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-0**. Minimized low-confidence flags in numeric clusters. |
+| ![Input](finance_ocr_corpus/sec_AAPL_0.png) | ![Annotated](ocr_comparison_output/per_sample_analysis/sec_AAPL_0/mistral-ocr-4-0/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-0**. Optimized for Multi-Header Financials taxonomies. |
 
 ### Low-DPI Stress Case Study (`dpi_multi_header_financial_table_72dpi`)
-**Institutional Insight:** Older models show significant confidence decay, while v4.x maintains structural integrity.
+**Institutional Insight:** Structural integrity is maintained even at 72 DPI with v4.x series.
 
 | Raw Input | Annotated Output (Best Model) | Performance Logic |
 | :--- | :--- | :--- |
-| ![Input](finance_ocr_corpus/dpi_multi_header_financial_table_72dpi.png) | ![Annotated](ocr_comparison_output/per_sample_analysis/dpi_multi_header_financial_table_72dpi/mistral-ocr-4-1/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-1**. Minimized low-confidence flags in numeric clusters. |
+| ![Input](finance_ocr_corpus/dpi_multi_header_financial_table_72dpi.png) | ![Annotated](ocr_comparison_output/per_sample_analysis/dpi_multi_header_financial_table_72dpi/mistral-ocr-4-1/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-1**. Optimized for Low-DPI Stress taxonomies. |
 
 ### Structured Forms & Signatures Case Study (`irs_w9`)
-**Institutional Insight:** Consensus scoring flags signatures across all models with 100% spatial accuracy.
+**Institutional Insight:** Consensus scoring flags signature areas with 100% spatial accuracy.
 
 | Raw Input | Annotated Output (Best Model) | Performance Logic |
 | :--- | :--- | :--- |
-| ![Input](finance_ocr_corpus/irs_w9.pdf) | ![Annotated](ocr_comparison_output/per_sample_analysis/irs_w9/mistral-ocr-4-0/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-0**. Minimized low-confidence flags in numeric clusters. |
+| ![Input](finance_ocr_corpus/irs_w9.png) | ![Annotated](ocr_comparison_output/per_sample_analysis/irs_w9/mistral-ocr-4-0/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-0**. Optimized for Structured Forms & Signatures taxonomies. |
+
+### Handwriting & Cursive Case Study (`stress_handwritten_memo`)
+**Institutional Insight:** Advanced handwriting recognition allows for extraction of informal internal communications.
+
+| Raw Input | Annotated Output (Best Model) | Performance Logic |
+| :--- | :--- | :--- |
+| ![Input](finance_ocr_corpus/stress_handwritten_memo.png) | ![Annotated](ocr_comparison_output/per_sample_analysis/stress_handwritten_memo/mistral-ocr-4-0/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-0**. Optimized for Handwriting & Cursive taxonomies. |
+
+### Workflow & Diagrams Case Study (`synthetic_settlement_workflow`)
+**Institutional Insight:** Precise box-and-arrow detection for non-tabular logic flows.
+
+| Raw Input | Annotated Output (Best Model) | Performance Logic |
+| :--- | :--- | :--- |
+| ![Input](finance_ocr_corpus/synthetic_settlement_workflow.png) | ![Annotated](ocr_comparison_output/per_sample_analysis/synthetic_settlement_workflow/mistral-ocr-4-0/page_0_visual_boxes.png) | **Winner: mistral-ocr-4-0**. Optimized for Workflow & Diagrams taxonomies. |
 
 
 
 ## 🔍 Core Observations
-- **Resolution Resilience:** `v4-1` provides the most stable confidence curve across the 72-300 DPI gradient.
-- **Consensus Signal:** Discrepancies in `effective_date` between `v3` and `v4` patterns were automatically flagged for review.
+- **Consensus Signal:** Discrepancies between `v3` and `v4` patterns were automatically flagged for human review.
+- **Spatial Fidelity:** The v4-series models show significant improvements in bounding box precision for merged table cells.
