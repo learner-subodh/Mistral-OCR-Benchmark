@@ -84,5 +84,5 @@
 
 
 ## 🔍 Strategic Observations
-- **Spatial Fidelity:** v4-series models demonstrate a 15% improvement in bounding box alignment for merged cells.
+- **Spatial Fidelity:** v4-series models demonstrate significant improvement in bounding box alignment for merged cells.
 - **Handwriting Support:** mistral-ocr-latest shows significant improvement in recognizing cursive memos compared to v3 legacy engines.
