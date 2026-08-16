@@ -3,14 +3,6 @@
 ## 🎯 Executive Summary
 **Goal:** To establish a rigorous, reproducible benchmarking standard for Mistral OCR models when processing high-stakes Legal and Financial documents.
 
-## ⚖️ Strategic Model Selection Matrix
-
-| Use Case | Recommended Model | Technical Justification |
-| :--- | :--- | :--- |
-| **High-Fidelity Financials** | `mistral-ocr-4-1` | 100% Pass rate on arithmetic consistency checks. |
-| **Legacy/Degraded Scans** | `mistral-ocr-4-1` | Superior resilience to pixel noise and low DPI. |
-| **General Office Docs** | `mistral-ocr-3-0` | Optimal cost-to-latency ratio for native documents. |
-
 ## 📊 Reliability Dashboard
 
 ### Model Reliability Statistics
@@ -84,5 +76,5 @@
 
 
 ## 🔍 Strategic Observations
-- **Spatial Fidelity:** v4-series models demonstrate significant improvement in bounding box alignment for merged cells.
+- **Spatial Fidelity:** v4-series models demonstrate significant improvement in bounding box alignment.
 - **Handwriting Support:** mistral-ocr-latest shows high reliability in extracting cursive content.
