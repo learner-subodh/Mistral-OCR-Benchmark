@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# T+1 Securities Settlement Workflow\n\n![img-0.jpeg](img-0.jpeg)",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 46,
+          "top_left_y": 340,
+          "bottom_right_x": 2044,
+          "bottom_right_y": 782,
+          "image_base64": null,
+          "image_annotation": "{\"image_type\": \"table image\", \"short_description\": \"Diagram illustrating the sequential stages of a trade lifecycle: Trade Executed, Trade Affirmation, Clearing (CCP), Settlement (DvP), Custody Update, and GL Reconciliation.\"}"
+        }
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 880,
+        "width": 2179
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9799135221021388,
+        "minimum_page_confidence_score": 0.8798945952323819,
+        "word_confidence_scores": [
+          {
+            "text": "#",
+            "confidence": 0.8798945952323819,
+            "start_index": 0
+          },
+          {
+            "text": " T+1",
+            "confidence": 0.9997310058707739,
+            "start_index": 1
+          },
+          {
+            "text": " Securities",
+            "confidence": 0.9999816421070834,
+            "start_index": 5
+          },
+          {
+            "text": " Settlement",
+            "confidence": 0.999984264621273,
+            "start_index": 16
+          },
+          {
+            "text": " Workflow",
+            "confidence": 0.9998986846053592,
+            "start_index": 27
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999909401759619,
+            "start_index": 36
+          }
+        ]
+      },
+      "blocks": []
+    }
+  ],
+  "model": "mistral-ocr-3",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 56837
+  },
+  "document_annotation": "{\"document_type\": \"Workflow Diagram\", \"primary_entities\": [\"Trade Execution\", \"Trade Affirmation\", \"Clearing (CCP)\", \"Settlement (DvP)\", \"Custody Update\", \"GL Reconciliation\"], \"reporting_period\": null, \"key_dates\": [\"Trade Execution\", \"Trade Affirmation\", \"Clearing (CCP)\", \"Settlement (DvP)\", \"Custody Update\", \"GL Reconciliation\"], \"key_amounts\": [], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": true}"
+}

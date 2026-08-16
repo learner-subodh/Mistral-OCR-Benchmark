@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "**VOID**\n\n**TOTAL AMOUNT DUE: $45,200.00**\n\n*Check #882*",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 656,
+        "width": 1280
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.8929162346084278,
+        "minimum_page_confidence_score": 0.4775125535479533,
+        "word_confidence_scores": [
+          {
+            "text": "**VOID**",
+            "confidence": 0.6583126968105792,
+            "start_index": 0
+          },
+          {
+            "text": "\n",
+            "confidence": 0.8124869835630969,
+            "start_index": 8
+          },
+          {
+            "text": "\n",
+            "confidence": 0.4775125535479533,
+            "start_index": 9
+          },
+          {
+            "text": "**TOTAL",
+            "confidence": 0.9816237689684905,
+            "start_index": 10
+          },
+          {
+            "text": " AMOUNT",
+            "confidence": 0.9993283494712937,
+            "start_index": 17
+          },
+          {
+            "text": " DUE:",
+            "confidence": 0.9997033061109271,
+            "start_index": 24
+          },
+          {
+            "text": " $45,200.00**",
+            "confidence": 0.9993183678729779,
+            "start_index": 29
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9968737652388526,
+            "start_index": 42
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9210571381156542,
+            "start_index": 43
+          },
+          {
+            "text": "*Check",
+            "confidence": 0.97593213767914,
+            "start_index": 44
+          },
+          {
+            "text": " #882*",
+            "confidence": 0.9999295133137399,
+            "start_index": 50
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 136,
+          "top_left_y": 60,
+          "bottom_right_x": 1181,
+          "bottom_right_y": 393,
+          "content": "**VOID**\n\n**TOTAL AMOUNT DUE: $45,200.00**\n\n*Check #882*",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 49783
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [], \"reporting_period\": null, \"key_dates\": [\"Check #882\"], \"key_amounts\": [{\"label\": \"Total Amount Due\", \"value\": \"$45,200.00\"}], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

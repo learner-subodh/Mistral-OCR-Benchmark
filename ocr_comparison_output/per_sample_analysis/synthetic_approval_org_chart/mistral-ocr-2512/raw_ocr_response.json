@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "![img-0.jpeg](img-0.jpeg)\nCorporate Finance — Approval Authority Chart",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 119,
+          "top_left_y": 179,
+          "bottom_right_x": 1656,
+          "bottom_right_y": 1082,
+          "image_base64": null,
+          "image_annotation": "{\"image_type\": \"table image\", \"short_description\": \"Organizational chart showing the hierarchy of a finance department with a CFO at the top, reporting to two branches: Controller (with AP Manager and Financial Reporting) and Treasurer (with Cash Mgmt and FX Risk).\"}"
+        }
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1180,
+        "width": 1779
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9873644506547804,
+        "minimum_page_confidence_score": 0.9217338967687058,
+        "word_confidence_scores": [
+          {
+            "text": "\n",
+            "confidence": 0.992365326687903,
+            "start_index": 25
+          },
+          {
+            "text": "Corporate",
+            "confidence": 0.997873680784078,
+            "start_index": 26
+          },
+          {
+            "text": " Finance",
+            "confidence": 0.9999892712787918,
+            "start_index": 35
+          },
+          {
+            "text": " —",
+            "confidence": 0.9217338967687058,
+            "start_index": 43
+          },
+          {
+            "text": " Approval",
+            "confidence": 0.9999214477306153,
+            "start_index": 45
+          },
+          {
+            "text": " Authority",
+            "confidence": 0.9999723442092404,
+            "start_index": 54
+          },
+          {
+            "text": " Chart",
+            "confidence": 0.9996951871241285,
+            "start_index": 64
+          }
+        ]
+      },
+      "blocks": []
+    }
+  ],
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 72641
+  },
+  "document_annotation": "{\"document_type\": \"Workflow Diagram\", \"primary_entities\": [\"CFO\", \"Controller\", \"Treasurer\", \"AP Manager\", \"Financial Reporting\", \"Cash Mgmt\", \"FX Risk\"], \"reporting_period\": null, \"key_dates\": [], \"key_amounts\": [], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": true}"
+}

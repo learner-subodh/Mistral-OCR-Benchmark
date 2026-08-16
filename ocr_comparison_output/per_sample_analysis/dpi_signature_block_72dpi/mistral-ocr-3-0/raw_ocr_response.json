@@ -1,0 +1,4551 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Before you begin. For guidance related to the purpose of Form W-9, see Purpose of Form, below.\n\n[tbl-0.html](tbl-0.html)\n\n# Part I Taxpayer Identification Number (TIN)\n\nEnter your TIN in the appropriate box. The TIN provided must match the name given on line 1 to avoid backup withholding. For individuals, this is generally your social security number (SSN). However, for a resident alien, sole proprietor, or disregarded entity, see the instructions for Part I, later. For other entities, it is your employer identification number (EIN). If you do not have a number, see How to get a TIN, later.\n\nNote: If the account is in more than one name, see the instructions for line 1. See also What Name and Number To Give the Requester for guidelines on whose number to enter.\n\n[tbl-1.html](tbl-1.html)\n\n# Part II Certification\n\nUnder penalties of perjury, I certify that:\n\n1. The number shown on this form is my correct taxpayer identification number (or I am waiting for a number to be issued to me); and\n2. I am not subject to backup withholding because (a) I am exempt from backup withholding, or (b) I have not been notified by the Internal Revenue Service (IRS) that I am subject to backup withholding as a result of a failure to report all interest or dividends, or (c) the IRS has notified me that I am no longer subject to backup withholding; and\n3. I am a U.S. citizen or other U.S. person (defined below); and\n4. The FATCA code(s) entered on this form (if any) indicating that I am exempt from FATCA reporting is correct.\n\nCertification instructions. You must cross out item 2 above if you have been notified by the IRS that you are currently subject to backup withholding because you have failed to report all interest and dividends on your tax return. For real estate transactions, item 2 does not apply. For mortgage interest paid, acquisition or abandonment of secured property, cancellation of debt, contributions to an individual retirement arrangement (IRA), and, generally, payments other than interest and dividends, you are not required to sign the certification, but you must provide your correct TIN. See the instructions for Part II, later.\n\nSign Here\n\nSignature of U.S. person\n\nDate\n\n# General Instructions\n\nSection references are to the Internal Revenue Code unless otherwise noted.\n\nFuture developments. For the latest information about developments related to Form W-9 and its instructions, such as legislation enacted after they were published, go to www.irs.gov/FormW9.\n\n# What's New\n\nLine 3a has been modified to clarify how a disregarded entity completes this line. An LLC that is a disregarded entity should check the appropriate box for the tax classification of its owner. Otherwise, it should check the \"LLC\" box and enter its appropriate tax classification.\n\nNew line 3b has been added to this form. A flow-through entity is required to complete this line to indicate that it has direct or indirect foreign partners, owners, or beneficiaries when it provides the Form W-9 to another flow-through entity in which it has an ownership interest. This change is intended to provide a flow-through entity with information regarding the status of its indirect foreign partners, owners, or beneficiaries, so that it can satisfy any applicable reporting requirements. For example, a partnership that has any indirect foreign partners may be required to complete Schedules K-2 and K-3. See the Partnership Instructions for Schedules K-2 and K-3 (Form 1065).\n\n# Purpose of Form\n\nAn individual or entity (Form W-9 requester) who is required to file an information return with the IRS is giving you this form because they\n\n",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 792,
+        "width": 612
+      },
+      "tables": [
+        {
+          "id": "tbl-0.html",
+          "content": "<table><tr><td rowspan=\"6\">Print or type.<br/>See Specific Instructions on page 3.</td><td colspan=\"2\">1 Name of entity/individual. An entry is required. (For a sole proprietor or disregarded entity, enter the owner's name on line 1, and enter the business/disregarded entity's name on line 2.)</td></tr><tr><td colspan=\"2\">2 Business name/disregarded entity name, if different from above.</td></tr><tr><td colspan=\"2\">3a Check the appropriate box for federal tax classification of the entity/individual whose name is entered on line 1. Check only one of the following seven boxes.<br/>☐ Individual/sole proprietor ☐ C corporation ☐ S corporation ☐ Partnership ☐ Trust/estate<br/>☐ LLC. Enter the tax classification (C = C corporation, S = S corporation, P = Partnership)<br/>Note: Check the \"LLC\" box above and, in the entry space, enter the appropriate code (C, S, or P) for the tax classification of the LLC, unless it is a disregarded entity. A disregarded entity should instead check the appropriate box for the tax classification of its owner.<br/>☐ Other (see instructions)</td></tr><tr><td colspan=\"2\">3b If on line 3a you checked \"Partnership\" or \"Trust/estate,\" or checked \"LLC\" and entered \"P\" as its tax classification, and you are providing this form to a partnership, trust, or estate in which you have an ownership interest, check this box if you have any foreign partners, owners, or beneficiaries. See instructions</td></tr><tr><td colspan=\"2\">4 Exemptions (codes apply only to certain entities, not individuals; see instructions on page 3):<br/>Exempt payee code (if any)<br/>Exemption from Foreign Account Tax Compliance Act (FATCA) reporting code (if any)</td></tr><tr><td colspan=\"2\">5 Address (number, street, and apt. or suite no.). See instructions.</td></tr><tr><td rowspan=\"3\">6 City, state, and ZIP code</td><td colspan=\"2\">Requester's name and address (optional)</td></tr><tr><td colspan=\"2\">7 List account number(s) here (optional)</td></tr></table>",
+          "format": "html",
+          "word_confidence_scores": [
+            {
+              "text": "Print",
+              "confidence": 0.800521985360167,
+              "start_index": 27
+            },
+            {
+              "text": " or",
+              "confidence": 0.992273296977304,
+              "start_index": 32
+            },
+            {
+              "text": " type.",
+              "confidence": 0.8390300018311387,
+              "start_index": 35
+            },
+            {
+              "text": "See",
+              "confidence": 0.8390300018311387,
+              "start_index": 46
+            },
+            {
+              "text": " Specific",
+              "confidence": 0.9995182690071783,
+              "start_index": 49
+            },
+            {
+              "text": " Instructions",
+              "confidence": 0.9999479082542545,
+              "start_index": 58
+            },
+            {
+              "text": " on",
+              "confidence": 0.9937375851306639,
+              "start_index": 71
+            },
+            {
+              "text": " page",
+              "confidence": 0.9999737746439785,
+              "start_index": 74
+            },
+            {
+              "text": " 3.",
+              "confidence": 0.8758287043049623,
+              "start_index": 79
+            },
+            {
+              "text": "1",
+              "confidence": 0.8745092145664518,
+              "start_index": 103
+            },
+            {
+              "text": " Name",
+              "confidence": 0.9777589946772647,
+              "start_index": 104
+            },
+            {
+              "text": " of",
+              "confidence": 0.999985933501902,
+              "start_index": 109
+            },
+            {
+              "text": " entity/individual.",
+              "confidence": 0.9984133928720114,
+              "start_index": 112
+            },
+            {
+              "text": " An",
+              "confidence": 0.9999438555760236,
+              "start_index": 131
+            },
+            {
+              "text": " entry",
+              "confidence": 0.9923473657099469,
+              "start_index": 134
+            },
+            {
+              "text": " is",
+              "confidence": 0.9999991655356624,
+              "start_index": 140
+            },
+            {
+              "text": " required.",
+              "confidence": 0.9999373606157522,
+              "start_index": 143
+            },
+            {
+              "text": " (For",
+              "confidence": 0.9995077264173848,
+              "start_index": 153
+            },
+            {
+              "text": " a",
+              "confidence": 0.9999995231630692,
+              "start_index": 158
+            },
+            {
+              "text": " sole",
+              "confidence": 0.999997854237364,
+              "start_index": 160
+            },
+            {
+              "text": " proprietor",
+              "confidence": 0.999993443532851,
+              "start_index": 165
+            },
+            {
+              "text": " or",
+              "confidence": 0.9999983310727032,
+              "start_index": 176
+            },
+            {
+              "text": " disregarded",
+              "confidence": 0.9995585746536916,
+              "start_index": 179
+            },
+            {
+              "text": " entity,",
+              "confidence": 0.9999987483040957,
+              "start_index": 191
+            },
+            {
+              "text": " enter",
+              "confidence": 0.9999974966112362,
+              "start_index": 199
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999903441405488,
+              "start_index": 205
+            },
+            {
+              "text": " owner's",
+              "confidence": 0.9909488896557194,
+              "start_index": 209
+            },
+            {
+              "text": " name",
+              "confidence": 0.9999998807907247,
+              "start_index": 217
+            },
+            {
+              "text": " on",
+              "confidence": 0.9999028538701035,
+              "start_index": 222
+            },
+            {
+              "text": " line",
+              "confidence": 0.9999879600069962,
+              "start_index": 225
+            },
+            {
+              "text": " 1,",
+              "confidence": 0.9999930461989762,
+              "start_index": 230
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999996423722521,
+              "start_index": 233
+            },
+            {
+              "text": " enter",
+              "confidence": 0.9999986886995842,
+              "start_index": 237
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999984502816872,
+              "start_index": 243
+            },
+            {
+              "text": " business/disregarded",
+              "confidence": 0.9952762655420744,
+              "start_index": 247
+            },
+            {
+              "text": " entity's",
+              "confidence": 0.999877294995336,
+              "start_index": 268
+            },
+            {
+              "text": " name",
+              "confidence": 0.9999998807907247,
+              "start_index": 277
+            },
+            {
+              "text": " on",
+              "confidence": 0.9999997615814777,
+              "start_index": 282
+            },
+            {
+              "text": " line",
+              "confidence": 1.0,
+              "start_index": 285
+            },
+            {
+              "text": " 2.)",
+              "confidence": 0.9959911703242605,
+              "start_index": 290
+            },
+            {
+              "text": "2",
+              "confidence": 0.9995310103591843,
+              "start_index": 321
+            },
+            {
+              "text": " Business",
+              "confidence": 0.9999588744847933,
+              "start_index": 325
+            },
+            {
+              "text": " name/disregarded",
+              "confidence": 0.9994082751026907,
+              "start_index": 334
+            },
+            {
+              "text": " entity",
+              "confidence": 0.9999976158197796,
+              "start_index": 351
+            },
+            {
+              "text": " name,",
+              "confidence": 0.9999719869680739,
+              "start_index": 358
+            },
+            {
+              "text": " if",
+              "confidence": 0.9999847414437658,
+              "start_index": 364
+            },
+            {
+              "text": " different",
+              "confidence": 0.9999994039539004,
+              "start_index": 367
+            },
+            {
+              "text": " from",
+              "confidence": 0.9999998807907247,
+              "start_index": 377
+            },
+            {
+              "text": " above.",
+              "confidence": 0.9999692618221755,
+              "start_index": 382
+            },
+            {
+              "text": "3a",
+              "confidence": 0.9010424218647446,
+              "start_index": 419
+            },
+            {
+              "text": " Check",
+              "confidence": 0.99998879445232,
+              "start_index": 421
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999595896822684,
+              "start_index": 427
+            },
+            {
+              "text": " appropriate",
+              "confidence": 0.9999997615814777,
+              "start_index": 431
+            },
+            {
+              "text": " box",
+              "confidence": 0.9999976158197796,
+              "start_index": 443
+            },
+            {
+              "text": " for",
+              "confidence": 0.9999986886995842,
+              "start_index": 447
+            },
+            {
+              "text": " federal",
+              "confidence": 0.9999994039539004,
+              "start_index": 451
+            },
+            {
+              "text": " tax",
+              "confidence": 0.9999973774024795,
+              "start_index": 459
+            },
+            {
+              "text": " classification",
+              "confidence": 0.9999915362117302,
+              "start_index": 463
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999494578154603,
+              "start_index": 478
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999991655356624,
+              "start_index": 481
+            },
+            {
+              "text": " entity/individual",
+              "confidence": 0.9998041733554113,
+              "start_index": 485
+            },
+            {
+              "text": " whose",
+              "confidence": 0.9999960661089133,
+              "start_index": 503
+            },
+            {
+              "text": " name",
+              "confidence": 0.9999963045256735,
+              "start_index": 509
+            },
+            {
+              "text": " is",
+              "confidence": 0.9999994039539004,
+              "start_index": 514
+            },
+            {
+              "text": " entered",
+              "confidence": 0.9999992847447459,
+              "start_index": 517
+            },
+            {
+              "text": " on",
+              "confidence": 0.9999983310727032,
+              "start_index": 525
+            },
+            {
+              "text": " line",
+              "confidence": 0.9999966621509202,
+              "start_index": 528
+            },
+            {
+              "text": " 1.",
+              "confidence": 0.9999883574076678,
+              "start_index": 533
+            },
+            {
+              "text": " Check",
+              "confidence": 0.9999883176260755,
+              "start_index": 536
+            },
+            {
+              "text": " only",
+              "confidence": 0.9998234822083755,
+              "start_index": 542
+            },
+            {
+              "text": " one",
+              "confidence": 0.9995432794880681,
+              "start_index": 547
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999985694905718,
+              "start_index": 551
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999973774024795,
+              "start_index": 554
+            },
+            {
+              "text": " following",
+              "confidence": 0.9999977350285647,
+              "start_index": 558
+            },
+            {
+              "text": " seven",
+              "confidence": 0.9999971389852362,
+              "start_index": 568
+            },
+            {
+              "text": " boxes.",
+              "confidence": 0.9762290352394623,
+              "start_index": 574
+            },
+            {
+              "text": "☐",
+              "confidence": 0.9762290352394623,
+              "start_index": 586
+            },
+            {
+              "text": " Individual/sole",
+              "confidence": 0.9940361360968202,
+              "start_index": 587
+            },
+            {
+              "text": " proprietor",
+              "confidence": 0.9999886752818896,
+              "start_index": 603
+            },
+            {
+              "text": " ☐",
+              "confidence": 0.982270396296715,
+              "start_index": 614
+            },
+            {
+              "text": " C",
+              "confidence": 0.9237626221093096,
+              "start_index": 616
+            },
+            {
+              "text": " corporation",
+              "confidence": 0.999171824245537,
+              "start_index": 618
+            },
+            {
+              "text": " ☐",
+              "confidence": 0.9999793773122854,
+              "start_index": 630
+            },
+            {
+              "text": " S",
+              "confidence": 0.9989934572106433,
+              "start_index": 632
+            },
+            {
+              "text": " corporation",
+              "confidence": 0.9999886752461923,
+              "start_index": 634
+            },
+            {
+              "text": " ☐",
+              "confidence": 0.9999654307853144,
+              "start_index": 646
+            },
+            {
+              "text": " Partnership",
+              "confidence": 0.9999967813595916,
+              "start_index": 648
+            },
+            {
+              "text": " ☐",
+              "confidence": 0.9998093194803539,
+              "start_index": 660
+            },
+            {
+              "text": " Trust/estate",
+              "confidence": 0.9948103764551273,
+              "start_index": 662
+            },
+            {
+              "text": "☐",
+              "confidence": 0.9948103764551273,
+              "start_index": 680
+            },
+            {
+              "text": " LLC.",
+              "confidence": 0.9939761036795156,
+              "start_index": 681
+            },
+            {
+              "text": " Enter",
+              "confidence": 0.9999939203633587,
+              "start_index": 686
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999969005680498,
+              "start_index": 692
+            },
+            {
+              "text": " tax",
+              "confidence": 0.9999974966112362,
+              "start_index": 696
+            },
+            {
+              "text": " classification",
+              "confidence": 0.9999759203026506,
+              "start_index": 700
+            },
+            {
+              "text": " (C",
+              "confidence": 0.9997411512099275,
+              "start_index": 715
+            },
+            {
+              "text": " =",
+              "confidence": 0.9985920966658901,
+              "start_index": 718
+            },
+            {
+              "text": " C",
+              "confidence": 0.9998930807024512,
+              "start_index": 720
+            },
+            {
+              "text": " corporation,",
+              "confidence": 0.999943201209713,
+              "start_index": 722
+            },
+            {
+              "text": " S",
+              "confidence": 0.9999967813595916,
+              "start_index": 735
+            },
+            {
+              "text": " =",
+              "confidence": 0.9999979734461775,
+              "start_index": 737
+            },
+            {
+              "text": " S",
+              "confidence": 0.9999321745137005,
+              "start_index": 739
+            },
+            {
+              "text": " corporation,",
+              "confidence": 0.9999817018308005,
+              "start_index": 741
+            },
+            {
+              "text": " P",
+              "confidence": 0.9999980926550052,
+              "start_index": 754
+            },
+            {
+              "text": " =",
+              "confidence": 0.999993205116773,
+              "start_index": 756
+            },
+            {
+              "text": " Partnership)",
+              "confidence": 0.9600066601730846,
+              "start_index": 758
+            },
+            {
+              "text": "Note:",
+              "confidence": 0.9600066601730846,
+              "start_index": 776
+            },
+            {
+              "text": " Check",
+              "confidence": 0.9999928474936721,
+              "start_index": 781
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999881984200047,
+              "start_index": 787
+            },
+            {
+              "text": " \"LLC\"",
+              "confidence": 0.9854085208313925,
+              "start_index": 791
+            },
+            {
+              "text": " box",
+              "confidence": 0.9999992847447459,
+              "start_index": 797
+            },
+            {
+              "text": " above",
+              "confidence": 0.9999905825550351,
+              "start_index": 801
+            },
+            {
+              "text": " and,",
+              "confidence": 0.9998849224651952,
+              "start_index": 807
+            },
+            {
+              "text": " in",
+              "confidence": 0.9999979734461775,
+              "start_index": 812
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999997615814777,
+              "start_index": 815
+            },
+            {
+              "text": " entry",
+              "confidence": 0.9999992847447459,
+              "start_index": 819
+            },
+            {
+              "text": " space,",
+              "confidence": 0.9999987483042378,
+              "start_index": 825
+            },
+            {
+              "text": " enter",
+              "confidence": 0.9999996423722521,
+              "start_index": 832
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999996423722521,
+              "start_index": 838
+            },
+            {
+              "text": " appropriate",
+              "confidence": 0.9999992847447459,
+              "start_index": 842
+            },
+            {
+              "text": " code",
+              "confidence": 0.9999939203633587,
+              "start_index": 854
+            },
+            {
+              "text": " (C,",
+              "confidence": 0.9932625309411417,
+              "start_index": 859
+            },
+            {
+              "text": " S,",
+              "confidence": 0.9999977350302132,
+              "start_index": 863
+            },
+            {
+              "text": " or",
+              "confidence": 0.9999870063564401,
+              "start_index": 866
+            },
+            {
+              "text": " P)",
+              "confidence": 0.9999896885248781,
+              "start_index": 869
+            },
+            {
+              "text": " for",
+              "confidence": 0.9999976158197796,
+              "start_index": 872
+            },
+            {
+              "text": " the",
+              "confidence": 0.999998927117538,
+              "start_index": 876
+            },
+            {
+              "text": " tax",
+              "confidence": 0.9999979734461775,
+              "start_index": 880
+            },
+            {
+              "text": " classification",
+              "confidence": 0.9999864103261001,
+              "start_index": 884
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999959469005546,
+              "start_index": 899
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999821189265068,
+              "start_index": 902
+            },
+            {
+              "text": " LLC,",
+              "confidence": 0.9999310440600002,
+              "start_index": 906
+            },
+            {
+              "text": " unless",
+              "confidence": 0.9999986886995842,
+              "start_index": 911
+            },
+            {
+              "text": " it",
+              "confidence": 0.9998091823398811,
+              "start_index": 918
+            },
+            {
+              "text": " is",
+              "confidence": 0.9999973774024795,
+              "start_index": 921
+            },
+            {
+              "text": " a",
+              "confidence": 0.9999973774024795,
+              "start_index": 924
+            },
+            {
+              "text": " disregarded",
+              "confidence": 0.9999493387395257,
+              "start_index": 926
+            },
+            {
+              "text": " entity.",
+              "confidence": 0.9999889136814264,
+              "start_index": 938
+            },
+            {
+              "text": " A",
+              "confidence": 0.9999992847447459,
+              "start_index": 946
+            },
+            {
+              "text": " disregarded",
+              "confidence": 0.999772206841053,
+              "start_index": 948
+            },
+            {
+              "text": " entity",
+              "confidence": 0.9999983310727032,
+              "start_index": 960
+            },
+            {
+              "text": " should",
+              "confidence": 0.9999995231630692,
+              "start_index": 967
+            },
+            {
+              "text": " instead",
+              "confidence": 0.9996162933836616,
+              "start_index": 974
+            },
+            {
+              "text": " check",
+              "confidence": 0.9999920130413283,
+              "start_index": 982
+            },
+            {
+              "text": " the",
+              "confidence": 0.9999995231630692,
+              "start_index": 988
+            },
+            {
+              "text": " appropriate",
+              "confidence": 0.9999998807907247,
+              "start_index": 992
+            },
+            {
+              "text": " box",
+              "confidence": 0.9999995231630692,
+              "start_index": 1004
+            },
+            {
+              "text": " for",
+              "confidence": 0.9999995231630692,
+              "start_index": 1008
+            },
+            {
+              "text": " the",
+              "confidence": 0.99997663552505,
+              "start_index": 1012
+            },
+            {
+              "text": " tax",
+              "confidence": 0.9999761587100603,
+              "start_index": 1016
+            },
+            {
+              "text": " classification",
+              "confidence": 0.999979258013377,
+              "start_index": 1020
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999920130413283,
+              "start_index": 1035
+            },
+            {
+              "text": " its",
+              "confidence": 0.9999971389852362,
+              "start_index": 1038
+            },
+            {
+              "text": " owner.",
+              "confidence": 0.9997970514554873,
+              "start_index": 1042
+            },
+            {
+              "text": "☐",
+              "confidence": 0.9997970514554873,
+              "start_index": 1054
+            },
+            {
+              "text": " Other",
+              "confidence": 0.99995696730009,
+              "start_index": 1055
+            },
+            {
+              "text": " (see",
+              "confidence": 0.9998769963162304,
+              "start_index": 1061
+            },
+            {
+              "text": " instructions)",
+              "confidence": 0.9992057765446609,
+              "start_index": 1066
+            },
+            {
+              "text": "3b",
+              "confidence": 0.9684631332345814,
+              "start_index": 1110
+            },
+            {
+              "text": " If",
+              "confidence": 0.9997256555151431,
+              "start_index": 1112
+            },
+            {
+              "text": " on",
+              "confidence": 0.9998942725376461,
+              "start_index": 1115
+            },
+            {
+              "text": " line",
+              "confidence": 0.9998309898012309,
+              "start_index": 1118
+            },
+            {
+              "text": " 3a",
+              "confidence": 0.9999869666256811,
+              "start_index": 1123
+            },
+            {
+              "text": " you",
+              "confidence": 0.9999744898630243,
+              "start_index": 1126
+            },
+            {
+              "text": " checked",
+              "confidence": 0.9999411140801217,
+              "start_index": 1130
+            },
+            {
+              "text": " \"Partnership\"",
+              "confidence": 0.999358695744301,
+              "start_index": 1138
+            },
+            {
+              "text": " or",
+              "confidence": 0.9999904633477849,
+              "start_index": 1152
+            },
+            {
+              "text": " \"Trust/estate,\"",
+              "confidence": 0.9991519881131887,
+              "start_index": 1155
+            },
+            {
+              "text": " or",
+              "confidence": 0.9999976158197796,
+              "start_index": 1171
+            },
+            {
+              "text": " checked",
+              "confidence": 0.9999810460826691,
+              "start_index": 1174
+            },
+            {
+              "text": " \"LLC\"",
+              "confidence": 0.99947942776389,
+              "start_index": 1182
+            },
+            {
+              "text": " and",
+              "confidence": 0.999997854237364,
+              "start_index": 1188
+            },
+            {
+              "text": " entered",
+              "confidence": 0.9999959469005546,
+              "start_index": 1192
+            },
+            {
+              "text": " \"P\"",
+              "confidence": 0.9998426731516146,
+              "start_index": 1200
+            },
+            {
+              "text": " as",
+              "confidence": 0.9999972581939645,
+              "start_index": 1204
+            },
+            {
+              "text": " its",
+              "confidence": 0.999802390054013,
+              "start_index": 1207
+            },
+            {
+              "text": " tax",
+              "confidence": 0.9999872447683118,
+              "start_index": 1211
+            },
+            {
+              "text": " classification,",
+              "confidence": 0.9998596004396142,
+              "start_index": 1215
+            },
+            {
+              "text": " and",
+              "confidence": 0.9993300161184282,
+              "start_index": 1231
+            },
+            {
+              "text": " you",
+              "confidence": 0.9999877215940446,
+              "start_index": 1235
+            },
+            {
+              "text": " are",
+              "confidence": 0.9999924898711537,
+              "start_index": 1239
+            },
+            {
+              "text": " providing",
+              "confidence": 0.9999917746265009,
+              "start_index": 1243
+            },
+            {
+              "text": " this",
+              "confidence": 0.9999983310727032,
+              "start_index": 1253
+            },
+            {
+              "text": " form",
+              "confidence": 0.9999991655356624,
+              "start_index": 1258
+            },
+            {
+              "text": " to",
+              "confidence": 0.9999438555760236,
+              "start_index": 1263
+            },
+            {
+              "text": " a",
+              "confidence": 0.9999979734461775,
+              "start_index": 1266
+            },
+            {
+              "text": " partnership,",
+              "confidence": 0.9999650137037309,
+              "start_index": 1268
+            },
+            {
+              "text": " trust,",
+              "confidence": 0.9999985098861846,
+              "start_index": 1281
+            },
+            {
+              "text": " or",
+              "confidence": 0.9999985694905718,
+              "start_index": 1288
+            },
+            {
+              "text": " estate",
+              "confidence": 0.9999973774024795,
+              "start_index": 1291
+            },
+            {
+              "text": " in",
+              "confidence": 0.9999601856829804,
+              "start_index": 1298
+            },
+            {
+              "text": " which",
+              "confidence": 0.9999996423722521,
+              "start_index": 1301
+            },
+            {
+              "text": " you",
+              "confidence": 0.999995112442896,
+              "start_index": 1307
+            },
+            {
+              "text": " have",
+              "confidence": 0.9999786619922026,
+              "start_index": 1311
+            },
+            {
+              "text": " an",
+              "confidence": 0.9999921322487634,
+              "start_index": 1316
+            },
+            {
+              "text": " ownership",
+              "confidence": 0.9999991655356624,
+              "start_index": 1319
+            },
+            {
+              "text": " interest,",
+              "confidence": 0.9999429028405932,
+              "start_index": 1329
+            },
+            {
+              "text": " check",
+              "confidence": 0.9999753242852847,
+              "start_index": 1339
+            },
+            {
+              "text": " this",
+              "confidence": 0.9999915362117302,
+              "start_index": 1345
+            },
+            {
+              "text": " box",
+              "confidence": 0.9999985694905718,
+              "start_index": 1350
+            },
+            {
+              "text": " if",
+              "confidence": 0.9997343530869288,
+              "start_index": 1354
+            },
+            {
+              "text": " you",
+              "confidence": 0.9999473122717736,
+              "start_index": 1357
+            },
+            {
+              "text": " have",
+              "confidence": 0.9999927282861518,
+              "start_index": 1361
+            },
+            {
+              "text": " any",
+              "confidence": 0.9999873639751784,
+              "start_index": 1366
+            },
+            {
+              "text": " foreign",
+              "confidence": 0.9999994039539004,
+              "start_index": 1370
+            },
+            {
+              "text": " partners,",
+              "confidence": 0.9999425459680376,
+              "start_index": 1378
+            },
+            {
+              "text": " owners,",
+              "confidence": 0.9999863507991184,
+              "start_index": 1388
+            },
+            {
+              "text": " or",
+              "confidence": 0.9999647152949072,
+              "start_index": 1396
+            },
+            {
+              "text": " beneficiaries.",
+              "confidence": 0.9988447735787297,
+              "start_index": 1399
+            },
+            {
+              "text": " See",
+              "confidence": 0.9999881984200047,
+              "start_index": 1414
+            },
+            {
+              "text": " instructions",
+              "confidence": 0.9438609962332691,
+              "start_index": 1418
+            },
+            {
+              "text": "4",
+              "confidence": 0.7381917708438398,
+              "start_index": 1461
+            },
+            {
+              "text": " Exemptions",
+              "confidence": 0.987110931508278,
+              "start_index": 1462
+            },
+            {
+              "text": " (codes",
+              "confidence": 0.9999383142803502,
+              "start_index": 1473
+            },
+            {
+              "text": " apply",
+              "confidence": 0.9999942779868433,
+              "start_index": 1480
+            },
+            {
+              "text": " only",
+              "confidence": 0.9999983310727032,
+              "start_index": 1486
+            },
+            {
+              "text": " to",
+              "confidence": 0.9999991655356624,
+              "start_index": 1491
+            },
+            {
+              "text": " certain",
+              "confidence": 0.9999996423722521,
+              "start_index": 1494
+            },
+            {
+              "text": " entities,",
+              "confidence": 0.9999738941812105,
+              "start_index": 1502
+            },
+            {
+              "text": " not",
+              "confidence": 0.9999846222381212,
+              "start_index": 1512
+            },
+            {
+              "text": " individuals;",
+              "confidence": 0.9992929507596165,
+              "start_index": 1516
+            },
+            {
+              "text": " see",
+              "confidence": 0.9999980926550052,
+              "start_index": 1529
+            },
+            {
+              "text": " instructions",
+              "confidence": 0.9994558674069822,
+              "start_index": 1533
+            },
+            {
+              "text": " on",
+              "confidence": 0.9999983310727032,
+              "start_index": 1546
+            },
+            {
+              "text": " page",
+              "confidence": 0.9999759203026506,
+              "start_index": 1549
+            },
+            {
+              "text": " 3):",
+              "confidence": 0.9806294310756073,
+              "start_index": 1554
+            },
+            {
+              "text": "Exempt",
+              "confidence": 0.9806294310756073,
+              "start_index": 1563
+            },
+            {
+              "text": " payee",
+              "confidence": 0.979010959123652,
+              "start_index": 1569
+            },
+            {
+              "text": " code",
+              "confidence": 0.9999954700677164,
+              "start_index": 1575
+            },
+            {
+              "text": " (if",
+              "confidence": 0.999860671356246,
+              "start_index": 1580
+            },
+            {
+              "text": " any)",
+              "confidence": 0.9486107849137465,
+              "start_index": 1584
+            },
+            {
+              "text": "Exemption",
+              "confidence": 0.9486107849137465,
+              "start_index": 1594
+            },
+            {
+              "text": " from",
+              "confidence": 0.9999895096921129,
+              "start_index": 1603
+            },
+            {
+              "text": " Foreign",
+              "confidence": 0.9999997615814777,
+              "start_index": 1608
+            },
+            {
+              "text": " Account",
+              "confidence": 0.9999011852636277,
+              "start_index": 1616
+            },
+            {
+              "text": " Tax",
+              "confidence": 0.9997896398662023,
+              "start_index": 1624
+            },
+            {
+              "text": " Compliance",
+              "confidence": 0.9984631274153409,
+              "start_index": 1628
+            },
+            {
+              "text": " Act",
+              "confidence": 0.999984503032491,
+              "start_index": 1639
+            },
+            {
+              "text": " (FATCA)",
+              "confidence": 0.9998572163684273,
+              "start_index": 1643
+            },
+            {
+              "text": " reporting",
+              "confidence": 0.9999930859092101,
+              "start_index": 1651
+            },
+            {
+              "text": " code",
+              "confidence": 0.9999996423722521,
+              "start_index": 1661
+            },
+            {
+              "text": " (if",
+              "confidence": 0.9998934436556609,
+              "start_index": 1666
+            },
+            {
+              "text": " any)",
+              "confidence": 0.9865820454851942,
+              "start_index": 1670
+            },
+            {
+              "text": "5",
+              "confidence": 0.7542887671124389,
+              "start_index": 1705
+            },
+            {
+              "text": " Address",
+              "confidence": 0.9999651921008026,
+              "start_index": 1706
+            },
+            {
+              "text": " (number,",
+              "confidence": 0.9999052034857351,
+              "start_index": 1714
+            },
+            {
+              "text": " street,",
+              "confidence": 0.999997437009073,
+              "start_index": 1723
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999916554191085,
+              "start_index": 1731
+            },
+            {
+              "text": " apt.",
+              "confidence": 0.9995109434089268,
+              "start_index": 1735
+            },
+            {
+              "text": " or",
+              "confidence": 0.9999697217572346,
+              "start_index": 1740
+            },
+            {
+              "text": " suite",
+              "confidence": 0.9999799732399826,
+              "start_index": 1743
+            },
+            {
+              "text": " no.).",
+              "confidence": 0.99855022461139,
+              "start_index": 1749
+            },
+            {
+              "text": " See",
+              "confidence": 0.9999855758836753,
+              "start_index": 1755
+            },
+            {
+              "text": " instructions.",
+              "confidence": 0.9427136034018665,
+              "start_index": 1759
+            },
+            {
+              "text": "6",
+              "confidence": 0.6877105225919223,
+              "start_index": 1803
+            },
+            {
+              "text": " City,",
+              "confidence": 0.9739172644907871,
+              "start_index": 1804
+            },
+            {
+              "text": " state,",
+              "confidence": 0.9999836090079967,
+              "start_index": 1810
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999936819476216,
+              "start_index": 1817
+            },
+            {
+              "text": " ZIP",
+              "confidence": 0.9992712090981047,
+              "start_index": 1821
+            },
+            {
+              "text": " code",
+              "confidence": 0.9790533058833194,
+              "start_index": 1825
+            },
+            {
+              "text": "Requester's",
+              "confidence": 0.9454845694642869,
+              "start_index": 1851
+            },
+            {
+              "text": " name",
+              "confidence": 0.9999982118638471,
+              "start_index": 1862
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999922514562126,
+              "start_index": 1867
+            },
+            {
+              "text": " address",
+              "confidence": 0.9999976158197796,
+              "start_index": 1871
+            },
+            {
+              "text": " (optional)",
+              "confidence": 0.9990931948032167,
+              "start_index": 1879
+            },
+            {
+              "text": "7",
+              "confidence": 0.9560906207699564,
+              "start_index": 1920
+            },
+            {
+              "text": " List",
+              "confidence": 0.9999747282700929,
+              "start_index": 1921
+            },
+            {
+              "text": " account",
+              "confidence": 0.9999585168898854,
+              "start_index": 1926
+            },
+            {
+              "text": " number(s)",
+              "confidence": 0.999518036957789,
+              "start_index": 1934
+            },
+            {
+              "text": " here",
+              "confidence": 0.9999787811971367,
+              "start_index": 1944
+            },
+            {
+              "text": " (optional)",
+              "confidence": 0.977671200561646,
+              "start_index": 1949
+            }
+          ]
+        },
+        {
+          "id": "tbl-1.html",
+          "content": "<table><tr><td colspan=\"2\">Social security number</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td colspan=\"2\">or</td></tr><tr><td colspan=\"2\">Employer identification number</td></tr><tr><td></td><td></td></tr></table>",
+          "format": "html",
+          "word_confidence_scores": [
+            {
+              "text": "Social",
+              "confidence": 0.7768481308816667,
+              "start_index": 27
+            },
+            {
+              "text": " security",
+              "confidence": 0.9999233543037372,
+              "start_index": 33
+            },
+            {
+              "text": " number",
+              "confidence": 0.9359044438717145,
+              "start_index": 42
+            },
+            {
+              "text": "or",
+              "confidence": 0.9052137234254789,
+              "start_index": 133
+            },
+            {
+              "text": "Employer",
+              "confidence": 0.9986135922375687,
+              "start_index": 165
+            },
+            {
+              "text": " identification",
+              "confidence": 0.9980658818288451,
+              "start_index": 173
+            },
+            {
+              "text": " number",
+              "confidence": 0.9876898368071534,
+              "start_index": 188
+            }
+          ]
+        }
+      ],
+      "hyperlinks": [],
+      "header": "W-9\n\n(Rev. March 2024)\n\nDepartment of the Treasury\n\nInternal Revenue Service\n\nRequest for Taxpayer Identification Number and Certification\n\nGo to www.irs.gov/FormW9 for instructions and the latest information.\n\nGive form to the requester. Do not send to the IRS.",
+      "footer": "Cat. No. 10231X\n\nForm W-9 (Rev. 3-2024)",
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9973085527877539,
+        "minimum_page_confidence_score": 0.613994428539962,
+        "word_confidence_scores": [
+          {
+            "text": "Before",
+            "confidence": 0.7378831938180327,
+            "start_index": 0
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999843838268748,
+            "start_index": 6
+          },
+          {
+            "text": " begin.",
+            "confidence": 0.9381966179505037,
+            "start_index": 10
+          },
+          {
+            "text": " For",
+            "confidence": 0.9999948740268748,
+            "start_index": 17
+          },
+          {
+            "text": " guidance",
+            "confidence": 0.9999980926550052,
+            "start_index": 21
+          },
+          {
+            "text": " related",
+            "confidence": 0.9999816421070834,
+            "start_index": 30
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999994039539004,
+            "start_index": 38
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999971389852362,
+            "start_index": 41
+          },
+          {
+            "text": " purpose",
+            "confidence": 0.9999949932351057,
+            "start_index": 45
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999992847447459,
+            "start_index": 53
+          },
+          {
+            "text": " Form",
+            "confidence": 0.9999974966112362,
+            "start_index": 56
+          },
+          {
+            "text": " W-9,",
+            "confidence": 0.9999876918667817,
+            "start_index": 61
+          },
+          {
+            "text": " see",
+            "confidence": 0.999998927117538,
+            "start_index": 66
+          },
+          {
+            "text": " Purpose",
+            "confidence": 0.9999793772183819,
+            "start_index": 70
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999928474936721,
+            "start_index": 78
+          },
+          {
+            "text": " Form,",
+            "confidence": 0.9988673498361419,
+            "start_index": 81
+          },
+          {
+            "text": " below.",
+            "confidence": 0.9997951420253463,
+            "start_index": 87
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9995911601406576,
+            "start_index": 94
+          },
+          {
+            "text": "[tbl-0.html](tbl-0.html)",
+            "confidence": 0.9830533808643872,
+            "start_index": 96
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9770089916324549,
+            "start_index": 120
+          },
+          {
+            "text": "#",
+            "confidence": 0.613994428539962,
+            "start_index": 122
+          },
+          {
+            "text": " Part",
+            "confidence": 0.9999645960934689,
+            "start_index": 123
+          },
+          {
+            "text": " I",
+            "confidence": 0.9997771283082456,
+            "start_index": 128
+          },
+          {
+            "text": " Taxpayer",
+            "confidence": 0.9996258576922705,
+            "start_index": 130
+          },
+          {
+            "text": " Identification",
+            "confidence": 0.9999964237340748,
+            "start_index": 139
+          },
+          {
+            "text": " Number",
+            "confidence": 0.9999728210205924,
+            "start_index": 154
+          },
+          {
+            "text": " (TIN)",
+            "confidence": 0.9999809865708994,
+            "start_index": 161
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.999964238492877,
+            "start_index": 167
+          },
+          {
+            "text": "Enter",
+            "confidence": 0.9966151044928023,
+            "start_index": 169
+          },
+          {
+            "text": " your",
+            "confidence": 0.9999930859092101,
+            "start_index": 174
+          },
+          {
+            "text": " TIN",
+            "confidence": 0.9999522600711157,
+            "start_index": 179
+          },
+          {
+            "text": " in",
+            "confidence": 0.9999998807907247,
+            "start_index": 183
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999861719135179,
+            "start_index": 186
+          },
+          {
+            "text": " appropriate",
+            "confidence": 0.9999995231630692,
+            "start_index": 190
+          },
+          {
+            "text": " box.",
+            "confidence": 0.9999980330509874,
+            "start_index": 202
+          },
+          {
+            "text": " The",
+            "confidence": 0.9999833109787883,
+            "start_index": 207
+          },
+          {
+            "text": " TIN",
+            "confidence": 0.9999985694905718,
+            "start_index": 211
+          },
+          {
+            "text": " provided",
+            "confidence": 0.9998844995411701,
+            "start_index": 215
+          },
+          {
+            "text": " must",
+            "confidence": 0.9999814036965474,
+            "start_index": 224
+          },
+          {
+            "text": " match",
+            "confidence": 0.999997854237364,
+            "start_index": 229
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999953508594287,
+            "start_index": 235
+          },
+          {
+            "text": " name",
+            "confidence": 0.999985933501902,
+            "start_index": 239
+          },
+          {
+            "text": " given",
+            "confidence": 0.9999991655356624,
+            "start_index": 244
+          },
+          {
+            "text": " on",
+            "confidence": 0.999991297797926,
+            "start_index": 250
+          },
+          {
+            "text": " line",
+            "confidence": 0.999991059383269,
+            "start_index": 253
+          },
+          {
+            "text": " 1",
+            "confidence": 0.9999964833426862,
+            "start_index": 258
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999955892755635,
+            "start_index": 260
+          },
+          {
+            "text": " avoid",
+            "confidence": 0.9999997615814777,
+            "start_index": 263
+          },
+          {
+            "text": " backup",
+            "confidence": 0.9999518417671817,
+            "start_index": 269
+          },
+          {
+            "text": " withholding.",
+            "confidence": 0.9999450103174378,
+            "start_index": 276
+          },
+          {
+            "text": " For",
+            "confidence": 0.9999985694905718,
+            "start_index": 289
+          },
+          {
+            "text": " individuals,",
+            "confidence": 0.9999914170192591,
+            "start_index": 293
+          },
+          {
+            "text": " this",
+            "confidence": 0.9999990463265931,
+            "start_index": 306
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999864103261001,
+            "start_index": 311
+          },
+          {
+            "text": " generally",
+            "confidence": 0.9999972581939645,
+            "start_index": 314
+          },
+          {
+            "text": " your",
+            "confidence": 0.9999957084838798,
+            "start_index": 324
+          },
+          {
+            "text": " social",
+            "confidence": 0.999998927117538,
+            "start_index": 329
+          },
+          {
+            "text": " security",
+            "confidence": 0.9999997615814777,
+            "start_index": 336
+          },
+          {
+            "text": " number",
+            "confidence": 0.9999972581939645,
+            "start_index": 345
+          },
+          {
+            "text": " (SSN).",
+            "confidence": 0.9999639122891113,
+            "start_index": 352
+          },
+          {
+            "text": " However,",
+            "confidence": 0.9999998807907318,
+            "start_index": 359
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999977350285647,
+            "start_index": 368
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999935627400018,
+            "start_index": 372
+          },
+          {
+            "text": " resident",
+            "confidence": 0.9999868871505255,
+            "start_index": 374
+          },
+          {
+            "text": " alien,",
+            "confidence": 0.9999875428516131,
+            "start_index": 383
+          },
+          {
+            "text": " sole",
+            "confidence": 0.9999988079084972,
+            "start_index": 390
+          },
+          {
+            "text": " proprietor,",
+            "confidence": 0.9999986092269455,
+            "start_index": 395
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999977350285647,
+            "start_index": 407
+          },
+          {
+            "text": " disregarded",
+            "confidence": 0.9988019592894098,
+            "start_index": 410
+          },
+          {
+            "text": " entity,",
+            "confidence": 0.9999929071202032,
+            "start_index": 422
+          },
+          {
+            "text": " see",
+            "confidence": 0.9999921322487634,
+            "start_index": 430
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999969005680498,
+            "start_index": 434
+          },
+          {
+            "text": " instructions",
+            "confidence": 0.9996154595591916,
+            "start_index": 438
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999928474936721,
+            "start_index": 451
+          },
+          {
+            "text": " Part",
+            "confidence": 0.9999923706636761,
+            "start_index": 455
+          },
+          {
+            "text": " I,",
+            "confidence": 0.9979863927987105,
+            "start_index": 460
+          },
+          {
+            "text": " later.",
+            "confidence": 0.9999963045286293,
+            "start_index": 463
+          },
+          {
+            "text": " For",
+            "confidence": 0.9999817613105537,
+            "start_index": 470
+          },
+          {
+            "text": " other",
+            "confidence": 0.9999923706636761,
+            "start_index": 474
+          },
+          {
+            "text": " entities,",
+            "confidence": 0.9999999403953606,
+            "start_index": 480
+          },
+          {
+            "text": " it",
+            "confidence": 0.9999969005680498,
+            "start_index": 490
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999995231630692,
+            "start_index": 493
+          },
+          {
+            "text": " your",
+            "confidence": 0.9999998807907247,
+            "start_index": 496
+          },
+          {
+            "text": " employer",
+            "confidence": 0.9999974966112362,
+            "start_index": 501
+          },
+          {
+            "text": " identification",
+            "confidence": 0.9999927282861518,
+            "start_index": 510
+          },
+          {
+            "text": " number",
+            "confidence": 0.9999995231630692,
+            "start_index": 525
+          },
+          {
+            "text": " (EIN).",
+            "confidence": 0.9999734175554899,
+            "start_index": 532
+          },
+          {
+            "text": " If",
+            "confidence": 0.999998927117538,
+            "start_index": 539
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999938011552557,
+            "start_index": 542
+          },
+          {
+            "text": " do",
+            "confidence": 0.9999992847447459,
+            "start_index": 546
+          },
+          {
+            "text": " not",
+            "confidence": 0.9999990463265931,
+            "start_index": 549
+          },
+          {
+            "text": " have",
+            "confidence": 0.9999973774024795,
+            "start_index": 553
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999992847447459,
+            "start_index": 558
+          },
+          {
+            "text": " number,",
+            "confidence": 0.9999921918820481,
+            "start_index": 560
+          },
+          {
+            "text": " see",
+            "confidence": 0.9999969005680498,
+            "start_index": 568
+          },
+          {
+            "text": " How",
+            "confidence": 0.9999954700677164,
+            "start_index": 572
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999979734461775,
+            "start_index": 576
+          },
+          {
+            "text": " get",
+            "confidence": 0.9999992847447459,
+            "start_index": 579
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999994039539004,
+            "start_index": 583
+          },
+          {
+            "text": " TIN,",
+            "confidence": 0.9999894302915983,
+            "start_index": 585
+          },
+          {
+            "text": " later.",
+            "confidence": 0.9996595332603698,
+            "start_index": 590
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9993196589508595,
+            "start_index": 597
+          },
+          {
+            "text": "Note:",
+            "confidence": 0.9580309908938496,
+            "start_index": 599
+          },
+          {
+            "text": " If",
+            "confidence": 0.9999597088831099,
+            "start_index": 604
+          },
+          {
+            "text": " the",
+            "confidence": 0.9998930807024512,
+            "start_index": 607
+          },
+          {
+            "text": " account",
+            "confidence": 0.9999881984200047,
+            "start_index": 611
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999953508594287,
+            "start_index": 619
+          },
+          {
+            "text": " in",
+            "confidence": 0.9999554177126959,
+            "start_index": 622
+          },
+          {
+            "text": " more",
+            "confidence": 0.9999957084838798,
+            "start_index": 625
+          },
+          {
+            "text": " than",
+            "confidence": 1.0,
+            "start_index": 630
+          },
+          {
+            "text": " one",
+            "confidence": 0.999997854237364,
+            "start_index": 635
+          },
+          {
+            "text": " name,",
+            "confidence": 0.9999979138430763,
+            "start_index": 639
+          },
+          {
+            "text": " see",
+            "confidence": 0.9999959469005546,
+            "start_index": 645
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999963045256735,
+            "start_index": 649
+          },
+          {
+            "text": " instructions",
+            "confidence": 0.9998613788093218,
+            "start_index": 653
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999940395710211,
+            "start_index": 666
+          },
+          {
+            "text": " line",
+            "confidence": 0.9999166796485691,
+            "start_index": 670
+          },
+          {
+            "text": " 1.",
+            "confidence": 0.9999903044712085,
+            "start_index": 675
+          },
+          {
+            "text": " See",
+            "confidence": 0.9999920130413283,
+            "start_index": 678
+          },
+          {
+            "text": " also",
+            "confidence": 0.9999992847447459,
+            "start_index": 682
+          },
+          {
+            "text": " What",
+            "confidence": 0.999883188544078,
+            "start_index": 687
+          },
+          {
+            "text": " Name",
+            "confidence": 0.9999858142961154,
+            "start_index": 692
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999935627400018,
+            "start_index": 697
+          },
+          {
+            "text": " Number",
+            "confidence": 0.9999725826157975,
+            "start_index": 701
+          },
+          {
+            "text": " To",
+            "confidence": 0.999941829250343,
+            "start_index": 708
+          },
+          {
+            "text": " Give",
+            "confidence": 0.9999828341569776,
+            "start_index": 711
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999933243243502,
+            "start_index": 716
+          },
+          {
+            "text": " Requester",
+            "confidence": 0.9993003882547563,
+            "start_index": 720
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999952316511552,
+            "start_index": 730
+          },
+          {
+            "text": " guidelines",
+            "confidence": 0.9998887901016923,
+            "start_index": 734
+          },
+          {
+            "text": " on",
+            "confidence": 0.999998927117538,
+            "start_index": 745
+          },
+          {
+            "text": " whose",
+            "confidence": 0.9999868871505255,
+            "start_index": 748
+          },
+          {
+            "text": " number",
+            "confidence": 0.9999866487378297,
+            "start_index": 754
+          },
+          {
+            "text": " to",
+            "confidence": 0.9998678143663282,
+            "start_index": 761
+          },
+          {
+            "text": " enter.",
+            "confidence": 0.9999097093787869,
+            "start_index": 764
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.999842430147431,
+            "start_index": 771
+          },
+          {
+            "text": "[tbl-1.html](tbl-1.html)",
+            "confidence": 0.9451085649142434,
+            "start_index": 773
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9993556124610534,
+            "start_index": 797
+          },
+          {
+            "text": "#",
+            "confidence": 0.9993631130068498,
+            "start_index": 799
+          },
+          {
+            "text": " Part",
+            "confidence": 0.9998451711108814,
+            "start_index": 800
+          },
+          {
+            "text": " II",
+            "confidence": 0.999726132076118,
+            "start_index": 805
+          },
+          {
+            "text": " Certification",
+            "confidence": 0.9998525598494739,
+            "start_index": 808
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999908209686689,
+            "start_index": 822
+          },
+          {
+            "text": "Under",
+            "confidence": 0.9997691449163855,
+            "start_index": 824
+          },
+          {
+            "text": " penalties",
+            "confidence": 0.9999996423722521,
+            "start_index": 829
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999974966112362,
+            "start_index": 839
+          },
+          {
+            "text": " perjury,",
+            "confidence": 0.9999626892337851,
+            "start_index": 842
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999996423722521,
+            "start_index": 851
+          },
+          {
+            "text": " certify",
+            "confidence": 0.999995887303898,
+            "start_index": 853
+          },
+          {
+            "text": " that:",
+            "confidence": 0.9896138741401941,
+            "start_index": 861
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9793358533825709,
+            "start_index": 867
+          },
+          {
+            "text": "1.",
+            "confidence": 0.9999595307634916,
+            "start_index": 869
+          },
+          {
+            "text": " The",
+            "confidence": 0.999991297797926,
+            "start_index": 871
+          },
+          {
+            "text": " number",
+            "confidence": 0.9999850990607846,
+            "start_index": 875
+          },
+          {
+            "text": " shown",
+            "confidence": 0.9999982118638471,
+            "start_index": 882
+          },
+          {
+            "text": " on",
+            "confidence": 0.999997854237364,
+            "start_index": 888
+          },
+          {
+            "text": " this",
+            "confidence": 0.9999911785905904,
+            "start_index": 891
+          },
+          {
+            "text": " form",
+            "confidence": 0.9999866487378297,
+            "start_index": 896
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999988079084972,
+            "start_index": 901
+          },
+          {
+            "text": " my",
+            "confidence": 0.9999988079084972,
+            "start_index": 904
+          },
+          {
+            "text": " correct",
+            "confidence": 0.9999991655356624,
+            "start_index": 907
+          },
+          {
+            "text": " taxpayer",
+            "confidence": 0.9999005934285957,
+            "start_index": 915
+          },
+          {
+            "text": " identification",
+            "confidence": 0.9999974966112362,
+            "start_index": 924
+          },
+          {
+            "text": " number",
+            "confidence": 0.9999986886995842,
+            "start_index": 939
+          },
+          {
+            "text": " (or",
+            "confidence": 0.9999975562155061,
+            "start_index": 946
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999786619922026,
+            "start_index": 950
+          },
+          {
+            "text": " am",
+            "confidence": 0.9999995231630692,
+            "start_index": 952
+          },
+          {
+            "text": " waiting",
+            "confidence": 0.9999930859092101,
+            "start_index": 955
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999990463265931,
+            "start_index": 963
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999977350285647,
+            "start_index": 967
+          },
+          {
+            "text": " number",
+            "confidence": 0.9999988079084972,
+            "start_index": 969
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999996423722521,
+            "start_index": 976
+          },
+          {
+            "text": " be",
+            "confidence": 0.9999996423722521,
+            "start_index": 979
+          },
+          {
+            "text": " issued",
+            "confidence": 1.0,
+            "start_index": 982
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999994039539004,
+            "start_index": 989
+          },
+          {
+            "text": " me);",
+            "confidence": 0.9999924898732001,
+            "start_index": 992
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999986886995842,
+            "start_index": 997
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9323879842710805,
+            "start_index": 1001
+          },
+          {
+            "text": "2.",
+            "confidence": 0.9999879600752359,
+            "start_index": 1002
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999971389852362,
+            "start_index": 1004
+          },
+          {
+            "text": " am",
+            "confidence": 0.9999995231630692,
+            "start_index": 1006
+          },
+          {
+            "text": " not",
+            "confidence": 0.999997854237364,
+            "start_index": 1009
+          },
+          {
+            "text": " subject",
+            "confidence": 0.9999994039539004,
+            "start_index": 1013
+          },
+          {
+            "text": " to",
+            "confidence": 1.0,
+            "start_index": 1021
+          },
+          {
+            "text": " backup",
+            "confidence": 0.9999994039539004,
+            "start_index": 1024
+          },
+          {
+            "text": " withholding",
+            "confidence": 0.9998444653015626,
+            "start_index": 1031
+          },
+          {
+            "text": " because",
+            "confidence": 0.9999998807907247,
+            "start_index": 1043
+          },
+          {
+            "text": " (a)",
+            "confidence": 0.9999410777281872,
+            "start_index": 1051
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999977350285647,
+            "start_index": 1055
+          },
+          {
+            "text": " am",
+            "confidence": 0.9999973774024795,
+            "start_index": 1057
+          },
+          {
+            "text": " exempt",
+            "confidence": 0.9999998807907247,
+            "start_index": 1060
+          },
+          {
+            "text": " from",
+            "confidence": 0.9999995231630692,
+            "start_index": 1067
+          },
+          {
+            "text": " backup",
+            "confidence": 0.9999992847447459,
+            "start_index": 1072
+          },
+          {
+            "text": " withholding,",
+            "confidence": 0.9999665034536974,
+            "start_index": 1079
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999998807907247,
+            "start_index": 1092
+          },
+          {
+            "text": " (b)",
+            "confidence": 0.999989867366164,
+            "start_index": 1095
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999990463265931,
+            "start_index": 1099
+          },
+          {
+            "text": " have",
+            "confidence": 0.999991059383269,
+            "start_index": 1101
+          },
+          {
+            "text": " not",
+            "confidence": 0.9999997615814777,
+            "start_index": 1106
+          },
+          {
+            "text": " been",
+            "confidence": 0.9999942779868433,
+            "start_index": 1110
+          },
+          {
+            "text": " notified",
+            "confidence": 0.9999996423722521,
+            "start_index": 1115
+          },
+          {
+            "text": " by",
+            "confidence": 0.9999984502816872,
+            "start_index": 1124
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999980926550052,
+            "start_index": 1127
+          },
+          {
+            "text": " Internal",
+            "confidence": 0.999997854237364,
+            "start_index": 1131
+          },
+          {
+            "text": " Revenue",
+            "confidence": 0.9999994039539004,
+            "start_index": 1140
+          },
+          {
+            "text": " Service",
+            "confidence": 0.9999965429424904,
+            "start_index": 1148
+          },
+          {
+            "text": " (IRS)",
+            "confidence": 0.9999751755420172,
+            "start_index": 1156
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999996423722521,
+            "start_index": 1162
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999997615814777,
+            "start_index": 1167
+          },
+          {
+            "text": " am",
+            "confidence": 0.9999986886995842,
+            "start_index": 1169
+          },
+          {
+            "text": " subject",
+            "confidence": 0.9999929667012066,
+            "start_index": 1172
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999995231630692,
+            "start_index": 1180
+          },
+          {
+            "text": " backup",
+            "confidence": 0.9999909401759619,
+            "start_index": 1183
+          },
+          {
+            "text": " withholding",
+            "confidence": 0.9999626297772207,
+            "start_index": 1190
+          },
+          {
+            "text": " as",
+            "confidence": 0.9999990463265931,
+            "start_index": 1202
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999990463265931,
+            "start_index": 1205
+          },
+          {
+            "text": " result",
+            "confidence": 0.9999998807907247,
+            "start_index": 1207
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999997615814777,
+            "start_index": 1214
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999659073064342,
+            "start_index": 1217
+          },
+          {
+            "text": " failure",
+            "confidence": 0.9999996423722521,
+            "start_index": 1219
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999921322487634,
+            "start_index": 1227
+          },
+          {
+            "text": " report",
+            "confidence": 0.9999916554191085,
+            "start_index": 1230
+          },
+          {
+            "text": " all",
+            "confidence": 0.9999822381318528,
+            "start_index": 1237
+          },
+          {
+            "text": " interest",
+            "confidence": 0.9999983310727032,
+            "start_index": 1241
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999971389852362,
+            "start_index": 1250
+          },
+          {
+            "text": " dividends,",
+            "confidence": 0.9999698811755108,
+            "start_index": 1253
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999997615814777,
+            "start_index": 1264
+          },
+          {
+            "text": " (c)",
+            "confidence": 0.9999969005754608,
+            "start_index": 1267
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999933243243502,
+            "start_index": 1271
+          },
+          {
+            "text": " IRS",
+            "confidence": 0.999997854237364,
+            "start_index": 1275
+          },
+          {
+            "text": " has",
+            "confidence": 0.9999992847447459,
+            "start_index": 1279
+          },
+          {
+            "text": " notified",
+            "confidence": 0.9999969005680498,
+            "start_index": 1283
+          },
+          {
+            "text": " me",
+            "confidence": 0.9999916554191085,
+            "start_index": 1292
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999938011552557,
+            "start_index": 1295
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999997615814777,
+            "start_index": 1300
+          },
+          {
+            "text": " am",
+            "confidence": 0.999998927117538,
+            "start_index": 1302
+          },
+          {
+            "text": " no",
+            "confidence": 0.9999905825550351,
+            "start_index": 1305
+          },
+          {
+            "text": " longer",
+            "confidence": 0.9999971389852362,
+            "start_index": 1308
+          },
+          {
+            "text": " subject",
+            "confidence": 0.9999915362117302,
+            "start_index": 1315
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999997615814777,
+            "start_index": 1323
+          },
+          {
+            "text": " backup",
+            "confidence": 0.9999957084838798,
+            "start_index": 1326
+          },
+          {
+            "text": " withholding;",
+            "confidence": 0.9999544248041866,
+            "start_index": 1333
+          },
+          {
+            "text": " and",
+            "confidence": 0.999998927117538,
+            "start_index": 1346
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9986693706958957,
+            "start_index": 1350
+          },
+          {
+            "text": "3.",
+            "confidence": 0.9999964237404413,
+            "start_index": 1351
+          },
+          {
+            "text": " I",
+            "confidence": 0.9999783043793048,
+            "start_index": 1353
+          },
+          {
+            "text": " am",
+            "confidence": 0.9999998807907247,
+            "start_index": 1355
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999902249342363,
+            "start_index": 1358
+          },
+          {
+            "text": " U.S.",
+            "confidence": 0.9999923309513484,
+            "start_index": 1360
+          },
+          {
+            "text": " citizen",
+            "confidence": 1.0,
+            "start_index": 1365
+          },
+          {
+            "text": " or",
+            "confidence": 0.9998141872560404,
+            "start_index": 1373
+          },
+          {
+            "text": " other",
+            "confidence": 0.9999150109971953,
+            "start_index": 1376
+          },
+          {
+            "text": " U.S.",
+            "confidence": 0.9999609818523818,
+            "start_index": 1382
+          },
+          {
+            "text": " person",
+            "confidence": 0.9999574440950153,
+            "start_index": 1387
+          },
+          {
+            "text": " (defined",
+            "confidence": 0.9997180687207138,
+            "start_index": 1394
+          },
+          {
+            "text": " below);",
+            "confidence": 0.9999747284976882,
+            "start_index": 1403
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999994039539004,
+            "start_index": 1411
+          },
+          {
+            "text": "\n",
+            "confidence": 0.999086618985016,
+            "start_index": 1415
+          },
+          {
+            "text": "4.",
+            "confidence": 0.9999899269649154,
+            "start_index": 1416
+          },
+          {
+            "text": " The",
+            "confidence": 0.9999976158197796,
+            "start_index": 1418
+          },
+          {
+            "text": " FATCA",
+            "confidence": 0.9944593538393044,
+            "start_index": 1422
+          },
+          {
+            "text": " code(s)",
+            "confidence": 0.9998907845833951,
+            "start_index": 1428
+          },
+          {
+            "text": " entered",
+            "confidence": 0.9999879600069962,
+            "start_index": 1436
+          },
+          {
+            "text": " on",
+            "confidence": 0.9999977350285647,
+            "start_index": 1444
+          },
+          {
+            "text": " this",
+            "confidence": 0.9999974966112362,
+            "start_index": 1447
+          },
+          {
+            "text": " form",
+            "confidence": 0.9999963045256735,
+            "start_index": 1452
+          },
+          {
+            "text": " (if",
+            "confidence": 0.9999696625732628,
+            "start_index": 1457
+          },
+          {
+            "text": " any)",
+            "confidence": 0.9999989271181065,
+            "start_index": 1461
+          },
+          {
+            "text": " indicating",
+            "confidence": 0.9987625909042114,
+            "start_index": 1466
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999985694905718,
+            "start_index": 1477
+          },
+          {
+            "text": " I",
+            "confidence": 1.0,
+            "start_index": 1482
+          },
+          {
+            "text": " am",
+            "confidence": 0.9999908209686689,
+            "start_index": 1484
+          },
+          {
+            "text": " exempt",
+            "confidence": 0.9999990463265931,
+            "start_index": 1487
+          },
+          {
+            "text": " from",
+            "confidence": 0.9999997615814777,
+            "start_index": 1494
+          },
+          {
+            "text": " FATCA",
+            "confidence": 0.9999880196222937,
+            "start_index": 1499
+          },
+          {
+            "text": " reporting",
+            "confidence": 0.999998927117538,
+            "start_index": 1505
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999846222381212,
+            "start_index": 1515
+          },
+          {
+            "text": " correct.",
+            "confidence": 0.9951075818270155,
+            "start_index": 1518
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9902447656031875,
+            "start_index": 1527
+          },
+          {
+            "text": "Certification",
+            "confidence": 0.999991774644918,
+            "start_index": 1529
+          },
+          {
+            "text": " instructions.",
+            "confidence": 0.9987458134299216,
+            "start_index": 1542
+          },
+          {
+            "text": " You",
+            "confidence": 0.9999899865198352,
+            "start_index": 1556
+          },
+          {
+            "text": " must",
+            "confidence": 0.9999996423722521,
+            "start_index": 1560
+          },
+          {
+            "text": " cross",
+            "confidence": 0.9999917746265009,
+            "start_index": 1565
+          },
+          {
+            "text": " out",
+            "confidence": 0.999936823065897,
+            "start_index": 1571
+          },
+          {
+            "text": " item",
+            "confidence": 0.999088760817368,
+            "start_index": 1575
+          },
+          {
+            "text": " 2",
+            "confidence": 0.9999963045305336,
+            "start_index": 1580
+          },
+          {
+            "text": " above",
+            "confidence": 0.9999998807907247,
+            "start_index": 1582
+          },
+          {
+            "text": " if",
+            "confidence": 0.9999812844913009,
+            "start_index": 1588
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999628080845125,
+            "start_index": 1591
+          },
+          {
+            "text": " have",
+            "confidence": 0.9999940395710211,
+            "start_index": 1595
+          },
+          {
+            "text": " been",
+            "confidence": 0.9999971389852362,
+            "start_index": 1600
+          },
+          {
+            "text": " notified",
+            "confidence": 0.9999998807907247,
+            "start_index": 1605
+          },
+          {
+            "text": " by",
+            "confidence": 0.9999984502816872,
+            "start_index": 1614
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999991655356624,
+            "start_index": 1617
+          },
+          {
+            "text": " IRS",
+            "confidence": 0.9999829533624089,
+            "start_index": 1621
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999967813595916,
+            "start_index": 1625
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999898673126559,
+            "start_index": 1630
+          },
+          {
+            "text": " are",
+            "confidence": 0.9999839070045525,
+            "start_index": 1634
+          },
+          {
+            "text": " currently",
+            "confidence": 0.9999998807907247,
+            "start_index": 1638
+          },
+          {
+            "text": " subject",
+            "confidence": 0.9999992847447459,
+            "start_index": 1648
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999997615814777,
+            "start_index": 1656
+          },
+          {
+            "text": " backup",
+            "confidence": 0.9999992847447459,
+            "start_index": 1659
+          },
+          {
+            "text": " withholding",
+            "confidence": 0.999945644384598,
+            "start_index": 1666
+          },
+          {
+            "text": " because",
+            "confidence": 0.9999736554414602,
+            "start_index": 1678
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999940395710211,
+            "start_index": 1686
+          },
+          {
+            "text": " have",
+            "confidence": 0.9999679337281997,
+            "start_index": 1690
+          },
+          {
+            "text": " failed",
+            "confidence": 0.9998970137814459,
+            "start_index": 1695
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999998807907247,
+            "start_index": 1702
+          },
+          {
+            "text": " report",
+            "confidence": 0.9999952316511552,
+            "start_index": 1705
+          },
+          {
+            "text": " all",
+            "confidence": 0.9999995231630692,
+            "start_index": 1712
+          },
+          {
+            "text": " interest",
+            "confidence": 0.9998097781709263,
+            "start_index": 1716
+          },
+          {
+            "text": " and",
+            "confidence": 0.999997854237364,
+            "start_index": 1725
+          },
+          {
+            "text": " dividends",
+            "confidence": 0.9999496376346358,
+            "start_index": 1729
+          },
+          {
+            "text": " on",
+            "confidence": 0.999837067447481,
+            "start_index": 1739
+          },
+          {
+            "text": " your",
+            "confidence": 0.9998991591117187,
+            "start_index": 1742
+          },
+          {
+            "text": " tax",
+            "confidence": 0.9999909401759619,
+            "start_index": 1747
+          },
+          {
+            "text": " return.",
+            "confidence": 0.9999988675134279,
+            "start_index": 1751
+          },
+          {
+            "text": " For",
+            "confidence": 0.9999917746265009,
+            "start_index": 1759
+          },
+          {
+            "text": " real",
+            "confidence": 0.9999799732399826,
+            "start_index": 1763
+          },
+          {
+            "text": " estate",
+            "confidence": 0.9999996423722521,
+            "start_index": 1768
+          },
+          {
+            "text": " transactions,",
+            "confidence": 0.9999998807907318,
+            "start_index": 1775
+          },
+          {
+            "text": " item",
+            "confidence": 0.9999803308534772,
+            "start_index": 1789
+          },
+          {
+            "text": " 2",
+            "confidence": 0.9999998211860994,
+            "start_index": 1794
+          },
+          {
+            "text": " does",
+            "confidence": 0.9999992847447459,
+            "start_index": 1796
+          },
+          {
+            "text": " not",
+            "confidence": 0.9999998807907247,
+            "start_index": 1801
+          },
+          {
+            "text": " apply.",
+            "confidence": 0.9999995827676589,
+            "start_index": 1805
+          },
+          {
+            "text": " For",
+            "confidence": 0.9999959469005546,
+            "start_index": 1812
+          },
+          {
+            "text": " mortgage",
+            "confidence": 0.9999145342443286,
+            "start_index": 1816
+          },
+          {
+            "text": " interest",
+            "confidence": 0.9999899865198352,
+            "start_index": 1825
+          },
+          {
+            "text": " paid,",
+            "confidence": 0.9999775893816024,
+            "start_index": 1834
+          },
+          {
+            "text": " acquisition",
+            "confidence": 0.9999994039539004,
+            "start_index": 1840
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999997615814777,
+            "start_index": 1852
+          },
+          {
+            "text": " abandonment",
+            "confidence": 0.9999934435319415,
+            "start_index": 1855
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999963045256735,
+            "start_index": 1867
+          },
+          {
+            "text": " secured",
+            "confidence": 0.9999991655356624,
+            "start_index": 1870
+          },
+          {
+            "text": " property,",
+            "confidence": 0.9999986887002699,
+            "start_index": 1878
+          },
+          {
+            "text": " cancellation",
+            "confidence": 0.9999505305908489,
+            "start_index": 1888
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999983310727032,
+            "start_index": 1901
+          },
+          {
+            "text": " debt,",
+            "confidence": 0.9999985694907423,
+            "start_index": 1904
+          },
+          {
+            "text": " contributions",
+            "confidence": 0.9999827149515604,
+            "start_index": 1910
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999995231630692,
+            "start_index": 1924
+          },
+          {
+            "text": " an",
+            "confidence": 0.9999986886995842,
+            "start_index": 1927
+          },
+          {
+            "text": " individual",
+            "confidence": 0.999660845426131,
+            "start_index": 1930
+          },
+          {
+            "text": " retirement",
+            "confidence": 0.9999876023871354,
+            "start_index": 1941
+          },
+          {
+            "text": " arrangement",
+            "confidence": 0.9999965429424904,
+            "start_index": 1952
+          },
+          {
+            "text": " (IRA),",
+            "confidence": 0.9987307614133948,
+            "start_index": 1964
+          },
+          {
+            "text": " and,",
+            "confidence": 0.9998269529174861,
+            "start_index": 1971
+          },
+          {
+            "text": " generally,",
+            "confidence": 0.9999982714684439,
+            "start_index": 1976
+          },
+          {
+            "text": " payments",
+            "confidence": 0.999998927117538,
+            "start_index": 1987
+          },
+          {
+            "text": " other",
+            "confidence": 0.9999938011552557,
+            "start_index": 1996
+          },
+          {
+            "text": " than",
+            "confidence": 0.9999998807907247,
+            "start_index": 2002
+          },
+          {
+            "text": " interest",
+            "confidence": 0.9999823573372132,
+            "start_index": 2007
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999991655356624,
+            "start_index": 2016
+          },
+          {
+            "text": " dividends,",
+            "confidence": 0.9999885958638958,
+            "start_index": 2020
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999959469005546,
+            "start_index": 2031
+          },
+          {
+            "text": " are",
+            "confidence": 0.9999979734461775,
+            "start_index": 2035
+          },
+          {
+            "text": " not",
+            "confidence": 0.9999898673126559,
+            "start_index": 2039
+          },
+          {
+            "text": " required",
+            "confidence": 0.9999991655356624,
+            "start_index": 2043
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999998807907247,
+            "start_index": 2052
+          },
+          {
+            "text": " sign",
+            "confidence": 0.9999988079084972,
+            "start_index": 2055
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999986886995842,
+            "start_index": 2060
+          },
+          {
+            "text": " certification,",
+            "confidence": 0.9999960065047322,
+            "start_index": 2064
+          },
+          {
+            "text": " but",
+            "confidence": 0.9999994039539004,
+            "start_index": 2079
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999864103261001,
+            "start_index": 2083
+          },
+          {
+            "text": " must",
+            "confidence": 0.9999997615814777,
+            "start_index": 2087
+          },
+          {
+            "text": " provide",
+            "confidence": 0.9999973774024795,
+            "start_index": 2092
+          },
+          {
+            "text": " your",
+            "confidence": 0.9999955892755635,
+            "start_index": 2100
+          },
+          {
+            "text": " correct",
+            "confidence": 0.9999994039539004,
+            "start_index": 2105
+          },
+          {
+            "text": " TIN.",
+            "confidence": 0.9999928078024901,
+            "start_index": 2113
+          },
+          {
+            "text": " See",
+            "confidence": 0.9999983310727032,
+            "start_index": 2118
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999992847447459,
+            "start_index": 2122
+          },
+          {
+            "text": " instructions",
+            "confidence": 0.974011634759347,
+            "start_index": 2126
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999996423722521,
+            "start_index": 2139
+          },
+          {
+            "text": " Part",
+            "confidence": 0.9999954700677164,
+            "start_index": 2143
+          },
+          {
+            "text": " II,",
+            "confidence": 0.9999556562207141,
+            "start_index": 2148
+          },
+          {
+            "text": " later.",
+            "confidence": 0.999990224967603,
+            "start_index": 2152
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999819997211749,
+            "start_index": 2159
+          },
+          {
+            "text": "Sign",
+            "confidence": 0.7413269334693768,
+            "start_index": 2161
+          },
+          {
+            "text": " Here",
+            "confidence": 0.8604810787811565,
+            "start_index": 2165
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.8931842676845207,
+            "start_index": 2170
+          },
+          {
+            "text": "Signature",
+            "confidence": 0.9974870806589545,
+            "start_index": 2172
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999909401759619,
+            "start_index": 2181
+          },
+          {
+            "text": " U.S.",
+            "confidence": 0.8743343604861437,
+            "start_index": 2184
+          },
+          {
+            "text": " person",
+            "confidence": 0.9999036881743856,
+            "start_index": 2189
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.990903672429204,
+            "start_index": 2196
+          },
+          {
+            "text": "Date",
+            "confidence": 0.9996053346448304,
+            "start_index": 2198
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9993609700046409,
+            "start_index": 2202
+          },
+          {
+            "text": "#",
+            "confidence": 0.9989506300575649,
+            "start_index": 2204
+          },
+          {
+            "text": " General",
+            "confidence": 0.9999434979901243,
+            "start_index": 2205
+          },
+          {
+            "text": " Instructions",
+            "confidence": 0.9999980926550052,
+            "start_index": 2213
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999983310727032,
+            "start_index": 2226
+          },
+          {
+            "text": "Section",
+            "confidence": 0.999921566441278,
+            "start_index": 2228
+          },
+          {
+            "text": " references",
+            "confidence": 0.9999899865198352,
+            "start_index": 2235
+          },
+          {
+            "text": " are",
+            "confidence": 0.9999953508594287,
+            "start_index": 2246
+          },
+          {
+            "text": " to",
+            "confidence": 0.999991059383269,
+            "start_index": 2250
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999898673126559,
+            "start_index": 2253
+          },
+          {
+            "text": " Internal",
+            "confidence": 0.9999986886995842,
+            "start_index": 2257
+          },
+          {
+            "text": " Revenue",
+            "confidence": 0.9999998807907247,
+            "start_index": 2266
+          },
+          {
+            "text": " Code",
+            "confidence": 0.9999997615814777,
+            "start_index": 2274
+          },
+          {
+            "text": " unless",
+            "confidence": 0.9999984502816872,
+            "start_index": 2279
+          },
+          {
+            "text": " otherwise",
+            "confidence": 0.9999998807907247,
+            "start_index": 2286
+          },
+          {
+            "text": " noted.",
+            "confidence": 0.9999348584073687,
+            "start_index": 2296
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9998710321894647,
+            "start_index": 2303
+          },
+          {
+            "text": "Future",
+            "confidence": 0.9999916554191085,
+            "start_index": 2305
+          },
+          {
+            "text": " developments.",
+            "confidence": 0.999984622259494,
+            "start_index": 2311
+          },
+          {
+            "text": " For",
+            "confidence": 0.999997854237364,
+            "start_index": 2325
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999991655356624,
+            "start_index": 2329
+          },
+          {
+            "text": " latest",
+            "confidence": 0.9999997615814777,
+            "start_index": 2333
+          },
+          {
+            "text": " information",
+            "confidence": 0.999995112442896,
+            "start_index": 2340
+          },
+          {
+            "text": " about",
+            "confidence": 0.9999995231630692,
+            "start_index": 2352
+          },
+          {
+            "text": " developments",
+            "confidence": 0.9999990463265931,
+            "start_index": 2358
+          },
+          {
+            "text": " related",
+            "confidence": 0.9999926090786457,
+            "start_index": 2371
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999997615814777,
+            "start_index": 2379
+          },
+          {
+            "text": " Form",
+            "confidence": 0.9999965429424904,
+            "start_index": 2382
+          },
+          {
+            "text": " W-9",
+            "confidence": 0.9999978939736336,
+            "start_index": 2387
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999995231630692,
+            "start_index": 2391
+          },
+          {
+            "text": " its",
+            "confidence": 0.9999986886995842,
+            "start_index": 2395
+          },
+          {
+            "text": " instructions,",
+            "confidence": 0.999996483343752,
+            "start_index": 2399
+          },
+          {
+            "text": " such",
+            "confidence": 0.9999921322487634,
+            "start_index": 2413
+          },
+          {
+            "text": " as",
+            "confidence": 0.9999973774024795,
+            "start_index": 2418
+          },
+          {
+            "text": " legislation",
+            "confidence": 0.9999533913417585,
+            "start_index": 2421
+          },
+          {
+            "text": " enacted",
+            "confidence": 0.9999115545331495,
+            "start_index": 2433
+          },
+          {
+            "text": " after",
+            "confidence": 0.9997328041863884,
+            "start_index": 2441
+          },
+          {
+            "text": " they",
+            "confidence": 0.9999806884689187,
+            "start_index": 2447
+          },
+          {
+            "text": " were",
+            "confidence": 0.9999997615814777,
+            "start_index": 2452
+          },
+          {
+            "text": " published,",
+            "confidence": 0.9999973774031048,
+            "start_index": 2457
+          },
+          {
+            "text": " go",
+            "confidence": 0.9999964237340748,
+            "start_index": 2468
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999916554191085,
+            "start_index": 2471
+          },
+          {
+            "text": " www.irs.gov/FormW9.",
+            "confidence": 0.9997172103525183,
+            "start_index": 2474
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999305058146426,
+            "start_index": 2494
+          },
+          {
+            "text": "#",
+            "confidence": 0.9994843282619341,
+            "start_index": 2496
+          },
+          {
+            "text": " What's",
+            "confidence": 0.99967780926335,
+            "start_index": 2497
+          },
+          {
+            "text": " New",
+            "confidence": 0.9999959469005546,
+            "start_index": 2504
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999992847447459,
+            "start_index": 2508
+          },
+          {
+            "text": "Line",
+            "confidence": 0.9999327704835214,
+            "start_index": 2510
+          },
+          {
+            "text": " 3a",
+            "confidence": 0.9999833508898959,
+            "start_index": 2514
+          },
+          {
+            "text": " has",
+            "confidence": 0.9999992847447459,
+            "start_index": 2517
+          },
+          {
+            "text": " been",
+            "confidence": 0.9999990463265931,
+            "start_index": 2521
+          },
+          {
+            "text": " modified",
+            "confidence": 0.9999982118638471,
+            "start_index": 2526
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999977350285647,
+            "start_index": 2535
+          },
+          {
+            "text": " clarify",
+            "confidence": 0.9999653112986742,
+            "start_index": 2538
+          },
+          {
+            "text": " how",
+            "confidence": 0.9999990463265931,
+            "start_index": 2546
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999709137801864,
+            "start_index": 2550
+          },
+          {
+            "text": " disregarded",
+            "confidence": 0.9998448835809537,
+            "start_index": 2552
+          },
+          {
+            "text": " entity",
+            "confidence": 0.9999984502816872,
+            "start_index": 2564
+          },
+          {
+            "text": " completes",
+            "confidence": 0.9997516295396873,
+            "start_index": 2571
+          },
+          {
+            "text": " this",
+            "confidence": 0.9999958276922101,
+            "start_index": 2581
+          },
+          {
+            "text": " line.",
+            "confidence": 0.9999985098861277,
+            "start_index": 2586
+          },
+          {
+            "text": " An",
+            "confidence": 0.9999790196052284,
+            "start_index": 2592
+          },
+          {
+            "text": " LLC",
+            "confidence": 0.9999483850412226,
+            "start_index": 2595
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999911785905904,
+            "start_index": 2599
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999996423722521,
+            "start_index": 2604
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999964237340748,
+            "start_index": 2607
+          },
+          {
+            "text": " disregarded",
+            "confidence": 0.9999271703796975,
+            "start_index": 2609
+          },
+          {
+            "text": " entity",
+            "confidence": 0.9999992847447459,
+            "start_index": 2621
+          },
+          {
+            "text": " should",
+            "confidence": 0.9999960661089133,
+            "start_index": 2628
+          },
+          {
+            "text": " check",
+            "confidence": 0.9992394275930566,
+            "start_index": 2635
+          },
+          {
+            "text": " the",
+            "confidence": 0.999997854237364,
+            "start_index": 2641
+          },
+          {
+            "text": " appropriate",
+            "confidence": 0.9998824734521726,
+            "start_index": 2645
+          },
+          {
+            "text": " box",
+            "confidence": 0.9999992847447459,
+            "start_index": 2657
+          },
+          {
+            "text": " for",
+            "confidence": 1.0,
+            "start_index": 2661
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999977350285647,
+            "start_index": 2665
+          },
+          {
+            "text": " tax",
+            "confidence": 0.999995112442896,
+            "start_index": 2669
+          },
+          {
+            "text": " classification",
+            "confidence": 0.9999958276922101,
+            "start_index": 2673
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999927282861518,
+            "start_index": 2688
+          },
+          {
+            "text": " its",
+            "confidence": 0.9999984502816872,
+            "start_index": 2691
+          },
+          {
+            "text": " owner.",
+            "confidence": 0.9999803310354578,
+            "start_index": 2695
+          },
+          {
+            "text": " Otherwise,",
+            "confidence": 0.9999995827676909,
+            "start_index": 2702
+          },
+          {
+            "text": " it",
+            "confidence": 0.9999994039539004,
+            "start_index": 2713
+          },
+          {
+            "text": " should",
+            "confidence": 0.9999947548186582,
+            "start_index": 2716
+          },
+          {
+            "text": " check",
+            "confidence": 0.9999681721318864,
+            "start_index": 2723
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999997615814777,
+            "start_index": 2729
+          },
+          {
+            "text": " \"LLC\"",
+            "confidence": 0.9996508335453224,
+            "start_index": 2733
+          },
+          {
+            "text": " box",
+            "confidence": 0.9999995231630692,
+            "start_index": 2739
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999985694905718,
+            "start_index": 2743
+          },
+          {
+            "text": " enter",
+            "confidence": 0.9999995231630692,
+            "start_index": 2747
+          },
+          {
+            "text": " its",
+            "confidence": 0.999991059383269,
+            "start_index": 2753
+          },
+          {
+            "text": " appropriate",
+            "confidence": 0.9999996423722521,
+            "start_index": 2757
+          },
+          {
+            "text": " tax",
+            "confidence": 0.9999991655356624,
+            "start_index": 2769
+          },
+          {
+            "text": " classification.",
+            "confidence": 0.9999374804809029,
+            "start_index": 2773
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9998767527862662,
+            "start_index": 2789
+          },
+          {
+            "text": "New",
+            "confidence": 0.9931891910291129,
+            "start_index": 2791
+          },
+          {
+            "text": " line",
+            "confidence": 0.9999737746439785,
+            "start_index": 2794
+          },
+          {
+            "text": " 3b",
+            "confidence": 0.9999991655357476,
+            "start_index": 2799
+          },
+          {
+            "text": " has",
+            "confidence": 0.9999983310727032,
+            "start_index": 2802
+          },
+          {
+            "text": " been",
+            "confidence": 0.9999997615814777,
+            "start_index": 2806
+          },
+          {
+            "text": " added",
+            "confidence": 0.9999970197767496,
+            "start_index": 2811
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999997615814777,
+            "start_index": 2817
+          },
+          {
+            "text": " this",
+            "confidence": 0.9999997615814777,
+            "start_index": 2820
+          },
+          {
+            "text": " form.",
+            "confidence": 0.9999997019768632,
+            "start_index": 2825
+          },
+          {
+            "text": " A",
+            "confidence": 0.9999998807907247,
+            "start_index": 2831
+          },
+          {
+            "text": " flow-through",
+            "confidence": 0.9998881969699274,
+            "start_index": 2833
+          },
+          {
+            "text": " entity",
+            "confidence": 0.9999985694905718,
+            "start_index": 2846
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999996423722521,
+            "start_index": 2853
+          },
+          {
+            "text": " required",
+            "confidence": 0.9999995231630692,
+            "start_index": 2856
+          },
+          {
+            "text": " to",
+            "confidence": 1.0,
+            "start_index": 2865
+          },
+          {
+            "text": " complete",
+            "confidence": 0.9999793772183819,
+            "start_index": 2868
+          },
+          {
+            "text": " this",
+            "confidence": 0.9999998807907247,
+            "start_index": 2877
+          },
+          {
+            "text": " line",
+            "confidence": 0.999998927117538,
+            "start_index": 2882
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999982118638471,
+            "start_index": 2887
+          },
+          {
+            "text": " indicate",
+            "confidence": 0.999991059383269,
+            "start_index": 2890
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999918938339075,
+            "start_index": 2899
+          },
+          {
+            "text": " it",
+            "confidence": 0.9999992847447459,
+            "start_index": 2904
+          },
+          {
+            "text": " has",
+            "confidence": 0.9999961853172863,
+            "start_index": 2907
+          },
+          {
+            "text": " direct",
+            "confidence": 0.9999933243243502,
+            "start_index": 2911
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999990463265931,
+            "start_index": 2918
+          },
+          {
+            "text": " indirect",
+            "confidence": 0.9999990463265931,
+            "start_index": 2921
+          },
+          {
+            "text": " foreign",
+            "confidence": 0.9999988079084972,
+            "start_index": 2930
+          },
+          {
+            "text": " partners,",
+            "confidence": 0.9999978542380461,
+            "start_index": 2938
+          },
+          {
+            "text": " owners,",
+            "confidence": 0.9999939799818252,
+            "start_index": 2948
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999893904859,
+            "start_index": 2956
+          },
+          {
+            "text": " beneficiaries",
+            "confidence": 0.9999519609634618,
+            "start_index": 2959
+          },
+          {
+            "text": " when",
+            "confidence": 0.999994397195003,
+            "start_index": 2973
+          },
+          {
+            "text": " it",
+            "confidence": 0.9999985694905718,
+            "start_index": 2978
+          },
+          {
+            "text": " provides",
+            "confidence": 0.9999881984200047,
+            "start_index": 2981
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999794964234012,
+            "start_index": 2990
+          },
+          {
+            "text": " Form",
+            "confidence": 0.9999986886995842,
+            "start_index": 2994
+          },
+          {
+            "text": " W-9",
+            "confidence": 0.9999995231632965,
+            "start_index": 2999
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999893904859,
+            "start_index": 3003
+          },
+          {
+            "text": " another",
+            "confidence": 0.9999990463265931,
+            "start_index": 3006
+          },
+          {
+            "text": " flow-through",
+            "confidence": 0.9999796753014412,
+            "start_index": 3014
+          },
+          {
+            "text": " entity",
+            "confidence": 0.9999996423722521,
+            "start_index": 3027
+          },
+          {
+            "text": " in",
+            "confidence": 0.999998927117538,
+            "start_index": 3034
+          },
+          {
+            "text": " which",
+            "confidence": 0.9999994039539004,
+            "start_index": 3037
+          },
+          {
+            "text": " it",
+            "confidence": 0.9999991655356624,
+            "start_index": 3043
+          },
+          {
+            "text": " has",
+            "confidence": 0.9999955892755635,
+            "start_index": 3046
+          },
+          {
+            "text": " an",
+            "confidence": 0.9998505338979452,
+            "start_index": 3050
+          },
+          {
+            "text": " ownership",
+            "confidence": 0.9999870063564401,
+            "start_index": 3053
+          },
+          {
+            "text": " interest.",
+            "confidence": 0.9999986886998684,
+            "start_index": 3063
+          },
+          {
+            "text": " This",
+            "confidence": 0.9999976158197796,
+            "start_index": 3073
+          },
+          {
+            "text": " change",
+            "confidence": 0.9999976158197796,
+            "start_index": 3078
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999996423722521,
+            "start_index": 3085
+          },
+          {
+            "text": " intended",
+            "confidence": 0.9999979734461775,
+            "start_index": 3088
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999939203633587,
+            "start_index": 3097
+          },
+          {
+            "text": " provide",
+            "confidence": 0.9999985694905718,
+            "start_index": 3100
+          },
+          {
+            "text": " a",
+            "confidence": 1.0,
+            "start_index": 3108
+          },
+          {
+            "text": " flow-through",
+            "confidence": 0.9999890924690655,
+            "start_index": 3110
+          },
+          {
+            "text": " entity",
+            "confidence": 0.9999984502816872,
+            "start_index": 3123
+          },
+          {
+            "text": " with",
+            "confidence": 0.999998927117538,
+            "start_index": 3130
+          },
+          {
+            "text": " information",
+            "confidence": 0.9999684105356298,
+            "start_index": 3135
+          },
+          {
+            "text": " regarding",
+            "confidence": 0.9999998807907247,
+            "start_index": 3147
+          },
+          {
+            "text": " the",
+            "confidence": 1.0,
+            "start_index": 3157
+          },
+          {
+            "text": " status",
+            "confidence": 0.9999977350285647,
+            "start_index": 3161
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999991655356624,
+            "start_index": 3168
+          },
+          {
+            "text": " its",
+            "confidence": 0.9999921322487634,
+            "start_index": 3171
+          },
+          {
+            "text": " indirect",
+            "confidence": 0.999998927117538,
+            "start_index": 3175
+          },
+          {
+            "text": " foreign",
+            "confidence": 0.9999991655356624,
+            "start_index": 3184
+          },
+          {
+            "text": " partners,",
+            "confidence": 0.999997913841769,
+            "start_index": 3192
+          },
+          {
+            "text": " owners,",
+            "confidence": 0.9999757417804883,
+            "start_index": 3202
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999439747713518,
+            "start_index": 3210
+          },
+          {
+            "text": " beneficiaries,",
+            "confidence": 0.9999508286612168,
+            "start_index": 3213
+          },
+          {
+            "text": " so",
+            "confidence": 0.9999719866022398,
+            "start_index": 3228
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999998807907247,
+            "start_index": 3231
+          },
+          {
+            "text": " it",
+            "confidence": 0.9999974966112362,
+            "start_index": 3236
+          },
+          {
+            "text": " can",
+            "confidence": 0.9999977350285647,
+            "start_index": 3239
+          },
+          {
+            "text": " satisfy",
+            "confidence": 0.9999827149515604,
+            "start_index": 3243
+          },
+          {
+            "text": " any",
+            "confidence": 0.9999825957461574,
+            "start_index": 3251
+          },
+          {
+            "text": " applicable",
+            "confidence": 0.9999977350285647,
+            "start_index": 3255
+          },
+          {
+            "text": " reporting",
+            "confidence": 0.9999986886995842,
+            "start_index": 3266
+          },
+          {
+            "text": " requirements.",
+            "confidence": 0.9999991655358471,
+            "start_index": 3276
+          },
+          {
+            "text": " For",
+            "confidence": 0.9999977350285647,
+            "start_index": 3290
+          },
+          {
+            "text": " example,",
+            "confidence": 0.9999992251402308,
+            "start_index": 3294
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999960661089133,
+            "start_index": 3303
+          },
+          {
+            "text": " partnership",
+            "confidence": 0.9999995231630692,
+            "start_index": 3305
+          },
+          {
+            "text": " that",
+            "confidence": 0.9999550601190241,
+            "start_index": 3317
+          },
+          {
+            "text": " has",
+            "confidence": 0.9999988079084972,
+            "start_index": 3322
+          },
+          {
+            "text": " any",
+            "confidence": 0.9999866487378297,
+            "start_index": 3326
+          },
+          {
+            "text": " indirect",
+            "confidence": 0.9999997615814777,
+            "start_index": 3330
+          },
+          {
+            "text": " foreign",
+            "confidence": 0.9999942779868433,
+            "start_index": 3339
+          },
+          {
+            "text": " partners",
+            "confidence": 0.9999964237340748,
+            "start_index": 3347
+          },
+          {
+            "text": " may",
+            "confidence": 0.9999986886995842,
+            "start_index": 3356
+          },
+          {
+            "text": " be",
+            "confidence": 0.9999941587791524,
+            "start_index": 3360
+          },
+          {
+            "text": " required",
+            "confidence": 0.9999953508594287,
+            "start_index": 3363
+          },
+          {
+            "text": " to",
+            "confidence": 0.9999995231630692,
+            "start_index": 3372
+          },
+          {
+            "text": " complete",
+            "confidence": 0.9999895096921129,
+            "start_index": 3375
+          },
+          {
+            "text": " Schedules",
+            "confidence": 0.999972741596582,
+            "start_index": 3384
+          },
+          {
+            "text": " K-2",
+            "confidence": 0.999994079326172,
+            "start_index": 3394
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999997615814777,
+            "start_index": 3398
+          },
+          {
+            "text": " K-3.",
+            "confidence": 0.999936411368005,
+            "start_index": 3402
+          },
+          {
+            "text": " See",
+            "confidence": 0.9999939203633587,
+            "start_index": 3407
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999822381318528,
+            "start_index": 3411
+          },
+          {
+            "text": " Partnership",
+            "confidence": 0.9999997615814777,
+            "start_index": 3415
+          },
+          {
+            "text": " Instructions",
+            "confidence": 0.9989116129528667,
+            "start_index": 3427
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999982118638471,
+            "start_index": 3440
+          },
+          {
+            "text": " Schedules",
+            "confidence": 0.9999951124485803,
+            "start_index": 3444
+          },
+          {
+            "text": " K-2",
+            "confidence": 0.999998768173707,
+            "start_index": 3454
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999991655356624,
+            "start_index": 3458
+          },
+          {
+            "text": " K-3",
+            "confidence": 0.9999996026358942,
+            "start_index": 3462
+          },
+          {
+            "text": " (Form",
+            "confidence": 0.9999555968697237,
+            "start_index": 3466
+          },
+          {
+            "text": " 1065).",
+            "confidence": 0.9993025627783876,
+            "start_index": 3472
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.99998879445232,
+            "start_index": 3479
+          },
+          {
+            "text": "#",
+            "confidence": 0.9997333999282724,
+            "start_index": 3481
+          },
+          {
+            "text": " Purpose",
+            "confidence": 0.9999710329823779,
+            "start_index": 3482
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999983310727032,
+            "start_index": 3490
+          },
+          {
+            "text": " Form",
+            "confidence": 0.9999963045256735,
+            "start_index": 3493
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999995231630692,
+            "start_index": 3498
+          },
+          {
+            "text": "An",
+            "confidence": 0.9999805692637573,
+            "start_index": 3500
+          },
+          {
+            "text": " individual",
+            "confidence": 0.9999969005680498,
+            "start_index": 3502
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999969005680498,
+            "start_index": 3513
+          },
+          {
+            "text": " entity",
+            "confidence": 0.9999870063564401,
+            "start_index": 3516
+          },
+          {
+            "text": " (Form",
+            "confidence": 0.9999442741586866,
+            "start_index": 3523
+          },
+          {
+            "text": " W-9",
+            "confidence": 0.999999602635913,
+            "start_index": 3529
+          },
+          {
+            "text": " requester)",
+            "confidence": 0.9998597631903672,
+            "start_index": 3533
+          },
+          {
+            "text": " who",
+            "confidence": 0.999998927117538,
+            "start_index": 3544
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999980926550052,
+            "start_index": 3548
+          },
+          {
+            "text": " required",
+            "confidence": 0.9999994039539004,
+            "start_index": 3551
+          },
+          {
+            "text": " to",
+            "confidence": 0.999998927117538,
+            "start_index": 3560
+          },
+          {
+            "text": " file",
+            "confidence": 0.9999847414437658,
+            "start_index": 3563
+          },
+          {
+            "text": " an",
+            "confidence": 0.9999883176260755,
+            "start_index": 3568
+          },
+          {
+            "text": " information",
+            "confidence": 0.9999930859092101,
+            "start_index": 3571
+          },
+          {
+            "text": " return",
+            "confidence": 0.9999920130413283,
+            "start_index": 3583
+          },
+          {
+            "text": " with",
+            "confidence": 0.999993205116773,
+            "start_index": 3590
+          },
+          {
+            "text": " the",
+            "confidence": 1.0,
+            "start_index": 3595
+          },
+          {
+            "text": " IRS",
+            "confidence": 0.9999998807907247,
+            "start_index": 3599
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999935627400018,
+            "start_index": 3603
+          },
+          {
+            "text": " giving",
+            "confidence": 0.9999953508594287,
+            "start_index": 3606
+          },
+          {
+            "text": " you",
+            "confidence": 0.9999980926550052,
+            "start_index": 3613
+          },
+          {
+            "text": " this",
+            "confidence": 0.9999992847447459,
+            "start_index": 3617
+          },
+          {
+            "text": " form",
+            "confidence": 0.9999996423722521,
+            "start_index": 3622
+          },
+          {
+            "text": " because",
+            "confidence": 0.9999967813595916,
+            "start_index": 3627
+          },
+          {
+            "text": " they",
+            "confidence": 0.9999760395072578,
+            "start_index": 3635
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.999717315487543,
+            "start_index": 3640
+          }
+        ]
+      },
+      "blocks": []
+    }
+  ],
+  "model": "mistral-ocr-3-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 186076
+  },
+  "document_annotation": "{\"document_type\": \"Tax Form\", \"primary_entities\": [\"Internal Revenue Service\", \"Department of the Treasury\"], \"reporting_period\": null, \"key_dates\": [\"(Rev. March 2024)\"], \"key_amounts\": [{\"label\": \"Form W-9 Revision Date\", \"value\": \"March 2024\"}], \"signatories\": [{\"name\": \"U.S. person (signatory)\", \"title\": null}], \"contains_table\": true, \"contains_signature_block\": true, \"contains_diagram_or_chart\": false}"
+}

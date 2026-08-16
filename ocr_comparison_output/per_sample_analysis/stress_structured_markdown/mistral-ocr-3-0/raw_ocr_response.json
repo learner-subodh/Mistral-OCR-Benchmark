@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Executive Summary - 2026\n\n## Overview\n* **Growth:** 12% YoY\n* **Risk:** Currency volatility in EMEA\n\n| Region | Growth | Status |\n|--------|--------|--------|\n| Americas | 15% | Green |\n| APAC | 8% | Yellow |\n",
+      "images": [],
+      "dimensions": null,
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-3-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 211
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [\"Executive Summary - 2026\"], \"reporting_period\": \"2026\", \"key_dates\": [], \"key_amounts\": [{\"label\": \"Growth\", \"value\": \"12% YoY\"}, {\"label\": \"Currency Volatility Risk (EMEA)\", \"value\": \"High\"}], \"signatories\": [], \"contains_table\": true, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

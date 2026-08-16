@@ -1,0 +1,86 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "## T+1 Securities Settlement Workflow\n\n![img-0.jpeg](img-0.jpeg)",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 48,
+          "top_left_y": 351,
+          "bottom_right_x": 2042,
+          "bottom_right_y": 780,
+          "image_base64": null,
+          "image_annotation": "{\"image_type\": \"table image\", \"short_description\": \"Diagram illustrating the post-trade processing workflow with sequential stages: Trade Executed, Trade Affirmation, Clearing (CCP), Settlement (DvP), Custody Update, and GL Reconciliation.\"}"
+        }
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 880,
+        "width": 2179
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9991840214364224,
+        "minimum_page_confidence_score": 0.996176731964044,
+        "word_confidence_scores": [
+          {
+            "text": "##",
+            "confidence": 0.9998414767838852,
+            "start_index": 0
+          },
+          {
+            "text": " T+1",
+            "confidence": 0.996176731964044,
+            "start_index": 2
+          },
+          {
+            "text": " Securities",
+            "confidence": 0.999912984788169,
+            "start_index": 6
+          },
+          {
+            "text": " Settlement",
+            "confidence": 0.9999994039539004,
+            "start_index": 17
+          },
+          {
+            "text": " Workflow",
+            "confidence": 0.9999895096921129,
+            "start_index": 28
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 833,
+          "top_left_y": 134,
+          "bottom_right_x": 1597,
+          "bottom_right_y": 174,
+          "content": "## T+1 Securities Settlement Workflow",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 48,
+          "top_left_y": 351,
+          "bottom_right_x": 2042,
+          "bottom_right_y": 780,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "image_id": "img-0.jpeg",
+          "confidence_scores": null,
+          "type": "image"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 56837
+  },
+  "document_annotation": "{\"document_type\": \"Workflow Diagram\", \"primary_entities\": [\"Trade Execution\", \"Trade Affirmation\", \"Clearing (CCP)\", \"Settlement (DvP)\", \"Custody Update\", \"GL Reconciliation\"], \"reporting_period\": null, \"key_dates\": [], \"key_amounts\": [], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": true}"
+}

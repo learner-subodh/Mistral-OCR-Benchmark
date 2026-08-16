@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Q4 Performance Summary\n\n• Revenue: \\+12% YoY\n\n• Key Risk: FX Headwinds in EMEA\n\n• Headcount: 1\\,240 FTE",
+      "images": [],
+      "dimensions": null,
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-4",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 28321
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [], \"reporting_period\": \"Q4\", \"key_dates\": [], \"key_amounts\": [{\"label\": \"Revenue Growth (YoY)\", \"value\": \"+12%\"}], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

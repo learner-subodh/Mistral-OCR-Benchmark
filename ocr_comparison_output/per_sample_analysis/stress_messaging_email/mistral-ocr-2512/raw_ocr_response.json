@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Internal: Q4 Preliminary Results\n\n**From:** controller@example.com\n**To:** finance-team@example.com\n**Date:** 1970-01-01\n\n---\n\nHi Team,\n\nPlease find the Q4 numbers attached. The revenue in APAC is slightly higher than projected ($1.2M vs $1.1M).\n\nBest,\nFinance Controller",
+      "images": [],
+      "dimensions": null,
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 340
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [\"Finance Controller\"], \"reporting_period\": \"Q4\", \"key_dates\": [\"1970-01-01\"], \"key_amounts\": [{\"label\": \"Q4 Revenue (APAC)\", \"value\": \"$1.2M\"}, {\"label\": \"Q4 Revenue Projection (APAC)\", \"value\": \"$1.1M\"}], \"signatories\": [{\"name\": \"Finance Controller\", \"title\": null}], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

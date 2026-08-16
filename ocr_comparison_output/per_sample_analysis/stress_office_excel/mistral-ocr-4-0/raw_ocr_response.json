@@ -1,0 +1,29 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "## Sheet1\n\n\n[tbl-0.html](tbl-0.html)",
+      "images": [],
+      "dimensions": null,
+      "tables": [
+        {
+          "id": "tbl-0.html",
+          "content": "<table>\n<tr><th>Department</th><th>Budget_Q1</th><th>Budget_Q2</th><th>Status</th></tr>\n<tr><td>R&amp;D</td><td>450000</td><td>460000</td><td>Approved</td></tr>\n<tr><td>Sales</td><td>1200000</td><td>1150000</td><td>Pending</td></tr>\n<tr><td>Marketing</td><td>300000</td><td>310000</td><td>Approved</td></tr>\n<tr><td>G&amp;A</td><td>150000</td><td>155000</td><td>Approved</td></tr>\n</table>",
+          "format": "html",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-4-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 5559
+  },
+  "document_annotation": "{\"document_type\": \"Rate Table\", \"primary_entities\": [], \"reporting_period\": null, \"key_dates\": [], \"key_amounts\": [{\"label\": \"R&D Budget Q1\", \"value\": \"450,000\"}, {\"label\": \"R&D Budget Q2\", \"value\": \"460,000\"}, {\"label\": \"Sales Budget Q1\", \"value\": \"1,200,000\"}, {\"label\": \"Sales Budget Q2\", \"value\": \"1,150,000\"}, {\"label\": \"Marketing Budget Q1\", \"value\": \"300,000\"}, {\"label\": \"Marketing Budget Q2\", \"value\": \"310,000\"}, {\"label\": \"G&A Budget Q1\", \"value\": \"150,000\"}, {\"label\": \"G&A Budget Q2\", \"value\": \"155,000\"}], \"signatories\": [], \"contains_table\": true, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

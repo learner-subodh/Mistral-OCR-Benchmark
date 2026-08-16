@@ -1,0 +1,214 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Internal Memo\n\nTo: Finance Team\n\nPlease ensure the Q4 reconciliation is completed by Friday.\nWe noticed a discrepancy in the APAC region's ledger entries.\nApproved for immediate processing.",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 810,
+        "width": 1386
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9979260960404966,
+        "minimum_page_confidence_score": 0.9524831868127802,
+        "word_confidence_scores": [
+          {
+            "text": "#",
+            "confidence": 0.9902158935408045,
+            "start_index": 0
+          },
+          {
+            "text": " Internal",
+            "confidence": 0.9992402607839626,
+            "start_index": 1
+          },
+          {
+            "text": " Memo",
+            "confidence": 0.9999991655356624,
+            "start_index": 10
+          },
+          {
+            "text": "To:",
+            "confidence": 0.9999985694910644,
+            "start_index": 17
+          },
+          {
+            "text": " Finance",
+            "confidence": 0.9999995231630692,
+            "start_index": 20
+          },
+          {
+            "text": " Team",
+            "confidence": 1.0,
+            "start_index": 28
+          },
+          {
+            "text": "Please",
+            "confidence": 0.9999949932351057,
+            "start_index": 35
+          },
+          {
+            "text": " ensure",
+            "confidence": 0.9999979734461775,
+            "start_index": 41
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999986886995842,
+            "start_index": 48
+          },
+          {
+            "text": " Q4",
+            "confidence": 0.9999967416259431,
+            "start_index": 52
+          },
+          {
+            "text": " reconciliation",
+            "confidence": 0.9999960661089133,
+            "start_index": 55
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999973774024795,
+            "start_index": 70
+          },
+          {
+            "text": " completed",
+            "confidence": 0.9999973774024795,
+            "start_index": 73
+          },
+          {
+            "text": " by",
+            "confidence": 1.0,
+            "start_index": 83
+          },
+          {
+            "text": " Friday.",
+            "confidence": 0.9939323995604383,
+            "start_index": 86
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9524831868127802,
+            "start_index": 94
+          },
+          {
+            "text": "We",
+            "confidence": 0.9999971389852362,
+            "start_index": 95
+          },
+          {
+            "text": " noticed",
+            "confidence": 0.9999539873315005,
+            "start_index": 97
+          },
+          {
+            "text": " a",
+            "confidence": 1.0,
+            "start_index": 105
+          },
+          {
+            "text": " discrepancy",
+            "confidence": 0.9999530337451736,
+            "start_index": 107
+          },
+          {
+            "text": " in",
+            "confidence": 1.0,
+            "start_index": 119
+          },
+          {
+            "text": " the",
+            "confidence": 1.0,
+            "start_index": 122
+          },
+          {
+            "text": " APAC",
+            "confidence": 0.9999980449730868,
+            "start_index": 126
+          },
+          {
+            "text": " region's",
+            "confidence": 0.9999992847451469,
+            "start_index": 131
+          },
+          {
+            "text": " ledger",
+            "confidence": 0.9999963045256735,
+            "start_index": 140
+          },
+          {
+            "text": " entries.",
+            "confidence": 0.9999851387960168,
+            "start_index": 147
+          },
+          {
+            "text": "\n",
+            "confidence": 0.999984503032491,
+            "start_index": 156
+          },
+          {
+            "text": "Approved",
+            "confidence": 0.999994397195003,
+            "start_index": 157
+          },
+          {
+            "text": " for",
+            "confidence": 1.0,
+            "start_index": 165
+          },
+          {
+            "text": " immediate",
+            "confidence": 0.9999998807907247,
+            "start_index": 169
+          },
+          {
+            "text": " processing.",
+            "confidence": 0.9999990463268773,
+            "start_index": 179
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 139,
+          "top_left_y": 135,
+          "bottom_right_x": 513,
+          "bottom_right_y": 180,
+          "content": "# Internal Memo",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 139,
+          "top_left_y": 219,
+          "bottom_right_x": 430,
+          "bottom_right_y": 257,
+          "content": "To: Finance Team",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 357,
+          "bottom_right_x": 1367,
+          "bottom_right_y": 492,
+          "content": "Please ensure the Q4 reconciliation is completed by Friday.\nWe noticed a discrepancy in the APAC region's ledger entries.\nApproved for immediate processing.",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 83624
+  },
+  "document_annotation": "{\"document_type\": \"Internal Memo\", \"primary_entities\": [\"Finance Team\"], \"reporting_period\": null, \"key_dates\": [\"Friday (Q4 reconciliation deadline)\"], \"key_amounts\": [], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

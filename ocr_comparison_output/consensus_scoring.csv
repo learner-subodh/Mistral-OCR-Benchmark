@@ -1,0 +1,5 @@
+field,agreement_score,unique_answers,mistral-ocr-2512_value,mistral-ocr-3-0_value,mistral-ocr-3_value,mistral-ocr-4-0_value,mistral-ocr-latest_value,mistral-ocr-4_value,mistral-ocr-4-1_value,needs_review
+document_type,1.0,1,Financial Statement,Financial Statement,Financial Statement,Financial Statement,Financial Statement,Financial Statement,Financial Statement,False
+effective_date,0.83,2,"Sep. 27, 2025","Sep. 27, 2025",2025-09-27,"Sep. 27, 2025","Sep. 27, 2025","Sep. 27, 2025",2025-09-27,True
+governing_law,1.0,1,,,,,,,,False
+total_consideration,1.0,1,,,,,,,,False

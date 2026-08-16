@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Corporate Finance — Approval Authority Chart\n\n![img-0.jpeg](img-0.jpeg)",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 121,
+          "top_left_y": 187,
+          "bottom_right_x": 1658,
+          "bottom_right_y": 1074,
+          "image_base64": null,
+          "image_annotation": "{\"image_type\": \"table image\", \"short_description\": \"Organizational chart showing the hierarchy of a finance department with CFO at the top, followed by Controller and Treasurer, and their respective subordinates.\"}"
+        }
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1180,
+        "width": 1779
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.93680983967739,
+        "minimum_page_confidence_score": 0.5621741904985889,
+        "word_confidence_scores": [
+          {
+            "text": "#",
+            "confidence": 0.5621741904985889,
+            "start_index": 0
+          },
+          {
+            "text": " Corporate",
+            "confidence": 0.9974375039670391,
+            "start_index": 1
+          },
+          {
+            "text": " Finance",
+            "confidence": 0.9999960661089133,
+            "start_index": 11
+          },
+          {
+            "text": " —",
+            "confidence": 0.9980649318585423,
+            "start_index": 19
+          },
+          {
+            "text": " Approval",
+            "confidence": 0.9999995231630692,
+            "start_index": 21
+          },
+          {
+            "text": " Authority",
+            "confidence": 0.9999980926550052,
+            "start_index": 30
+          },
+          {
+            "text": " Chart",
+            "confidence": 0.9999985694905718,
+            "start_index": 40
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 440,
+          "top_left_y": 97,
+          "bottom_right_x": 1336,
+          "bottom_right_y": 142,
+          "content": "# Corporate Finance — Approval Authority Chart",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 121,
+          "top_left_y": 187,
+          "bottom_right_x": 1658,
+          "bottom_right_y": 1074,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "image_id": "img-0.jpeg",
+          "confidence_scores": null,
+          "type": "image"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 72641
+  },
+  "document_annotation": "{\"document_type\": \"Org Chart\", \"primary_entities\": [\"CFO\", \"Controller\", \"Treasurer\", \"AP Manager\", \"Financial Reporting\", \"Cash Mgmt\", \"FX Risk\"], \"reporting_period\": null, \"key_dates\": [], \"key_amounts\": [], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": true}"
+}

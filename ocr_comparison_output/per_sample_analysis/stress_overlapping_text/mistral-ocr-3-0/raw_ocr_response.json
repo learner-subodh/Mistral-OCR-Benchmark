@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# MOD\n\n**TOTAL AMOUNT DUE:** $45,200.00\n\n*Check #882*",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 656,
+        "width": 1280
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.812514769843007,
+        "minimum_page_confidence_score": 0.5311124206433808,
+        "word_confidence_scores": [
+          {
+            "text": "#",
+            "confidence": 0.6246605099955772,
+            "start_index": 0
+          },
+          {
+            "text": " MOD",
+            "confidence": 0.552112472708125,
+            "start_index": 1
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9143074402018875,
+            "start_index": 5
+          },
+          {
+            "text": "**TOTAL",
+            "confidence": 0.9429818483784496,
+            "start_index": 7
+          },
+          {
+            "text": " AMOUNT",
+            "confidence": 0.9999920130591771,
+            "start_index": 14
+          },
+          {
+            "text": " DUE:**",
+            "confidence": 0.8535727221272189,
+            "start_index": 21
+          },
+          {
+            "text": " $45,200.00",
+            "confidence": 0.999973694287159,
+            "start_index": 28
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.5311124206433808,
+            "start_index": 39
+          },
+          {
+            "text": "*Check",
+            "confidence": 0.7066817942959192,
+            "start_index": 41
+          },
+          {
+            "text": " #882*",
+            "confidence": 0.9997527827331749,
+            "start_index": 47
+          }
+        ]
+      },
+      "blocks": []
+    }
+  ],
+  "model": "mistral-ocr-3-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 49783
+  },
+  "document_annotation": "{\n  \"document_type\": \"Invoice\",\n  \"primary_entities\": [\"MOD\"],\n  \"reporting_period\": null,\n  \"key_dates\": [],\n  \"key_amounts\": [\n    {\n      \"label\": \"Total Amount Due\",\n      \"value\": \"$45,200.00\"\n    }\n  ],\n  \"signatories\": [],\n  \"contains_table\": false,\n  \"contains_signature_block\": false,\n  \"contains_diagram_or_chart\": false\n}"
+}

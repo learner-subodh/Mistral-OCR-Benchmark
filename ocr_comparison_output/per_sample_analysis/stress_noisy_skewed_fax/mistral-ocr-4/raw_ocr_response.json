@@ -1,0 +1,1748 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "CONSOLIDATED\n\nSTATEMENTS OF\n\nOPERATIONS - USD ($)\nshares in Thousands,\n$ in Millions\n\nNet sales\n\nCost of sales\n\nGross margin\n\nOperating expenses:\n\nResearch and development\n\nSelling, general and\nadministrative\n\nTotal operating expenses\n\nOperating income\n\nOther income/(expense), net\n\nIncome before provision for\nincome taxes\n\nProvision for income taxes\n\nNet income\n\nEarnings per share:\n\nBasic (in dollars per share)\n\nDiluted (in dollars per\nshare)\n\nShares used in computing\nearnings per share:\n\nBasic (in shares)\n\nDiluted (in shares)\n\nProducts\n\nNet sales\n\nCost of sales\n\nServices\n\nNet sales\n\nCost of sales\n\n12 Months Ended\n\nSep. 27,\n2025\n\n$ 416,161\n\n220,960\n\n195,201\n\n34,550\n\n27,601\n\n62,151\n\n133,050\n\n(321)\n\n132,729\n\n20,719\n\n$ 112,010\n\n$ 7.49\n\n$ 7.46\n\n14,948,500\n\n15,004,697\n\n$ 307,003\n\n194,116\n\n109,158\n\n$ 26,844\n\nSep. 28,\n2024\n\n$ 391,035\n\n210,352\n\n180,683\n\n31,370\n\n26,097\n\n57,467\n\n123,216\n\n269\n\n123,485\n\n29,749\n\n$ 93,736\n\n$ 6.11\n\n$ 6.08\n\n15,343,783\n\n15,408,095\n\n$ 294,866\n\n185,233\n\n96,169\n\n$ 25,119\n\nSep. 30,\n2023\n\n$ 383,285\n\n214,137\n\n169,148\n\n29,915\n\n24,932\n\n54,847\n\n114,301\n\n(565)\n\n113,736\n\n16,741\n\n$ 96,995\n\n$ 6.16\n\n$ 6.13\n\n15,744,231\n\n15,812,547\n\n$ 298,085\n\n189,282\n\n85,200\n\n$ 24,855",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1766,
+        "width": 1257
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": "XML 18 R3.htm IDEA: XBRL DOCUMENT",
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9994553347700255,
+        "minimum_page_confidence_score": 0.9662483779116897,
+        "word_confidence_scores": [
+          {
+            "text": "CONSOLIDATED",
+            "confidence": 0.9999879203129577,
+            "start_index": 0
+          },
+          {
+            "text": "STATEMENTS",
+            "confidence": 0.9999917269733279,
+            "start_index": 14
+          },
+          {
+            "text": " OF",
+            "confidence": 0.9999765163221908,
+            "start_index": 24
+          },
+          {
+            "text": "OPERATIONS",
+            "confidence": 0.9999960422674223,
+            "start_index": 29
+          },
+          {
+            "text": " -",
+            "confidence": 0.9999974966112362,
+            "start_index": 39
+          },
+          {
+            "text": " USD",
+            "confidence": 0.9999904633477849,
+            "start_index": 41
+          },
+          {
+            "text": " ($)",
+            "confidence": 0.9741705704425133,
+            "start_index": 45
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9662483779116897,
+            "start_index": 49
+          },
+          {
+            "text": "shares",
+            "confidence": 0.9997833286538401,
+            "start_index": 50
+          },
+          {
+            "text": " in",
+            "confidence": 0.9999994039539004,
+            "start_index": 56
+          },
+          {
+            "text": " Thousands,",
+            "confidence": 0.9999604245445098,
+            "start_index": 59
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9999208513000997,
+            "start_index": 70
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999491002239198,
+            "start_index": 71
+          },
+          {
+            "text": " in",
+            "confidence": 0.9999953508594287,
+            "start_index": 72
+          },
+          {
+            "text": " Millions",
+            "confidence": 0.9999892448270288,
+            "start_index": 75
+          },
+          {
+            "text": "Net",
+            "confidence": 0.999994397195003,
+            "start_index": 86
+          },
+          {
+            "text": " sales",
+            "confidence": 0.9999280027712771,
+            "start_index": 89
+          },
+          {
+            "text": "Cost",
+            "confidence": 0.9999812844913009,
+            "start_index": 97
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999971389852362,
+            "start_index": 101
+          },
+          {
+            "text": " sales",
+            "confidence": 0.9999977350285647,
+            "start_index": 104
+          },
+          {
+            "text": "Gross",
+            "confidence": 0.9999969005831474,
+            "start_index": 112
+          },
+          {
+            "text": " margin",
+            "confidence": 0.9999934435319415,
+            "start_index": 117
+          },
+          {
+            "text": "Operating",
+            "confidence": 0.9999874831811497,
+            "start_index": 126
+          },
+          {
+            "text": " expenses:",
+            "confidence": 0.9999810460961749,
+            "start_index": 135
+          },
+          {
+            "text": "Research",
+            "confidence": 0.99997663552505,
+            "start_index": 147
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999995231630692,
+            "start_index": 155
+          },
+          {
+            "text": " development",
+            "confidence": 0.9999938011552557,
+            "start_index": 159
+          },
+          {
+            "text": "Selling,",
+            "confidence": 0.9999662686659616,
+            "start_index": 173
+          },
+          {
+            "text": " general",
+            "confidence": 0.9999971389852362,
+            "start_index": 181
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999959469005546,
+            "start_index": 189
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9693748067506737,
+            "start_index": 193
+          },
+          {
+            "text": "administrative",
+            "confidence": 0.9998889887196306,
+            "start_index": 194
+          },
+          {
+            "text": "Total",
+            "confidence": 0.9999982118638471,
+            "start_index": 210
+          },
+          {
+            "text": " operating",
+            "confidence": 0.9999992847447459,
+            "start_index": 215
+          },
+          {
+            "text": " expenses",
+            "confidence": 0.9999892712787918,
+            "start_index": 225
+          },
+          {
+            "text": "Operating",
+            "confidence": 0.9999810460826691,
+            "start_index": 236
+          },
+          {
+            "text": " income",
+            "confidence": 0.9999977350285647,
+            "start_index": 245
+          },
+          {
+            "text": "Other",
+            "confidence": 0.9998732965854205,
+            "start_index": 254
+          },
+          {
+            "text": " income/(expense),",
+            "confidence": 0.9999650487443196,
+            "start_index": 259
+          },
+          {
+            "text": " net",
+            "confidence": 0.9999988079084972,
+            "start_index": 277
+          },
+          {
+            "text": "Income",
+            "confidence": 0.9999848606494245,
+            "start_index": 283
+          },
+          {
+            "text": " before",
+            "confidence": 0.9999969005680498,
+            "start_index": 289
+          },
+          {
+            "text": " provision",
+            "confidence": 0.9999880792130387,
+            "start_index": 296
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999990463265931,
+            "start_index": 306
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9999529145487657,
+            "start_index": 310
+          },
+          {
+            "text": "income",
+            "confidence": 0.9997088565004051,
+            "start_index": 311
+          },
+          {
+            "text": " taxes",
+            "confidence": 0.999998927117538,
+            "start_index": 317
+          },
+          {
+            "text": "Provision",
+            "confidence": 0.9999480274500657,
+            "start_index": 325
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999998807907247,
+            "start_index": 334
+          },
+          {
+            "text": " income",
+            "confidence": 0.9999995231630692,
+            "start_index": 338
+          },
+          {
+            "text": " taxes",
+            "confidence": 0.9999997615814777,
+            "start_index": 345
+          },
+          {
+            "text": "Net",
+            "confidence": 0.9999985694905718,
+            "start_index": 353
+          },
+          {
+            "text": " income",
+            "confidence": 0.9999904633477849,
+            "start_index": 356
+          },
+          {
+            "text": "Earnings",
+            "confidence": 0.9999943674447174,
+            "start_index": 365
+          },
+          {
+            "text": " per",
+            "confidence": 0.999998927117538,
+            "start_index": 373
+          },
+          {
+            "text": " share:",
+            "confidence": 0.9999967473005462,
+            "start_index": 377
+          },
+          {
+            "text": "Basic",
+            "confidence": 0.9999897481064004,
+            "start_index": 386
+          },
+          {
+            "text": " (in",
+            "confidence": 0.9999987483044084,
+            "start_index": 391
+          },
+          {
+            "text": " dollars",
+            "confidence": 0.999993205116773,
+            "start_index": 395
+          },
+          {
+            "text": " per",
+            "confidence": 0.9999994039539004,
+            "start_index": 403
+          },
+          {
+            "text": " share)",
+            "confidence": 0.9999683622300605,
+            "start_index": 407
+          },
+          {
+            "text": "Diluted",
+            "confidence": 0.9998531187008277,
+            "start_index": 416
+          },
+          {
+            "text": " (in",
+            "confidence": 0.999999463558483,
+            "start_index": 423
+          },
+          {
+            "text": " dollars",
+            "confidence": 0.9999988079084972,
+            "start_index": 427
+          },
+          {
+            "text": " per",
+            "confidence": 0.9999675761227764,
+            "start_index": 435
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9973086033746824,
+            "start_index": 439
+          },
+          {
+            "text": "share)",
+            "confidence": 0.9999539080679508,
+            "start_index": 440
+          },
+          {
+            "text": "Shares",
+            "confidence": 0.9999761195179507,
+            "start_index": 448
+          },
+          {
+            "text": " used",
+            "confidence": 0.9999980926550052,
+            "start_index": 454
+          },
+          {
+            "text": " in",
+            "confidence": 0.9999998807907247,
+            "start_index": 459
+          },
+          {
+            "text": " computing",
+            "confidence": 0.9999957084838798,
+            "start_index": 462
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9998574460087201,
+            "start_index": 472
+          },
+          {
+            "text": "earnings",
+            "confidence": 0.9995451874257871,
+            "start_index": 473
+          },
+          {
+            "text": " per",
+            "confidence": 0.9999995231630692,
+            "start_index": 481
+          },
+          {
+            "text": " share:",
+            "confidence": 0.9999989271175623,
+            "start_index": 485
+          },
+          {
+            "text": "Basic",
+            "confidence": 0.9999899865198352,
+            "start_index": 494
+          },
+          {
+            "text": " (in",
+            "confidence": 0.9999992847448311,
+            "start_index": 499
+          },
+          {
+            "text": " shares)",
+            "confidence": 0.9999949038299402,
+            "start_index": 503
+          },
+          {
+            "text": "Diluted",
+            "confidence": 0.9999222514848011,
+            "start_index": 513
+          },
+          {
+            "text": " (in",
+            "confidence": 0.9999991059312681,
+            "start_index": 520
+          },
+          {
+            "text": " shares)",
+            "confidence": 0.999981136623272,
+            "start_index": 524
+          },
+          {
+            "text": "Products",
+            "confidence": 0.9999038073576505,
+            "start_index": 534
+          },
+          {
+            "text": "Net",
+            "confidence": 0.9999994039539004,
+            "start_index": 544
+          },
+          {
+            "text": " sales",
+            "confidence": 0.9999982118638471,
+            "start_index": 547
+          },
+          {
+            "text": "Cost",
+            "confidence": 0.9999946356109105,
+            "start_index": 555
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999995231630692,
+            "start_index": 559
+          },
+          {
+            "text": " sales",
+            "confidence": 0.9999988079084972,
+            "start_index": 562
+          },
+          {
+            "text": "Services",
+            "confidence": 0.9999361079065316,
+            "start_index": 570
+          },
+          {
+            "text": "Net",
+            "confidence": 0.9999984502816872,
+            "start_index": 580
+          },
+          {
+            "text": " sales",
+            "confidence": 0.9999977350285647,
+            "start_index": 583
+          },
+          {
+            "text": "Cost",
+            "confidence": 0.9999933243243502,
+            "start_index": 591
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999998807907247,
+            "start_index": 595
+          },
+          {
+            "text": " sales",
+            "confidence": 0.9999963045256735,
+            "start_index": 598
+          },
+          {
+            "text": "12",
+            "confidence": 0.9999969005680498,
+            "start_index": 606
+          },
+          {
+            "text": " Months",
+            "confidence": 0.9999963045256735,
+            "start_index": 608
+          },
+          {
+            "text": " Ended",
+            "confidence": 0.9999957084881335,
+            "start_index": 615
+          },
+          {
+            "text": "Sep.",
+            "confidence": 0.9998985350941479,
+            "start_index": 623
+          },
+          {
+            "text": " 27,",
+            "confidence": 0.9999955892832942,
+            "start_index": 627
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9999892712787918,
+            "start_index": 631
+          },
+          {
+            "text": "2025",
+            "confidence": 0.9999914170110737,
+            "start_index": 632
+          },
+          {
+            "text": "$",
+            "confidence": 0.999917394786764,
+            "start_index": 638
+          },
+          {
+            "text": " 416,161",
+            "confidence": 0.9998269463970261,
+            "start_index": 639
+          },
+          {
+            "text": "220,960",
+            "confidence": 0.9999650731207008,
+            "start_index": 649
+          },
+          {
+            "text": "195,201",
+            "confidence": 0.9999912637822111,
+            "start_index": 658
+          },
+          {
+            "text": "34,550",
+            "confidence": 0.9999913177241754,
+            "start_index": 667
+          },
+          {
+            "text": "27,601",
+            "confidence": 0.9999888540961668,
+            "start_index": 675
+          },
+          {
+            "text": "62,151",
+            "confidence": 0.9999970396455876,
+            "start_index": 683
+          },
+          {
+            "text": "133,050",
+            "confidence": 0.9999687515416672,
+            "start_index": 691
+          },
+          {
+            "text": "(321)",
+            "confidence": 0.9999139642064735,
+            "start_index": 700
+          },
+          {
+            "text": "132,729",
+            "confidence": 0.9999822723448448,
+            "start_index": 707
+          },
+          {
+            "text": "20,719",
+            "confidence": 0.9999934634140856,
+            "start_index": 716
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999731786297104,
+            "start_index": 724
+          },
+          {
+            "text": " 112,010",
+            "confidence": 0.9999734322610456,
+            "start_index": 725
+          },
+          {
+            "text": "$",
+            "confidence": 0.9977933095172402,
+            "start_index": 735
+          },
+          {
+            "text": " 7.49",
+            "confidence": 0.9997813814051565,
+            "start_index": 736
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999254997414527,
+            "start_index": 743
+          },
+          {
+            "text": " 7.46",
+            "confidence": 0.9999907495278818,
+            "start_index": 744
+          },
+          {
+            "text": "14,948,500",
+            "confidence": 0.9999823336292649,
+            "start_index": 751
+          },
+          {
+            "text": "15,004,697",
+            "confidence": 0.9999656812324292,
+            "start_index": 763
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999630464869772,
+            "start_index": 775
+          },
+          {
+            "text": " 307,003",
+            "confidence": 0.999987989832383,
+            "start_index": 776
+          },
+          {
+            "text": "194,116",
+            "confidence": 0.9999827150766625,
+            "start_index": 786
+          },
+          {
+            "text": "109,158",
+            "confidence": 0.999997598790807,
+            "start_index": 795
+          },
+          {
+            "text": "$",
+            "confidence": 0.999941829250343,
+            "start_index": 804
+          },
+          {
+            "text": " 26,844",
+            "confidence": 0.9999977009698899,
+            "start_index": 805
+          },
+          {
+            "text": "Sep.",
+            "confidence": 0.9999877514201028,
+            "start_index": 814
+          },
+          {
+            "text": " 28,",
+            "confidence": 0.999970228542481,
+            "start_index": 818
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9999477890584575,
+            "start_index": 822
+          },
+          {
+            "text": "2024",
+            "confidence": 0.9999970793821351,
+            "start_index": 823
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999514841747886,
+            "start_index": 829
+          },
+          {
+            "text": " 391,035",
+            "confidence": 0.9999966174506599,
+            "start_index": 830
+          },
+          {
+            "text": "210,352",
+            "confidence": 0.9999923877048784,
+            "start_index": 840
+          },
+          {
+            "text": "180,683",
+            "confidence": 0.9999935457148418,
+            "start_index": 849
+          },
+          {
+            "text": "31,370",
+            "confidence": 0.9999878011342093,
+            "start_index": 858
+          },
+          {
+            "text": "26,097",
+            "confidence": 0.9999969005715172,
+            "start_index": 866
+          },
+          {
+            "text": "57,467",
+            "confidence": 0.999997158856181,
+            "start_index": 874
+          },
+          {
+            "text": "123,216",
+            "confidence": 0.9999928475025153,
+            "start_index": 882
+          },
+          {
+            "text": "269",
+            "confidence": 0.9999796156266157,
+            "start_index": 891
+          },
+          {
+            "text": "123,485",
+            "confidence": 0.9999912637394653,
+            "start_index": 896
+          },
+          {
+            "text": "29,749",
+            "confidence": 0.9999958475634508,
+            "start_index": 905
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999855758836753,
+            "start_index": 913
+          },
+          {
+            "text": " 93,736",
+            "confidence": 0.9999979393881077,
+            "start_index": 914
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999049992201816,
+            "start_index": 923
+          },
+          {
+            "text": " 6.11",
+            "confidence": 0.9999999046325857,
+            "start_index": 924
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999800924450729,
+            "start_index": 931
+          },
+          {
+            "text": " 6.08",
+            "confidence": 0.9999978780814917,
+            "start_index": 932
+          },
+          {
+            "text": "15,343,783",
+            "confidence": 0.9999558007800885,
+            "start_index": 939
+          },
+          {
+            "text": "15,408,095",
+            "confidence": 0.9999755391369937,
+            "start_index": 951
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999819997211749,
+            "start_index": 963
+          },
+          {
+            "text": " 294,866",
+            "confidence": 0.9999966472531342,
+            "start_index": 964
+          },
+          {
+            "text": "185,233",
+            "confidence": 0.999993460576053,
+            "start_index": 974
+          },
+          {
+            "text": "96,169",
+            "confidence": 0.9999948541634894,
+            "start_index": 983
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999656689032875,
+            "start_index": 991
+          },
+          {
+            "text": " 25,119",
+            "confidence": 0.9999992847448189,
+            "start_index": 992
+          },
+          {
+            "text": "Sep.",
+            "confidence": 0.9999798243014028,
+            "start_index": 1001
+          },
+          {
+            "text": " 30,",
+            "confidence": 0.9999841156440761,
+            "start_index": 1005
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9999750858798929,
+            "start_index": 1009
+          },
+          {
+            "text": "2023",
+            "confidence": 0.9999962747235753,
+            "start_index": 1010
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999916554191085,
+            "start_index": 1016
+          },
+          {
+            "text": " 383,285",
+            "confidence": 0.9999961555200872,
+            "start_index": 1017
+          },
+          {
+            "text": "214,137",
+            "confidence": 0.999994226906114,
+            "start_index": 1027
+          },
+          {
+            "text": "169,148",
+            "confidence": 0.9999960490843612,
+            "start_index": 1036
+          },
+          {
+            "text": "29,915",
+            "confidence": 0.9999987483046168,
+            "start_index": 1045
+          },
+          {
+            "text": "24,932",
+            "confidence": 0.999997079384648,
+            "start_index": 1053
+          },
+          {
+            "text": "54,847",
+            "confidence": 0.9999952912574893,
+            "start_index": 1061
+          },
+          {
+            "text": "114,301",
+            "confidence": 0.9999804672027862,
+            "start_index": 1069
+          },
+          {
+            "text": "(565)",
+            "confidence": 0.9999830249398114,
+            "start_index": 1078
+          },
+          {
+            "text": "113,736",
+            "confidence": 0.9999961001698122,
+            "start_index": 1085
+          },
+          {
+            "text": "16,741",
+            "confidence": 0.9999950131124204,
+            "start_index": 1094
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999961853172863,
+            "start_index": 1102
+          },
+          {
+            "text": " 96,995",
+            "confidence": 0.9999971560180836,
+            "start_index": 1103
+          },
+          {
+            "text": "$",
+            "confidence": 0.999943378794853,
+            "start_index": 1112
+          },
+          {
+            "text": " 6.16",
+            "confidence": 0.9999979019216153,
+            "start_index": 1113
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999711521845835,
+            "start_index": 1120
+          },
+          {
+            "text": " 6.13",
+            "confidence": 0.9999987363839221,
+            "start_index": 1121
+          },
+          {
+            "text": "15,744,231",
+            "confidence": 0.9999649428122442,
+            "start_index": 1128
+          },
+          {
+            "text": "15,812,547",
+            "confidence": 0.9999845509287144,
+            "start_index": 1140
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999964237340748,
+            "start_index": 1152
+          },
+          {
+            "text": " 298,085",
+            "confidence": 0.9999991506347269,
+            "start_index": 1153
+          },
+          {
+            "text": "189,282",
+            "confidence": 0.9999956063068326,
+            "start_index": 1163
+          },
+          {
+            "text": "85,200",
+            "confidence": 0.9999978145015886,
+            "start_index": 1172
+          },
+          {
+            "text": "$",
+            "confidence": 0.9999898673126559,
+            "start_index": 1180
+          },
+          {
+            "text": " 24,855",
+            "confidence": 0.9999991995956448,
+            "start_index": 1181
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 127,
+          "top_left_y": 136,
+          "bottom_right_x": 629,
+          "bottom_right_y": 163,
+          "content": "XML 18 R3.htm IDEA: XBRL DOCUMENT",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 133,
+          "top_left_y": 171,
+          "bottom_right_x": 318,
+          "bottom_right_y": 196,
+          "content": "CONSOLIDATED",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 133,
+          "top_left_y": 200,
+          "bottom_right_x": 332,
+          "bottom_right_y": 225,
+          "content": "STATEMENTS OF",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 226,
+          "bottom_right_x": 435,
+          "bottom_right_y": 309,
+          "content": "OPERATIONS - USD ($)\nshares in Thousands,\n$ in Millions",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 318,
+          "bottom_right_x": 273,
+          "bottom_right_y": 346,
+          "content": "Net sales",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 354,
+          "bottom_right_x": 335,
+          "bottom_right_y": 382,
+          "content": "Cost of sales",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 389,
+          "bottom_right_x": 320,
+          "bottom_right_y": 417,
+          "content": "Gross margin",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 422,
+          "bottom_right_x": 423,
+          "bottom_right_y": 453,
+          "content": "Operating expenses:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 456,
+          "bottom_right_x": 500,
+          "bottom_right_y": 486,
+          "content": "Research and development",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 491,
+          "bottom_right_x": 440,
+          "bottom_right_y": 548,
+          "content": "Selling, general and\nadministrative",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 553,
+          "bottom_right_x": 501,
+          "bottom_right_y": 583,
+          "content": "Total operating expenses",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 589,
+          "bottom_right_x": 383,
+          "bottom_right_y": 619,
+          "content": "Operating income",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 622,
+          "bottom_right_x": 546,
+          "bottom_right_y": 652,
+          "content": "Other income/(expense), net",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 658,
+          "bottom_right_x": 546,
+          "bottom_right_y": 714,
+          "content": "Income before provision for\nincome taxes",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 719,
+          "bottom_right_x": 534,
+          "bottom_right_y": 750,
+          "content": "Provision for income taxes",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 755,
+          "bottom_right_x": 293,
+          "bottom_right_y": 783,
+          "content": "Net income",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 790,
+          "bottom_right_x": 425,
+          "bottom_right_y": 820,
+          "content": "Earnings per share:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 824,
+          "bottom_right_x": 561,
+          "bottom_right_y": 854,
+          "content": "Basic (in dollars per share)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 859,
+          "bottom_right_x": 489,
+          "bottom_right_y": 916,
+          "content": "Diluted (in dollars per\nshare)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 921,
+          "bottom_right_x": 506,
+          "bottom_right_y": 978,
+          "content": "Shares used in computing\nearnings per share:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 983,
+          "bottom_right_x": 399,
+          "bottom_right_y": 1013,
+          "content": "Basic (in shares)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1016,
+          "bottom_right_x": 429,
+          "bottom_right_y": 1047,
+          "content": "Diluted (in shares)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1054,
+          "bottom_right_x": 267,
+          "bottom_right_y": 1082,
+          "content": "Products",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1087,
+          "bottom_right_x": 281,
+          "bottom_right_y": 1115,
+          "content": "Net sales",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1121,
+          "bottom_right_x": 341,
+          "bottom_right_y": 1151,
+          "content": "Cost of sales",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1158,
+          "bottom_right_x": 267,
+          "bottom_right_y": 1186,
+          "content": "Services",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1191,
+          "bottom_right_x": 282,
+          "bottom_right_y": 1220,
+          "content": "Net sales",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1225,
+          "bottom_right_x": 341,
+          "bottom_right_y": 1255,
+          "content": "Cost of sales",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 168,
+          "bottom_right_x": 796,
+          "bottom_right_y": 194,
+          "content": "12 Months Ended",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 226,
+          "bottom_right_x": 687,
+          "bottom_right_y": 281,
+          "content": "Sep. 27,\n2025",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 313,
+          "bottom_right_x": 707,
+          "bottom_right_y": 341,
+          "content": "$ 416,161",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 350,
+          "bottom_right_x": 678,
+          "bottom_right_y": 377,
+          "content": "220,960",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 385,
+          "bottom_right_x": 678,
+          "bottom_right_y": 414,
+          "content": "195,201",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 453,
+          "bottom_right_x": 663,
+          "bottom_right_y": 481,
+          "content": "34,550",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 502,
+          "bottom_right_x": 663,
+          "bottom_right_y": 530,
+          "content": "27,601",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 550,
+          "bottom_right_x": 663,
+          "bottom_right_y": 578,
+          "content": "62,151",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 585,
+          "bottom_right_x": 679,
+          "bottom_right_y": 613,
+          "content": "133,050",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 620,
+          "bottom_right_x": 648,
+          "bottom_right_y": 649,
+          "content": "(321)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 668,
+          "bottom_right_x": 679,
+          "bottom_right_y": 697,
+          "content": "132,729",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 718,
+          "bottom_right_x": 666,
+          "bottom_right_y": 746,
+          "content": "20,719",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 751,
+          "bottom_right_x": 711,
+          "bottom_right_y": 781,
+          "content": "$ 112,010",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 820,
+          "bottom_right_x": 667,
+          "bottom_right_y": 849,
+          "content": "$ 7.49",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 870,
+          "bottom_right_x": 667,
+          "bottom_right_y": 896,
+          "content": "$ 7.46",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 979,
+          "bottom_right_x": 727,
+          "bottom_right_y": 1009,
+          "content": "14,948,500",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 1015,
+          "bottom_right_x": 727,
+          "bottom_right_y": 1043,
+          "content": "15,004,697",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 1082,
+          "bottom_right_x": 713,
+          "bottom_right_y": 1112,
+          "content": "$ 307,003",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 1119,
+          "bottom_right_x": 684,
+          "bottom_right_y": 1147,
+          "content": "194,116",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 1188,
+          "bottom_right_x": 684,
+          "bottom_right_y": 1214,
+          "content": "109,158",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 567,
+          "top_left_y": 1222,
+          "bottom_right_x": 700,
+          "bottom_right_y": 1250,
+          "content": "$ 26,844",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 226,
+          "bottom_right_x": 868,
+          "bottom_right_y": 281,
+          "content": "Sep. 28,\n2024",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 313,
+          "bottom_right_x": 888,
+          "bottom_right_y": 341,
+          "content": "$ 391,035",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 350,
+          "bottom_right_x": 859,
+          "bottom_right_y": 377,
+          "content": "210,352",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 384,
+          "bottom_right_x": 859,
+          "bottom_right_y": 412,
+          "content": "180,683",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 453,
+          "bottom_right_x": 844,
+          "bottom_right_y": 481,
+          "content": "31,370",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 502,
+          "bottom_right_x": 844,
+          "bottom_right_y": 530,
+          "content": "26,097",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 550,
+          "bottom_right_x": 844,
+          "bottom_right_y": 578,
+          "content": "57,467",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 585,
+          "bottom_right_x": 861,
+          "bottom_right_y": 613,
+          "content": "123,216",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 620,
+          "bottom_right_x": 802,
+          "bottom_right_y": 647,
+          "content": "269",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 668,
+          "bottom_right_x": 861,
+          "bottom_right_y": 697,
+          "content": "123,485",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 718,
+          "bottom_right_x": 847,
+          "bottom_right_y": 746,
+          "content": "29,749",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 751,
+          "bottom_right_x": 877,
+          "bottom_right_y": 780,
+          "content": "$ 93,736",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 820,
+          "bottom_right_x": 847,
+          "bottom_right_y": 847,
+          "content": "$ 6.11",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 870,
+          "bottom_right_x": 847,
+          "bottom_right_y": 894,
+          "content": "$ 6.08",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 979,
+          "bottom_right_x": 908,
+          "bottom_right_y": 1008,
+          "content": "15,343,783",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 1013,
+          "bottom_right_x": 908,
+          "bottom_right_y": 1041,
+          "content": "15,408,095",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 1082,
+          "bottom_right_x": 895,
+          "bottom_right_y": 1110,
+          "content": "$ 294,866",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 1117,
+          "bottom_right_x": 864,
+          "bottom_right_y": 1146,
+          "content": "185,233",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 1188,
+          "bottom_right_x": 851,
+          "bottom_right_y": 1214,
+          "content": "96,169",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 1222,
+          "bottom_right_x": 881,
+          "bottom_right_y": 1250,
+          "content": "$ 25,119",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 225,
+          "bottom_right_x": 1049,
+          "bottom_right_y": 279,
+          "content": "Sep. 30,\n2023",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 311,
+          "bottom_right_x": 1070,
+          "bottom_right_y": 339,
+          "content": "$ 383,285",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 348,
+          "bottom_right_x": 1039,
+          "bottom_right_y": 375,
+          "content": "214,137",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 382,
+          "bottom_right_x": 1039,
+          "bottom_right_y": 410,
+          "content": "169,148",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 451,
+          "bottom_right_x": 1025,
+          "bottom_right_y": 479,
+          "content": "29,915",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 500,
+          "bottom_right_x": 1025,
+          "bottom_right_y": 527,
+          "content": "24,932",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 548,
+          "bottom_right_x": 1025,
+          "bottom_right_y": 576,
+          "content": "54,847",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 583,
+          "bottom_right_x": 1042,
+          "bottom_right_y": 612,
+          "content": "114,301",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 617,
+          "bottom_right_x": 1010,
+          "bottom_right_y": 647,
+          "content": "(565)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 666,
+          "bottom_right_x": 1042,
+          "bottom_right_y": 695,
+          "content": "113,736",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 716,
+          "bottom_right_x": 1028,
+          "bottom_right_y": 742,
+          "content": "16,741",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 750,
+          "bottom_right_x": 1058,
+          "bottom_right_y": 778,
+          "content": "$ 96,995",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 818,
+          "bottom_right_x": 1029,
+          "bottom_right_y": 847,
+          "content": "$ 6.16",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 868,
+          "bottom_right_x": 1029,
+          "bottom_right_y": 894,
+          "content": "$ 6.13",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 978,
+          "bottom_right_x": 1091,
+          "bottom_right_y": 1006,
+          "content": "15,744,231",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 1011,
+          "bottom_right_x": 1091,
+          "bottom_right_y": 1041,
+          "content": "15,812,547",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 1080,
+          "bottom_right_x": 1076,
+          "bottom_right_y": 1108,
+          "content": "$ 298,085",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 1115,
+          "bottom_right_x": 1047,
+          "bottom_right_y": 1144,
+          "content": "189,282",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 1184,
+          "bottom_right_x": 1033,
+          "bottom_right_y": 1213,
+          "content": "85,200",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 929,
+          "top_left_y": 1220,
+          "bottom_right_x": 1062,
+          "bottom_right_y": 1248,
+          "content": "$ 24,855",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4403782
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [\"Idea\"], \"reporting_period\": \"12 Months Ended Sep. 27, 2025; Sep. 28, 2024; Sep. 30, 2023\", \"key_dates\": [\"Sep. 27, 2025\", \"Sep. 28, 2024\", \"Sep. 30, 2023\"], \"key_amounts\": [{\"label\": \"Net Sales (2025)\", \"value\": \"$416,161 million\"}, {\"label\": \"Net Income (2025)\", \"value\": \"$112,010 million\"}, {\"label\": \"Gross Margin (2025)\", \"value\": \"$195,201 million\"}, {\"label\": \"Operating Income (2025)\", \"value\": \"$133,050 million\"}, {\"label\": \"Basic Earnings per Share (2025)\", \"value\": \"$7.49\"}, {\"label\": \"Diluted Earnings per Share (2025)\", \"value\": \"$7.46\"}, {\"label\": \"Net Sales (2024)\", \"value\": \"$391,035 million\"}, {\"label\": \"Net Income (2024)\", \"value\": \"$93,736 million\"}], \"signatories\": [], \"contains_table\": true, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

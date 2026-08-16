@@ -1,0 +1,22 @@
+id,category,title,pages,size_kb,sha256,dpi,source_category,challenge_tags,source
+sec_AAPL_0,multi_header_financial_table,Apple Inc. — CONSOLIDATED STATEMENTS OF OPERATIONS (2025-10-31),1,15.1,4fcda25719a7,,,"multi-year comparative columns, nested/multi-level headers, dense numerics, real Fortune-500 filing",https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/R3.htm
+sec_JPM_0,multi_header_financial_table,JPMorgan Chase & Co. — Consolidated Statements of Income (2026-02-13),2,16.1,ebc16f0ef303,,,"multi-year comparative columns, nested/multi-level headers, dense numerics, real Fortune-500 filing",https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/R3.htm
+sec_BRK.B_0,multi_header_financial_table,Berkshire Hathaway Inc. — Consolidated Balance Sheets (2026-03-02),3,25.6,0f847c3428d4,,,"multi-year comparative columns, nested/multi-level headers, dense numerics, real Fortune-500 filing",https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/R2.htm
+irs_w9,signature_block,IRS W-9,6,137.5,2d420cbb4123,,,"signatures, structured",https://www.irs.gov/pub/irs-pdf/fw9.pdf
+fed_h15,multi_header_financial_table,Fed H.15 Rates,3,63.4,7a40e6733e6e,,,"dense numeric, multi-header",https://www.federalreserve.gov/releases/h15/current/h15.pdf
+dpi_multi_header_financial_table_72dpi,resolution_stress,SEC filing @ 72 DPI,1,83.7,13ea3e60c485,72.0,multi_header_financial_table,"72 DPI, stress test",finance_ocr_corpus/sec_AAPL_0.pdf
+dpi_multi_header_financial_table_150dpi,resolution_stress,SEC filing @ 150 DPI,1,200.4,83ad02222850,150.0,multi_header_financial_table,"150 DPI, stress test",finance_ocr_corpus/sec_AAPL_0.pdf
+dpi_multi_header_financial_table_300dpi,resolution_stress,SEC filing @ 300 DPI,1,399.0,9d03fb9f7af7,300.0,multi_header_financial_table,"300 DPI, stress test",finance_ocr_corpus/sec_AAPL_0.pdf
+dpi_signature_block_72dpi,resolution_stress,IRS W-9 @ 72 DPI,1,181.7,63ffcaff25d3,72.0,signature_block,"72 DPI, stress test",finance_ocr_corpus/irs_w9.pdf
+dpi_signature_block_150dpi,resolution_stress,IRS W-9 @ 150 DPI,1,487.8,34626038971a,150.0,signature_block,"150 DPI, stress test",finance_ocr_corpus/irs_w9.pdf
+dpi_signature_block_300dpi,resolution_stress,IRS W-9 @ 300 DPI,1,913.1,b46800183d17,300.0,signature_block,"300 DPI, stress test",finance_ocr_corpus/irs_w9.pdf
+stress_noisy_skewed_fax,resolution_stress,Degraded Fax (150 DPI + Noise),1,4300.6,cde2994a234d,150.0,multi_header_financial_table,"noise, skew, 150 DPI",finance_ocr_corpus/sec_AAPL_0.pdf
+synthetic_nested_header_pivot,multi_header_financial_table,Synthetic 3-level-header pivot table (Segment × Region × Quarter),1,104.8,9f87cc9df064,,,"3-level nested column headers, merged header cells, high column density",generated locally
+synthetic_settlement_workflow,workflow_diagram,Synthetic T+1 securities settlement workflow diagram,1,55.5,a92a9aec5db4,,,"flowchart / process diagram, arrows + boxed steps, no tabular data",generated locally
+synthetic_approval_org_chart,workflow_diagram,Synthetic finance approval-authority org chart,1,70.9,e68ea94e47a2,,,"hierarchical diagram, connector lines, role/title labels",generated locally
+stress_handwritten_memo,handwriting,Synthetic Handwritten Internal Memo,1,81.7,0c3e63045c9a,,,"handwritten text, cursive style, informal layout",generated locally
+stress_overlapping_text,overlapping_text,Printed text with overlapping handwriting/stamps,1,48.6,75ea37341e57,,,"overlapping characters, occlusion, multi-color text",generated locally
+stress_office_word,office_docs,Synthetic Word Document (MSA Draft),1,36.0,0cf412591f78,,,"native word format, structured text, standard table",generated locally
+stress_office_ppt,office_docs,Synthetic PPT Presentation,1,27.6,602c6c5a6908,,,"presentation format, text boxes, visual layout",generated locally
+stress_messaging_email,messaging,Synthetic EML Message,1,0.3,55bf0aaceacf,,,"email headers, unstructured body, monetary text",generated locally
+stress_structured_markdown,structured_text,Synthetic Markdown Report,1,0.2,b9131e75df1b,,,"markdown syntax, inline tables, hierarchical headers",generated locally

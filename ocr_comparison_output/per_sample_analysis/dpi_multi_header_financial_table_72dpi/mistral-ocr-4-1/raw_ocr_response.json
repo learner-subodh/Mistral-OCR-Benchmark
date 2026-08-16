@@ -1,0 +1,934 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "[tbl-0.html](tbl-0.html)",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 842,
+        "width": 596
+      },
+      "tables": [
+        {
+          "id": "tbl-0.html",
+          "content": "<table><thead><tr><th>CONSOLIDATED<br/>STATEMENTS OF<br/>OPERATIONS - USD ($)<br/>shares in Thousands,<br/>$ in Millions</th><th colspan=\"3\">12 Months Ended</th></tr><tr><th></th><th>Sep. 27,<br/>2025</th><th>Sep. 28,<br/>2024</th><th>Sep. 30,<br/>2023</th></tr></thead><tr><td>Net sales</td><td>$ 416,161</td><td>$ 391,035</td><td>$ 383,285</td></tr><tr><td>Cost of sales</td><td>220,960</td><td>210,352</td><td>214,137</td></tr><tr><td>Gross margin</td><td>195,201</td><td>180,683</td><td>169,148</td></tr><tr><td><b>Operating expenses:</b></td><td></td><td></td><td></td></tr><tr><td>Research and development</td><td>34,550</td><td>31,370</td><td>29,915</td></tr><tr><td>Selling, general and<br/>administrative</td><td>27,601</td><td>26,097</td><td>24,932</td></tr><tr><td>Total operating expenses</td><td>62,151</td><td>57,467</td><td>54,847</td></tr><tr><td>Operating income</td><td>133,050</td><td>123,216</td><td>114,301</td></tr><tr><td>Other income/(expense), net</td><td>(321)</td><td>269</td><td>(565)</td></tr><tr><td>Income before provision for<br/>income taxes</td><td>132,729</td><td>123,485</td><td>113,736</td></tr><tr><td>Provision for income taxes</td><td>20,719</td><td>29,749</td><td>16,741</td></tr><tr><td>Net income</td><td>$ 112,010</td><td>$ 93,736</td><td>$ 96,995</td></tr><tr><td><b>Earnings per share:</b></td><td></td><td></td><td></td></tr><tr><td>Basic (in dollars per share)</td><td>$ 7.49</td><td>$ 6.11</td><td>$ 6.16</td></tr><tr><td>Diluted (in dollars per<br/>share)</td><td>$ 7.46</td><td>$ 6.08</td><td>$ 6.13</td></tr><tr><td><b>Shares used in computing<br/>earnings per share:</b></td><td></td><td></td><td></td></tr><tr><td>Basic (in shares)</td><td>14,948,500</td><td>15,343,783</td><td>15,744,231</td></tr><tr><td>Diluted (in shares)</td><td>15,004,697</td><td>15,408,095</td><td>15,812,547</td></tr><tr><td>Products</td><td></td><td></td><td></td></tr><tr><td>Net sales</td><td>$ 307,003</td><td>$ 294,866</td><td>$ 298,085</td></tr><tr><td>Cost of sales</td><td>194,116</td><td>185,233</td><td>189,282</td></tr><tr><td>Services</td><td></td><td></td><td></td></tr><tr><td>Net sales</td><td>109,158</td><td>96,169</td><td>85,200</td></tr><tr><td>Cost of sales</td><td>$ 26,844</td><td>$ 25,119</td><td>$ 24,855</td></tr></table>",
+          "format": "html",
+          "word_confidence_scores": [
+            {
+              "text": "CONSOLIDATED",
+              "confidence": 0.9407833320431698,
+              "start_index": 22
+            },
+            {
+              "text": "STATEMENTS",
+              "confidence": 0.9407833320431698,
+              "start_index": 39
+            },
+            {
+              "text": " OF",
+              "confidence": 0.9993481046191919,
+              "start_index": 49
+            },
+            {
+              "text": "OPERATIONS",
+              "confidence": 0.9993481046191919,
+              "start_index": 57
+            },
+            {
+              "text": " -",
+              "confidence": 0.9949808587871298,
+              "start_index": 67
+            },
+            {
+              "text": " USD",
+              "confidence": 0.9994682518717328,
+              "start_index": 69
+            },
+            {
+              "text": " ($)",
+              "confidence": 0.9474939777678111,
+              "start_index": 73
+            },
+            {
+              "text": "shares",
+              "confidence": 0.9474939777678111,
+              "start_index": 82
+            },
+            {
+              "text": " in",
+              "confidence": 0.999915368565632,
+              "start_index": 88
+            },
+            {
+              "text": " Thousands,",
+              "confidence": 0.9995576927097992,
+              "start_index": 91
+            },
+            {
+              "text": "$",
+              "confidence": 0.9995576927097992,
+              "start_index": 107
+            },
+            {
+              "text": " in",
+              "confidence": 0.99983468404583,
+              "start_index": 108
+            },
+            {
+              "text": " Millions",
+              "confidence": 0.9998649777094983,
+              "start_index": 111
+            },
+            {
+              "text": "12",
+              "confidence": 0.8445387551545636,
+              "start_index": 141
+            },
+            {
+              "text": " Months",
+              "confidence": 0.9999231159180111,
+              "start_index": 143
+            },
+            {
+              "text": " Ended",
+              "confidence": 0.9996467935199121,
+              "start_index": 150
+            },
+            {
+              "text": "Sep.",
+              "confidence": 0.9996467935199121,
+              "start_index": 183
+            },
+            {
+              "text": " 27,",
+              "confidence": 0.9993743768132938,
+              "start_index": 187
+            },
+            {
+              "text": "2025",
+              "confidence": 0.9993743768132938,
+              "start_index": 196
+            },
+            {
+              "text": "Sep.",
+              "confidence": 0.9993743768132938,
+              "start_index": 209
+            },
+            {
+              "text": " 28,",
+              "confidence": 0.9999351295744582,
+              "start_index": 213
+            },
+            {
+              "text": "2024",
+              "confidence": 0.9999351295744582,
+              "start_index": 222
+            },
+            {
+              "text": "Sep.",
+              "confidence": 0.9999351295744582,
+              "start_index": 235
+            },
+            {
+              "text": " 30,",
+              "confidence": 0.9965667024565892,
+              "start_index": 239
+            },
+            {
+              "text": "2023",
+              "confidence": 0.9965667024565892,
+              "start_index": 248
+            },
+            {
+              "text": "Net",
+              "confidence": 0.9965667024565892,
+              "start_index": 278
+            },
+            {
+              "text": " sales",
+              "confidence": 0.9999632267874277,
+              "start_index": 281
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999632267874277,
+              "start_index": 296
+            },
+            {
+              "text": " 416,161",
+              "confidence": 0.9610160302150794,
+              "start_index": 297
+            },
+            {
+              "text": "$",
+              "confidence": 0.9610160302150794,
+              "start_index": 314
+            },
+            {
+              "text": " 391,035",
+              "confidence": 0.9980845287013,
+              "start_index": 315
+            },
+            {
+              "text": "$",
+              "confidence": 0.9980845287013,
+              "start_index": 332
+            },
+            {
+              "text": " 383,285",
+              "confidence": 0.9996120078355584,
+              "start_index": 333
+            },
+            {
+              "text": "Cost",
+              "confidence": 0.9996120078355584,
+              "start_index": 359
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999731786297104,
+              "start_index": 363
+            },
+            {
+              "text": " sales",
+              "confidence": 0.999258699816203,
+              "start_index": 366
+            },
+            {
+              "text": "220,960",
+              "confidence": 0.999258699816203,
+              "start_index": 381
+            },
+            {
+              "text": "210,352",
+              "confidence": 0.999258699816203,
+              "start_index": 397
+            },
+            {
+              "text": "214,137",
+              "confidence": 0.999258699816203,
+              "start_index": 413
+            },
+            {
+              "text": "Gross",
+              "confidence": 0.999258699816203,
+              "start_index": 438
+            },
+            {
+              "text": " margin",
+              "confidence": 0.9840892405579128,
+              "start_index": 443
+            },
+            {
+              "text": "195,201",
+              "confidence": 0.9840892405579128,
+              "start_index": 459
+            },
+            {
+              "text": "180,683",
+              "confidence": 0.9840892405579128,
+              "start_index": 475
+            },
+            {
+              "text": "169,148",
+              "confidence": 0.9840892405579128,
+              "start_index": 491
+            },
+            {
+              "text": "Operating",
+              "confidence": 0.9840892405579128,
+              "start_index": 519
+            },
+            {
+              "text": " expenses:",
+              "confidence": 0.9999380207146562,
+              "start_index": 528
+            },
+            {
+              "text": "Research",
+              "confidence": 0.9999380207146562,
+              "start_index": 587
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999839070045525,
+              "start_index": 595
+            },
+            {
+              "text": " development",
+              "confidence": 0.9998285256782858,
+              "start_index": 599
+            },
+            {
+              "text": "34,550",
+              "confidence": 0.9998285256782858,
+              "start_index": 620
+            },
+            {
+              "text": "31,370",
+              "confidence": 0.9998285256782858,
+              "start_index": 635
+            },
+            {
+              "text": "29,915",
+              "confidence": 0.9998285256782858,
+              "start_index": 650
+            },
+            {
+              "text": "Selling,",
+              "confidence": 0.9998285256782858,
+              "start_index": 674
+            },
+            {
+              "text": " general",
+              "confidence": 0.9997793922878564,
+              "start_index": 682
+            },
+            {
+              "text": " and",
+              "confidence": 0.990774311207157,
+              "start_index": 690
+            },
+            {
+              "text": "administrative",
+              "confidence": 0.990774311207157,
+              "start_index": 699
+            },
+            {
+              "text": "27,601",
+              "confidence": 0.990774311207157,
+              "start_index": 722
+            },
+            {
+              "text": "26,097",
+              "confidence": 0.990774311207157,
+              "start_index": 737
+            },
+            {
+              "text": "24,932",
+              "confidence": 0.990774311207157,
+              "start_index": 752
+            },
+            {
+              "text": "Total",
+              "confidence": 0.990774311207157,
+              "start_index": 776
+            },
+            {
+              "text": " operating",
+              "confidence": 0.9999873639751784,
+              "start_index": 781
+            },
+            {
+              "text": " expenses",
+              "confidence": 0.9940093154701624,
+              "start_index": 791
+            },
+            {
+              "text": "62,151",
+              "confidence": 0.9940093154701624,
+              "start_index": 809
+            },
+            {
+              "text": "57,467",
+              "confidence": 0.9940093154701624,
+              "start_index": 824
+            },
+            {
+              "text": "54,847",
+              "confidence": 0.9940093154701624,
+              "start_index": 839
+            },
+            {
+              "text": "Operating",
+              "confidence": 0.9940093154701624,
+              "start_index": 863
+            },
+            {
+              "text": " income",
+              "confidence": 0.9996279853023338,
+              "start_index": 872
+            },
+            {
+              "text": "133,050",
+              "confidence": 0.9996279853023338,
+              "start_index": 888
+            },
+            {
+              "text": "123,216",
+              "confidence": 0.9996279853023338,
+              "start_index": 904
+            },
+            {
+              "text": "114,301",
+              "confidence": 0.9996279853023338,
+              "start_index": 920
+            },
+            {
+              "text": "Other",
+              "confidence": 0.9996279853023338,
+              "start_index": 945
+            },
+            {
+              "text": " income/(expense),",
+              "confidence": 0.9997052477164342,
+              "start_index": 950
+            },
+            {
+              "text": " net",
+              "confidence": 0.9858203747078004,
+              "start_index": 968
+            },
+            {
+              "text": "(321)",
+              "confidence": 0.9858203747078004,
+              "start_index": 981
+            },
+            {
+              "text": "269",
+              "confidence": 0.9858203747078004,
+              "start_index": 995
+            },
+            {
+              "text": "(565)",
+              "confidence": 0.9858203747078004,
+              "start_index": 1007
+            },
+            {
+              "text": "Income",
+              "confidence": 0.9858203747078004,
+              "start_index": 1030
+            },
+            {
+              "text": " before",
+              "confidence": 0.9999083364559224,
+              "start_index": 1036
+            },
+            {
+              "text": " provision",
+              "confidence": 0.9996806211353101,
+              "start_index": 1043
+            },
+            {
+              "text": " for",
+              "confidence": 0.9997310783153048,
+              "start_index": 1053
+            },
+            {
+              "text": "income",
+              "confidence": 0.9997310783153048,
+              "start_index": 1062
+            },
+            {
+              "text": " taxes",
+              "confidence": 0.9997632387636088,
+              "start_index": 1068
+            },
+            {
+              "text": "132,729",
+              "confidence": 0.9997632387636088,
+              "start_index": 1083
+            },
+            {
+              "text": "123,485",
+              "confidence": 0.9997632387636088,
+              "start_index": 1099
+            },
+            {
+              "text": "113,736",
+              "confidence": 0.9997632387636088,
+              "start_index": 1115
+            },
+            {
+              "text": "Provision",
+              "confidence": 0.9997632387636088,
+              "start_index": 1140
+            },
+            {
+              "text": " for",
+              "confidence": 0.9974063133362645,
+              "start_index": 1149
+            },
+            {
+              "text": " income",
+              "confidence": 0.9999243078326592,
+              "start_index": 1153
+            },
+            {
+              "text": " taxes",
+              "confidence": 0.999353468229025,
+              "start_index": 1160
+            },
+            {
+              "text": "20,719",
+              "confidence": 0.999353468229025,
+              "start_index": 1175
+            },
+            {
+              "text": "29,749",
+              "confidence": 0.999353468229025,
+              "start_index": 1190
+            },
+            {
+              "text": "16,741",
+              "confidence": 0.999353468229025,
+              "start_index": 1205
+            },
+            {
+              "text": "Net",
+              "confidence": 0.999353468229025,
+              "start_index": 1229
+            },
+            {
+              "text": " income",
+              "confidence": 0.9994831478707279,
+              "start_index": 1232
+            },
+            {
+              "text": "$",
+              "confidence": 0.9994831478707279,
+              "start_index": 1248
+            },
+            {
+              "text": " 112,010",
+              "confidence": 0.9612141446494569,
+              "start_index": 1249
+            },
+            {
+              "text": "$",
+              "confidence": 0.9612141446494569,
+              "start_index": 1266
+            },
+            {
+              "text": " 93,736",
+              "confidence": 0.9998980396937718,
+              "start_index": 1267
+            },
+            {
+              "text": "$",
+              "confidence": 0.9998980396937718,
+              "start_index": 1283
+            },
+            {
+              "text": " 96,995",
+              "confidence": 0.9998000145483671,
+              "start_index": 1284
+            },
+            {
+              "text": "Earnings",
+              "confidence": 0.9998000145483671,
+              "start_index": 1312
+            },
+            {
+              "text": " per",
+              "confidence": 0.9999880792130387,
+              "start_index": 1320
+            },
+            {
+              "text": " share:",
+              "confidence": 0.9999916301130876,
+              "start_index": 1324
+            },
+            {
+              "text": "Basic",
+              "confidence": 0.9999916301130876,
+              "start_index": 1380
+            },
+            {
+              "text": " (in",
+              "confidence": 0.9999554177636254,
+              "start_index": 1385
+            },
+            {
+              "text": " dollars",
+              "confidence": 0.9997954787021177,
+              "start_index": 1389
+            },
+            {
+              "text": " per",
+              "confidence": 0.9999020195665175,
+              "start_index": 1397
+            },
+            {
+              "text": " share)",
+              "confidence": 0.9999689166344186,
+              "start_index": 1401
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999689166344186,
+              "start_index": 1417
+            },
+            {
+              "text": " 7.49",
+              "confidence": 0.9999833117440983,
+              "start_index": 1418
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999833117440983,
+              "start_index": 1432
+            },
+            {
+              "text": " 6.11",
+              "confidence": 0.9999900583066299,
+              "start_index": 1433
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999900583066299,
+              "start_index": 1447
+            },
+            {
+              "text": " 6.16",
+              "confidence": 0.9999834628332355,
+              "start_index": 1448
+            },
+            {
+              "text": "Diluted",
+              "confidence": 0.9999834628332355,
+              "start_index": 1471
+            },
+            {
+              "text": " (in",
+              "confidence": 0.99998700640055,
+              "start_index": 1478
+            },
+            {
+              "text": " dollars",
+              "confidence": 0.9999078597062382,
+              "start_index": 1482
+            },
+            {
+              "text": " per",
+              "confidence": 0.9731300197577943,
+              "start_index": 1490
+            },
+            {
+              "text": "share)",
+              "confidence": 0.9731300197577943,
+              "start_index": 1499
+            },
+            {
+              "text": "$",
+              "confidence": 0.9731300197577943,
+              "start_index": 1514
+            },
+            {
+              "text": " 7.46",
+              "confidence": 0.9999815239728563,
+              "start_index": 1515
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999815239728563,
+              "start_index": 1529
+            },
+            {
+              "text": " 6.08",
+              "confidence": 0.9999276222247405,
+              "start_index": 1530
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999276222247405,
+              "start_index": 1544
+            },
+            {
+              "text": " 6.13",
+              "confidence": 0.9997196202208638,
+              "start_index": 1545
+            },
+            {
+              "text": "Shares",
+              "confidence": 0.9997196202208638,
+              "start_index": 1571
+            },
+            {
+              "text": " used",
+              "confidence": 0.9999865295319578,
+              "start_index": 1577
+            },
+            {
+              "text": " in",
+              "confidence": 0.9999647152949072,
+              "start_index": 1582
+            },
+            {
+              "text": " computing",
+              "confidence": 0.999942605103368,
+              "start_index": 1585
+            },
+            {
+              "text": "earnings",
+              "confidence": 0.999942605103368,
+              "start_index": 1600
+            },
+            {
+              "text": " per",
+              "confidence": 0.9999839070045525,
+              "start_index": 1608
+            },
+            {
+              "text": " share:",
+              "confidence": 0.9999625629731331,
+              "start_index": 1612
+            },
+            {
+              "text": "Basic",
+              "confidence": 0.9999625629731331,
+              "start_index": 1668
+            },
+            {
+              "text": " (in",
+              "confidence": 0.9999743111082359,
+              "start_index": 1673
+            },
+            {
+              "text": " shares)",
+              "confidence": 0.9998006504264817,
+              "start_index": 1677
+            },
+            {
+              "text": "14,948,500",
+              "confidence": 0.9998006504264817,
+              "start_index": 1694
+            },
+            {
+              "text": "15,343,783",
+              "confidence": 0.9998006504264817,
+              "start_index": 1713
+            },
+            {
+              "text": "15,744,231",
+              "confidence": 0.9998006504264817,
+              "start_index": 1732
+            },
+            {
+              "text": "Diluted",
+              "confidence": 0.9998006504264817,
+              "start_index": 1760
+            },
+            {
+              "text": " (in",
+              "confidence": 0.9999783043938564,
+              "start_index": 1767
+            },
+            {
+              "text": " shares)",
+              "confidence": 0.9964396125870137,
+              "start_index": 1771
+            },
+            {
+              "text": "15,004,697",
+              "confidence": 0.9964396125870137,
+              "start_index": 1788
+            },
+            {
+              "text": "15,408,095",
+              "confidence": 0.9964396125870137,
+              "start_index": 1807
+            },
+            {
+              "text": "15,812,547",
+              "confidence": 0.9964396125870137,
+              "start_index": 1826
+            },
+            {
+              "text": "Products",
+              "confidence": 0.9964396125870137,
+              "start_index": 1854
+            },
+            {
+              "text": "Net",
+              "confidence": 0.9964396125870137,
+              "start_index": 1907
+            },
+            {
+              "text": " sales",
+              "confidence": 0.9999941736948353,
+              "start_index": 1910
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999941736948353,
+              "start_index": 1925
+            },
+            {
+              "text": " 307,003",
+              "confidence": 0.9989327685830446,
+              "start_index": 1926
+            },
+            {
+              "text": "$",
+              "confidence": 0.9989327685830446,
+              "start_index": 1943
+            },
+            {
+              "text": " 294,866",
+              "confidence": 0.9996880765110129,
+              "start_index": 1944
+            },
+            {
+              "text": "$",
+              "confidence": 0.9996880765110129,
+              "start_index": 1961
+            },
+            {
+              "text": " 298,085",
+              "confidence": 0.9995985727964489,
+              "start_index": 1962
+            },
+            {
+              "text": "Cost",
+              "confidence": 0.9995985727964489,
+              "start_index": 1988
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999964237340748,
+              "start_index": 1992
+            },
+            {
+              "text": " sales",
+              "confidence": 0.997454795152894,
+              "start_index": 1995
+            },
+            {
+              "text": "194,116",
+              "confidence": 0.997454795152894,
+              "start_index": 2010
+            },
+            {
+              "text": "185,233",
+              "confidence": 0.997454795152894,
+              "start_index": 2026
+            },
+            {
+              "text": "189,282",
+              "confidence": 0.997454795152894,
+              "start_index": 2042
+            },
+            {
+              "text": "Services",
+              "confidence": 0.997454795152894,
+              "start_index": 2067
+            },
+            {
+              "text": "Net",
+              "confidence": 0.997454795152894,
+              "start_index": 2120
+            },
+            {
+              "text": " sales",
+              "confidence": 0.9998681931523706,
+              "start_index": 2123
+            },
+            {
+              "text": "109,158",
+              "confidence": 0.9998681931523706,
+              "start_index": 2138
+            },
+            {
+              "text": "96,169",
+              "confidence": 0.9998681931523706,
+              "start_index": 2154
+            },
+            {
+              "text": "85,200",
+              "confidence": 0.9998681931523706,
+              "start_index": 2169
+            },
+            {
+              "text": "Cost",
+              "confidence": 0.9998681931523706,
+              "start_index": 2193
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999982118638471,
+              "start_index": 2197
+            },
+            {
+              "text": " sales",
+              "confidence": 0.9999959767123489,
+              "start_index": 2200
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999959767123489,
+              "start_index": 2215
+            },
+            {
+              "text": " 26,844",
+              "confidence": 0.9997916466353102,
+              "start_index": 2216
+            },
+            {
+              "text": "$",
+              "confidence": 0.9997916466353102,
+              "start_index": 2232
+            },
+            {
+              "text": " 25,119",
+              "confidence": 0.9999768677637648,
+              "start_index": 2233
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999768677637648,
+              "start_index": 2249
+            },
+            {
+              "text": " 24,855",
+              "confidence": 0.9998655710650338,
+              "start_index": 2250
+            }
+          ]
+        }
+      ],
+      "hyperlinks": [],
+      "header": "XML 18 R3.htm IDEA: XBRL DOCUMENT",
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9949808587871298,
+        "minimum_page_confidence_score": 0.9949808587871298,
+        "word_confidence_scores": [
+          {
+            "text": "-",
+            "confidence": 0.9949808587871298,
+            "start_index": 4
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 61,
+          "top_left_y": 60,
+          "bottom_right_x": 302,
+          "bottom_right_y": 74,
+          "content": "XML 18 R3.htm IDEA: XBRL DOCUMENT",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 61,
+          "top_left_y": 76,
+          "bottom_right_x": 521,
+          "bottom_right_y": 598,
+          "content": "<table><thead><tr><th>CONSOLIDATED<br/>STATEMENTS OF<br/>OPERATIONS - USD ($)<br/>shares in Thousands,<br/>$ in Millions</th><th colspan=\"3\">12 Months Ended</th></tr><tr><th></th><th>Sep. 27,<br/>2025</th><th>Sep. 28,<br/>2024</th><th>Sep. 30,<br/>2023</th></tr></thead><tr><td>Net sales</td><td>$ 416,161</td><td>$ 391,035</td><td>$ 383,285</td></tr><tr><td>Cost of sales</td><td>220,960</td><td>210,352</td><td>214,137</td></tr><tr><td>Gross margin</td><td>195,201</td><td>180,683</td><td>169,148</td></tr><tr><td><b>Operating expenses:</b></td><td></td><td></td><td></td></tr><tr><td>Research and development</td><td>34,550</td><td>31,370</td><td>29,915</td></tr><tr><td>Selling, general and<br/>administrative</td><td>27,601</td><td>26,097</td><td>24,932</td></tr><tr><td>Total operating expenses</td><td>62,151</td><td>57,467</td><td>54,847</td></tr><tr><td>Operating income</td><td>133,050</td><td>123,216</td><td>114,301</td></tr><tr><td>Other income/(expense), net</td><td>(321)</td><td>269</td><td>(565)</td></tr><tr><td>Income before provision for<br/>income taxes</td><td>132,729</td><td>123,485</td><td>113,736</td></tr><tr><td>Provision for income taxes</td><td>20,719</td><td>29,749</td><td>16,741</td></tr><tr><td>Net income</td><td>$ 112,010</td><td>$ 93,736</td><td>$ 96,995</td></tr><tr><td><b>Earnings per share:</b></td><td></td><td></td><td></td></tr><tr><td>Basic (in dollars per share)</td><td>$ 7.49</td><td>$ 6.11</td><td>$ 6.16</td></tr><tr><td>Diluted (in dollars per<br/>share)</td><td>$ 7.46</td><td>$ 6.08</td><td>$ 6.13</td></tr><tr><td><b>Shares used in computing<br/>earnings per share:</b></td><td></td><td></td><td></td></tr><tr><td>Basic (in shares)</td><td>14,948,500</td><td>15,343,783</td><td>15,744,231</td></tr><tr><td>Diluted (in shares)</td><td>15,004,697</td><td>15,408,095</td><td>15,812,547</td></tr><tr><td>Products</td><td></td><td></td><td></td></tr><tr><td>Net sales</td><td>$ 307,003</td><td>$ 294,866</td><td>$ 298,085</td></tr><tr><td>Cost of sales</td><td>194,116</td><td>185,233</td><td>189,282</td></tr><tr><td>Services</td><td></td><td></td><td></td></tr><tr><td>Net sales</td><td>109,158</td><td>96,169</td><td>85,200</td></tr><tr><td>Cost of sales</td><td>$ 26,844</td><td>$ 25,119</td><td>$ 24,855</td></tr></table>",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.html"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4-1",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 85702
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [\"IDEA\"], \"reporting_period\": \"12 Months Ended Sep. 27, 2025; Sep. 28, 2024; Sep. 30, 2023\", \"key_dates\": [\"Sep. 27, 2025\", \"Sep. 28, 2024\", \"Sep. 30, 2023\"], \"key_amounts\": [{\"label\": \"Net Sales\", \"value\": \"$ 416,161\"}, {\"label\": \"Gross Margin\", \"value\": \"$ 195,201\"}, {\"label\": \"Operating Income\", \"value\": \"$ 133,050\"}, {\"label\": \"Income Before Provision for Income Taxes\", \"value\": \"$ 132,729\"}, {\"label\": \"Provision for Income Taxes\", \"value\": \"$ 20,719\"}, {\"label\": \"Net Income\", \"value\": \"$ 112,010\"}, {\"label\": \"Basic Earnings Per Share\", \"value\": \"$ 7.49\"}, {\"label\": \"Diluted Earnings Per Share\", \"value\": \"$ 7.46\"}], \"signatories\": [], \"contains_table\": true, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

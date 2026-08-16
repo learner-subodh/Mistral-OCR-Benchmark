@@ -1,0 +1,7 @@
+source_category,dpi,mistral-ocr-2512,mistral-ocr-3,mistral-ocr-3-0,mistral-ocr-4,mistral-ocr-4-0,mistral-ocr-4-1,mistral-ocr-latest
+multi_header_financial_table,72,0.992,0.992,0.992,0.995,0.991,0.995,0.994
+multi_header_financial_table,150,0.985,0.985,0.984,0.9984999999999999,0.9984999999999999,0.9995,0.9984999999999999
+multi_header_financial_table,300,0.991,0.991,0.992,1.0,1.0,1.0,1.0
+signature_block,72,0.997,0.997,0.997,0.998,0.996,0.998,0.998
+signature_block,150,0.999,0.999,0.998,0.999,0.998,0.999,0.999
+signature_block,300,0.999,0.997,0.997,0.997,0.999,0.997,0.997

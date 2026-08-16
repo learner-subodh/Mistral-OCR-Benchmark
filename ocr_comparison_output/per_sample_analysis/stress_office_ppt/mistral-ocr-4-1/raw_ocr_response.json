@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Q4 Financial Outlook\n\n# Confidential - Internal Use Only",
+      "images": [],
+      "dimensions": null,
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-4-1",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 28269
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [\"Company (Internal)\"] , \"reporting_period\": \"Q4\", \"key_dates\": [\"Q4 End Date (implied)\", \"Fiscal Year-End (implied)\"], \"key_amounts\": [{\"label\": \"Projected Revenue\", \"value\": \"Confidential - Internal Use Only\"}, {\"label\": \"Projected Net Income\", \"value\": \"Confidential - Internal Use Only\"}, {\"label\": \"Projected Expenses\", \"value\": \"Confidential - Internal Use Only\"}], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

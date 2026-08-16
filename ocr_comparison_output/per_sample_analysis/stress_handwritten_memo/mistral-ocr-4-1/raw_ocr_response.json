@@ -1,0 +1,214 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Internal Memo\n\nTo: Finance Team\n\nPlease ensure the Q4 reconciliation is completed by Friday.\nWe noticed a discrepancy in the APAC region's ledger entries.\nApproved for immediate processing.",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 810,
+        "width": 1386
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.992804592258324,
+        "minimum_page_confidence_score": 0.8174025129759559,
+        "word_confidence_scores": [
+          {
+            "text": "#",
+            "confidence": 0.98756834804845,
+            "start_index": 0
+          },
+          {
+            "text": " Internal",
+            "confidence": 0.9973599461625493,
+            "start_index": 1
+          },
+          {
+            "text": " Memo",
+            "confidence": 0.9999991655356624,
+            "start_index": 10
+          },
+          {
+            "text": "To:",
+            "confidence": 0.9999818805959008,
+            "start_index": 17
+          },
+          {
+            "text": " Finance",
+            "confidence": 0.9999986886995842,
+            "start_index": 20
+          },
+          {
+            "text": " Team",
+            "confidence": 0.9999998807907247,
+            "start_index": 28
+          },
+          {
+            "text": "Please",
+            "confidence": 0.9999972581939645,
+            "start_index": 35
+          },
+          {
+            "text": " ensure",
+            "confidence": 0.9999953508594287,
+            "start_index": 41
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999996423722521,
+            "start_index": 48
+          },
+          {
+            "text": " Q4",
+            "confidence": 0.9999848607046187,
+            "start_index": 52
+          },
+          {
+            "text": " reconciliation",
+            "confidence": 0.9999436171854098,
+            "start_index": 55
+          },
+          {
+            "text": " is",
+            "confidence": 0.9999996423722521,
+            "start_index": 70
+          },
+          {
+            "text": " completed",
+            "confidence": 0.9999941587791524,
+            "start_index": 73
+          },
+          {
+            "text": " by",
+            "confidence": 0.9999997615814777,
+            "start_index": 83
+          },
+          {
+            "text": " Friday.",
+            "confidence": 0.9751095477984357,
+            "start_index": 86
+          },
+          {
+            "text": "\n",
+            "confidence": 0.8174025129759559,
+            "start_index": 94
+          },
+          {
+            "text": "We",
+            "confidence": 0.9999965429424904,
+            "start_index": 95
+          },
+          {
+            "text": " noticed",
+            "confidence": 0.9999815229018083,
+            "start_index": 97
+          },
+          {
+            "text": " a",
+            "confidence": 0.9999996423722521,
+            "start_index": 105
+          },
+          {
+            "text": " discrepancy",
+            "confidence": 0.9997853501603268,
+            "start_index": 107
+          },
+          {
+            "text": " in",
+            "confidence": 1.0,
+            "start_index": 119
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999997615814777,
+            "start_index": 122
+          },
+          {
+            "text": " APAC",
+            "confidence": 0.9999929428613357,
+            "start_index": 126
+          },
+          {
+            "text": " region's",
+            "confidence": 0.9999971787284375,
+            "start_index": 131
+          },
+          {
+            "text": " ledger",
+            "confidence": 0.9999921322487634,
+            "start_index": 140
+          },
+          {
+            "text": " entries.",
+            "confidence": 0.9999638411586318,
+            "start_index": 147
+          },
+          {
+            "text": "\n",
+            "confidence": 0.9999597088831099,
+            "start_index": 156
+          },
+          {
+            "text": "Approved",
+            "confidence": 0.9999568480995752,
+            "start_index": 157
+          },
+          {
+            "text": " for",
+            "confidence": 0.9999991655356624,
+            "start_index": 165
+          },
+          {
+            "text": " immediate",
+            "confidence": 0.9999878408000585,
+            "start_index": 169
+          },
+          {
+            "text": " processing.",
+            "confidence": 0.9999956190782949,
+            "start_index": 179
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 140,
+          "top_left_y": 135,
+          "bottom_right_x": 511,
+          "bottom_right_y": 180,
+          "content": "# Internal Memo",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 140,
+          "top_left_y": 221,
+          "bottom_right_x": 429,
+          "bottom_right_y": 255,
+          "content": "To: Finance Team",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 358,
+          "bottom_right_x": 1368,
+          "bottom_right_y": 492,
+          "content": "Please ensure the Q4 reconciliation is completed by Friday.\nWe noticed a discrepancy in the APAC region's ledger entries.\nApproved for immediate processing.",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4-1",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 83624
+  },
+  "document_annotation": "{\"document_type\": \"Internal Memo\", \"primary_entities\": [\"Finance Team\", \"APAC region\"], \"reporting_period\": null, \"key_dates\": [\"Friday (deadline for Q4 reconciliation)\"], \"key_amounts\": [], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

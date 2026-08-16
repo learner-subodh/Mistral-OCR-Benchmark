@@ -1,0 +1,655 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "[tbl-0.html](tbl-0.html)",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1280,
+        "width": 2172
+      },
+      "tables": [
+        {
+          "id": "tbl-0.html",
+          "content": "<table><tr><td rowspan=\"3\"></td><td colspan=\"6\">Consumer Banking</td><td colspan=\"6\">Corporate &amp; Investment Banking</td><td colspan=\"6\">Asset &amp; Wealth Mgmt</td></tr><tr><td colspan=\"2\">Americas</td><td colspan=\"2\">EMEA</td><td colspan=\"2\">APAC</td><td colspan=\"2\">Americas</td><td colspan=\"2\">EMEA</td><td colspan=\"2\">APAC</td><td colspan=\"2\">Americas</td><td colspan=\"2\">EMEA</td><td colspan=\"2\">APAC</td></tr><tr><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td></tr><tr><td>Net Revenue ($M)</td><td>2,732</td><td>1,315</td><td>3,314</td><td>475</td><td>673</td><td>851</td><td>3,075</td><td>555</td><td>1,838</td><td>387</td><td>784</td><td>3,632</td><td>3,505</td><td>652</td><td>2,051</td><td>823</td><td>3,557</td><td>564</td></tr><tr><td>Operating Expense ($M)</td><td>1,094</td><td>1,908</td><td>586</td><td>3,329</td><td>486</td><td>1,891</td><td>461</td><td>1,170</td><td>2,452</td><td>3,513</td><td>1,261</td><td>1,044</td><td>2,607</td><td>1,560</td><td>924</td><td>1,619</td><td>3,130</td><td>878</td></tr><tr><td>Net Income ($M)</td><td>594</td><td>568</td><td>1,767</td><td>4,146</td><td>3,582</td><td>2,653</td><td>3,894</td><td>3,792</td><td>3,042</td><td>2,535</td><td>2,115</td><td>1,552</td><td>2,079</td><td>750</td><td>2,539</td><td>4,135</td><td>2,893</td><td>3,756</td></tr><tr><td>Headcount (FTE)</td><td>1,229</td><td>2,544</td><td>349</td><td>533</td><td>2,146</td><td>1,762</td><td>725</td><td>1,451</td><td>672</td><td>2,052</td><td>1,777</td><td>210</td><td>2,787</td><td>367</td><td>2,335</td><td>2,397</td><td>1,335</td><td>1,443</td></tr></table>",
+          "format": "html",
+          "word_confidence_scores": [
+            {
+              "text": "Consumer",
+              "confidence": 0.9956306148428796,
+              "start_index": 48
+            },
+            {
+              "text": " Banking",
+              "confidence": 0.999998331080235,
+              "start_index": 56
+            },
+            {
+              "text": "Corporate",
+              "confidence": 0.9999662882283734,
+              "start_index": 85
+            },
+            {
+              "text": " &amp;",
+              "confidence": 0.9999981522614659,
+              "start_index": 94
+            },
+            {
+              "text": " Investment",
+              "confidence": 0.9999898673126559,
+              "start_index": 100
+            },
+            {
+              "text": " Banking",
+              "confidence": 0.9999992698455281,
+              "start_index": 111
+            },
+            {
+              "text": "Asset",
+              "confidence": 0.9999957482398107,
+              "start_index": 140
+            },
+            {
+              "text": " &amp;",
+              "confidence": 0.9999957084898293,
+              "start_index": 145
+            },
+            {
+              "text": " Wealth",
+              "confidence": 0.9999991655356624,
+              "start_index": 151
+            },
+            {
+              "text": " Mgmt",
+              "confidence": 0.9999902629837858,
+              "start_index": 158
+            },
+            {
+              "text": "Americas",
+              "confidence": 0.9999331277341899,
+              "start_index": 193
+            },
+            {
+              "text": "EMEA",
+              "confidence": 0.999961830614821,
+              "start_index": 222
+            },
+            {
+              "text": "APAC",
+              "confidence": 0.9999254005954639,
+              "start_index": 247
+            },
+            {
+              "text": "Americas",
+              "confidence": 0.9999987215863173,
+              "start_index": 272
+            },
+            {
+              "text": "EMEA",
+              "confidence": 0.999999799728487,
+              "start_index": 301
+            },
+            {
+              "text": "APAC",
+              "confidence": 0.9999994659429909,
+              "start_index": 326
+            },
+            {
+              "text": "Americas",
+              "confidence": 0.9999984708359967,
+              "start_index": 351
+            },
+            {
+              "text": "EMEA",
+              "confidence": 0.9999998474121802,
+              "start_index": 380
+            },
+            {
+              "text": "APAC",
+              "confidence": 0.9999995071073721,
+              "start_index": 405
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 427
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 438
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 449
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 460
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 471
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 482
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 493
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 504
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 515
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 526
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 537
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 548
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 559
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 570
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 581
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 592
+            },
+            {
+              "text": "Q1",
+              "confidence": 0.9999995071073721,
+              "start_index": 603
+            },
+            {
+              "text": "Q2",
+              "confidence": 0.9999995071073721,
+              "start_index": 614
+            },
+            {
+              "text": "Net",
+              "confidence": 0.9999995071073721,
+              "start_index": 634
+            },
+            {
+              "text": " Revenue",
+              "confidence": 0.9999768739326302,
+              "start_index": 637
+            },
+            {
+              "text": " ($M)",
+              "confidence": 0.9999988818799169,
+              "start_index": 645
+            },
+            {
+              "text": "2,732",
+              "confidence": 0.9999988818799169,
+              "start_index": 659
+            },
+            {
+              "text": "1,315",
+              "confidence": 0.9999988818799169,
+              "start_index": 673
+            },
+            {
+              "text": "3,314",
+              "confidence": 0.9999988818799169,
+              "start_index": 687
+            },
+            {
+              "text": "475",
+              "confidence": 0.9999988818799169,
+              "start_index": 701
+            },
+            {
+              "text": "673",
+              "confidence": 0.9999988818799169,
+              "start_index": 713
+            },
+            {
+              "text": "851",
+              "confidence": 0.9999988818799169,
+              "start_index": 725
+            },
+            {
+              "text": "3,075",
+              "confidence": 0.9999988818799169,
+              "start_index": 737
+            },
+            {
+              "text": "555",
+              "confidence": 0.9999988818799169,
+              "start_index": 751
+            },
+            {
+              "text": "1,838",
+              "confidence": 0.9999988818799169,
+              "start_index": 763
+            },
+            {
+              "text": "387",
+              "confidence": 0.9999988818799169,
+              "start_index": 777
+            },
+            {
+              "text": "784",
+              "confidence": 0.9999988818799169,
+              "start_index": 789
+            },
+            {
+              "text": "3,632",
+              "confidence": 0.9999988818799169,
+              "start_index": 801
+            },
+            {
+              "text": "3,505",
+              "confidence": 0.9999988818799169,
+              "start_index": 815
+            },
+            {
+              "text": "652",
+              "confidence": 0.9999988818799169,
+              "start_index": 829
+            },
+            {
+              "text": "2,051",
+              "confidence": 0.9999988818799169,
+              "start_index": 841
+            },
+            {
+              "text": "823",
+              "confidence": 0.9999988818799169,
+              "start_index": 855
+            },
+            {
+              "text": "3,557",
+              "confidence": 0.9999988818799169,
+              "start_index": 867
+            },
+            {
+              "text": "564",
+              "confidence": 0.9999988818799169,
+              "start_index": 881
+            },
+            {
+              "text": "Operating",
+              "confidence": 0.9999988818799169,
+              "start_index": 902
+            },
+            {
+              "text": " Expense",
+              "confidence": 0.9999992847447459,
+              "start_index": 911
+            },
+            {
+              "text": " ($M)",
+              "confidence": 0.9999998122899996,
+              "start_index": 919
+            },
+            {
+              "text": "1,094",
+              "confidence": 0.9999998122899996,
+              "start_index": 933
+            },
+            {
+              "text": "1,908",
+              "confidence": 0.9999998122899996,
+              "start_index": 947
+            },
+            {
+              "text": "586",
+              "confidence": 0.9999998122899996,
+              "start_index": 961
+            },
+            {
+              "text": "3,329",
+              "confidence": 0.9999998122899996,
+              "start_index": 973
+            },
+            {
+              "text": "486",
+              "confidence": 0.9999998122899996,
+              "start_index": 987
+            },
+            {
+              "text": "1,891",
+              "confidence": 0.9999998122899996,
+              "start_index": 999
+            },
+            {
+              "text": "461",
+              "confidence": 0.9999998122899996,
+              "start_index": 1013
+            },
+            {
+              "text": "1,170",
+              "confidence": 0.9999998122899996,
+              "start_index": 1025
+            },
+            {
+              "text": "2,452",
+              "confidence": 0.9999998122899996,
+              "start_index": 1039
+            },
+            {
+              "text": "3,513",
+              "confidence": 0.9999998122899996,
+              "start_index": 1053
+            },
+            {
+              "text": "1,261",
+              "confidence": 0.9999998122899996,
+              "start_index": 1067
+            },
+            {
+              "text": "1,044",
+              "confidence": 0.9999998122899996,
+              "start_index": 1081
+            },
+            {
+              "text": "2,607",
+              "confidence": 0.9999998122899996,
+              "start_index": 1095
+            },
+            {
+              "text": "1,560",
+              "confidence": 0.9999998122899996,
+              "start_index": 1109
+            },
+            {
+              "text": "924",
+              "confidence": 0.9999998122899996,
+              "start_index": 1123
+            },
+            {
+              "text": "1,619",
+              "confidence": 0.9999998122899996,
+              "start_index": 1135
+            },
+            {
+              "text": "3,130",
+              "confidence": 0.9999998122899996,
+              "start_index": 1149
+            },
+            {
+              "text": "878",
+              "confidence": 0.9999998122899996,
+              "start_index": 1163
+            },
+            {
+              "text": "Net",
+              "confidence": 0.9999998122899996,
+              "start_index": 1184
+            },
+            {
+              "text": " Income",
+              "confidence": 0.9999988079084972,
+              "start_index": 1187
+            },
+            {
+              "text": " ($M)",
+              "confidence": 0.9999997525765769,
+              "start_index": 1194
+            },
+            {
+              "text": "594",
+              "confidence": 0.9999997525765769,
+              "start_index": 1208
+            },
+            {
+              "text": "568",
+              "confidence": 0.9999997525765769,
+              "start_index": 1220
+            },
+            {
+              "text": "1,767",
+              "confidence": 0.9999997525765769,
+              "start_index": 1232
+            },
+            {
+              "text": "4,146",
+              "confidence": 0.9999997525765769,
+              "start_index": 1246
+            },
+            {
+              "text": "3,582",
+              "confidence": 0.9999997525765769,
+              "start_index": 1260
+            },
+            {
+              "text": "2,653",
+              "confidence": 0.9999997525765769,
+              "start_index": 1274
+            },
+            {
+              "text": "3,894",
+              "confidence": 0.9999997525765769,
+              "start_index": 1288
+            },
+            {
+              "text": "3,792",
+              "confidence": 0.9999997525765769,
+              "start_index": 1302
+            },
+            {
+              "text": "3,042",
+              "confidence": 0.9999997525765769,
+              "start_index": 1316
+            },
+            {
+              "text": "2,535",
+              "confidence": 0.9999997525765769,
+              "start_index": 1330
+            },
+            {
+              "text": "2,115",
+              "confidence": 0.9999997525765769,
+              "start_index": 1344
+            },
+            {
+              "text": "1,552",
+              "confidence": 0.9999997525765769,
+              "start_index": 1358
+            },
+            {
+              "text": "2,079",
+              "confidence": 0.9999997525765769,
+              "start_index": 1372
+            },
+            {
+              "text": "750",
+              "confidence": 0.9999997525765769,
+              "start_index": 1386
+            },
+            {
+              "text": "2,539",
+              "confidence": 0.9999997525765769,
+              "start_index": 1398
+            },
+            {
+              "text": "4,135",
+              "confidence": 0.9999997525765769,
+              "start_index": 1412
+            },
+            {
+              "text": "2,893",
+              "confidence": 0.9999997525765769,
+              "start_index": 1426
+            },
+            {
+              "text": "3,756",
+              "confidence": 0.9999997525765769,
+              "start_index": 1440
+            },
+            {
+              "text": "Headcount",
+              "confidence": 0.9999997525765769,
+              "start_index": 1463
+            },
+            {
+              "text": " (FTE)",
+              "confidence": 0.9999784815471516,
+              "start_index": 1472
+            },
+            {
+              "text": "1,229",
+              "confidence": 0.9999784815471516,
+              "start_index": 1487
+            },
+            {
+              "text": "2,544",
+              "confidence": 0.9999784815471516,
+              "start_index": 1501
+            },
+            {
+              "text": "349",
+              "confidence": 0.9999784815471516,
+              "start_index": 1515
+            },
+            {
+              "text": "533",
+              "confidence": 0.9999784815471516,
+              "start_index": 1527
+            },
+            {
+              "text": "2,146",
+              "confidence": 0.9999784815471516,
+              "start_index": 1539
+            },
+            {
+              "text": "1,762",
+              "confidence": 0.9999784815471516,
+              "start_index": 1553
+            },
+            {
+              "text": "725",
+              "confidence": 0.9999784815471516,
+              "start_index": 1567
+            },
+            {
+              "text": "1,451",
+              "confidence": 0.9999784815471516,
+              "start_index": 1579
+            },
+            {
+              "text": "672",
+              "confidence": 0.9999784815471516,
+              "start_index": 1593
+            },
+            {
+              "text": "2,052",
+              "confidence": 0.9999784815471516,
+              "start_index": 1605
+            },
+            {
+              "text": "1,777",
+              "confidence": 0.9999784815471516,
+              "start_index": 1619
+            },
+            {
+              "text": "210",
+              "confidence": 0.9999784815471516,
+              "start_index": 1633
+            },
+            {
+              "text": "2,787",
+              "confidence": 0.9999784815471516,
+              "start_index": 1645
+            },
+            {
+              "text": "367",
+              "confidence": 0.9999784815471516,
+              "start_index": 1659
+            },
+            {
+              "text": "2,335",
+              "confidence": 0.9999784815471516,
+              "start_index": 1671
+            },
+            {
+              "text": "2,397",
+              "confidence": 0.9999784815471516,
+              "start_index": 1685
+            },
+            {
+              "text": "1,335",
+              "confidence": 0.9999784815471516,
+              "start_index": 1699
+            },
+            {
+              "text": "1,443",
+              "confidence": 0.9999784815471516,
+              "start_index": 1713
+            }
+          ]
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9986529339075515,
+        "minimum_page_confidence_score": 0.9986529339075515,
+        "word_confidence_scores": [
+          {
+            "text": "[tbl-0.html](tbl-0.html)",
+            "confidence": 0.9986529339075515,
+            "start_index": 0
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 0,
+          "bottom_right_x": 2172,
+          "bottom_right_y": 1280,
+          "content": "<table><tr><td rowspan=\"3\"></td><td colspan=\"6\">Consumer Banking</td><td colspan=\"6\">Corporate &amp; Investment Banking</td><td colspan=\"6\">Asset &amp; Wealth Mgmt</td></tr><tr><td colspan=\"2\">Americas</td><td colspan=\"2\">EMEA</td><td colspan=\"2\">APAC</td><td colspan=\"2\">Americas</td><td colspan=\"2\">EMEA</td><td colspan=\"2\">APAC</td><td colspan=\"2\">Americas</td><td colspan=\"2\">EMEA</td><td colspan=\"2\">APAC</td></tr><tr><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td><td>Q1</td><td>Q2</td></tr><tr><td>Net Revenue ($M)</td><td>2,732</td><td>1,315</td><td>3,314</td><td>475</td><td>673</td><td>851</td><td>3,075</td><td>555</td><td>1,838</td><td>387</td><td>784</td><td>3,632</td><td>3,505</td><td>652</td><td>2,051</td><td>823</td><td>3,557</td><td>564</td></tr><tr><td>Operating Expense ($M)</td><td>1,094</td><td>1,908</td><td>586</td><td>3,329</td><td>486</td><td>1,891</td><td>461</td><td>1,170</td><td>2,452</td><td>3,513</td><td>1,261</td><td>1,044</td><td>2,607</td><td>1,560</td><td>924</td><td>1,619</td><td>3,130</td><td>878</td></tr><tr><td>Net Income ($M)</td><td>594</td><td>568</td><td>1,767</td><td>4,146</td><td>3,582</td><td>2,653</td><td>3,894</td><td>3,792</td><td>3,042</td><td>2,535</td><td>2,115</td><td>1,552</td><td>2,079</td><td>750</td><td>2,539</td><td>4,135</td><td>2,893</td><td>3,756</td></tr><tr><td>Headcount (FTE)</td><td>1,229</td><td>2,544</td><td>349</td><td>533</td><td>2,146</td><td>1,762</td><td>725</td><td>1,451</td><td>672</td><td>2,052</td><td>1,777</td><td>210</td><td>2,787</td><td>367</td><td>2,335</td><td>2,397</td><td>1,335</td><td>1,443</td></tr></table>",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.html"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-4-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 107300
+  },
+  "document_annotation": "{\"document_type\": \"Rate Table\", \"primary_entities\": [\"Consumer Banking\", \"Corporate & Investment Banking\", \"Asset & Wealth Management\"], \"reporting_period\": null, \"key_dates\": [\"Q1\", \"Q2\"], \"key_amounts\": [{\"label\": \"Consumer Banking Net Revenue (Q1)\", \"value\": \"$2,732M\"}, {\"label\": \"Consumer Banking Net Revenue (Q2)\", \"value\": \"$1,315M\"}, {\"label\": \"Corporate & Investment Banking Net Revenue (Q1)\", \"value\": \"$3,075M\"}, {\"label\": \"Corporate & Investment Banking Net Revenue (Q2)\", \"value\": \"$555M\"}, {\"label\": \"Asset & Wealth Management Net Revenue (Q1)\", \"value\": \"$3,632M\"}, {\"label\": \"Asset & Wealth Management Net Revenue (Q2)\", \"value\": \"$3,505M\"}, {\"label\": \"Consumer Banking Net Income (Q1)\", \"value\": \"$594M\"}, {\"label\": \"Consumer Banking Net Income (Q2)\", \"value\": \"$568M\"}], \"signatories\": [], \"contains_table\": true, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

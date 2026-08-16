@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# MOD\n\n**TOTAL AMOUNT DUE:** $45,200.00\n\nCheck #882",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 656,
+        "width": 1280
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.7984232972385976,
+        "minimum_page_confidence_score": 0.5201692753959954,
+        "word_confidence_scores": [
+          {
+            "text": "#",
+            "confidence": 0.6384620908782044,
+            "start_index": 0
+          },
+          {
+            "text": " MOD",
+            "confidence": 0.5201692753959954,
+            "start_index": 1
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.923713392413182,
+            "start_index": 5
+          },
+          {
+            "text": "**TOTAL",
+            "confidence": 0.94297151116431,
+            "start_index": 7
+          },
+          {
+            "text": " AMOUNT",
+            "confidence": 0.9999917150440621,
+            "start_index": 14
+          },
+          {
+            "text": " DUE:**",
+            "confidence": 0.8665424135347873,
+            "start_index": 21
+          },
+          {
+            "text": " $45,200.00",
+            "confidence": 0.9999738253819233,
+            "start_index": 28
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.5620817154927972,
+            "start_index": 39
+          },
+          {
+            "text": "Check",
+            "confidence": 0.5305645348520379,
+            "start_index": 41
+          },
+          {
+            "text": " #882",
+            "confidence": 0.9997624982286764,
+            "start_index": 46
+          }
+        ]
+      },
+      "blocks": []
+    }
+  ],
+  "model": "mistral-ocr-3",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 49783
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [], \"reporting_period\": null, \"key_dates\": [], \"key_amounts\": [{\"label\": \"Total Amount Due\", \"value\": \"$45,200.00\"}], \"signatories\": [], \"contains_table\": false, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

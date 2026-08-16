@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Master Service Agreement - Draft\n\nThis agreement is entered into by and between...\n\n| Service ID | Rate | Total |\n| SRV-100 | $150.00 | $4,500.00 |",
+      "images": [],
+      "dimensions": null,
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": null,
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-3-0",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 36827
+  },
+  "document_annotation": "{\"document_type\": \"Contract\", \"primary_entities\": [\"Master Service Agreement\"], \"reporting_period\": null, \"key_dates\": [], \"key_amounts\": [{\"label\": \"Total Service Cost\", \"value\": \"$4,500.00\"}], \"signatories\": [], \"contains_table\": true, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

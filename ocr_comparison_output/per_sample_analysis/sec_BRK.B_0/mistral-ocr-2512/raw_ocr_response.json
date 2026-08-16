@@ -1,0 +1,2608 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "XML 16 R2.htm IDEA: XBRL DOCUMENT\n\nConsolidated Balance\nSheets - USD ($)\n$ in Millions\n\n[tbl-0.html](tbl-0.html)",
+      "images": [],
+      "dimensions": {
+        "dpi": 87,
+        "height": 1018,
+        "width": 720
+      },
+      "tables": [
+        {
+          "id": "tbl-0.html",
+          "content": "<table><tr><th></th><th>Dec. 31, 2025</th><th>Dec. 31, 2024</th></tr><tr><td>Assets:</td><td></td><td></td></tr><tr><td>Investments in fixed maturity securities</td><td>$ 17,816</td><td>$ 15,364</td></tr><tr><td>Investments in equity securities</td><td>297,778</td><td>271,588</td></tr><tr><td>Equity method investments</td><td>19,978</td><td>31,134</td></tr><tr><td>Loans and finance receivables</td><td>29,836</td><td>27,798</td></tr><tr><td>Inventories</td><td>24,424</td><td>24,008</td></tr><tr><td>Equipment held for lease</td><td>18,535</td><td>17,828</td></tr><tr><td>Goodwill</td><td>[1] 83,074</td><td>83,880</td></tr><tr><td>Total assets</td><td>1,222,176</td><td>1,153,881</td></tr><tr><td>Liabilities:</td><td></td><td></td></tr><tr><td>Life, annuity and health insurance benefits</td><td>17,890</td><td>17,616</td></tr><tr><td>Payable for purchase of U.S. Treasury Bills</td><td>167</td><td>12,800</td></tr><tr><td>Income taxes, principally deferred</td><td>86,955</td><td>85,870</td></tr><tr><td>Total liabilities</td><td>502,473</td><td>502,226</td></tr><tr><td>Shareholders' equity:</td><td></td><td></td></tr><tr><td>Common stock at par value</td><td>8</td><td>8</td></tr><tr><td>Capital in excess of par value</td><td>35,612</td><td>35,665</td></tr><tr><td>Accumulated other comprehensive income</td><td>(2,448)</td><td>(3,584)</td></tr><tr><td>Retained earnings</td><td>763,186</td><td>696,218</td></tr><tr><td>Treasury stock, at cost</td><td>(78,939)</td><td>(78,939)</td></tr><tr><td>Berkshire shareholders' equity</td><td>717,419</td><td>649,368</td></tr><tr><td>Noncontrolling interests</td><td>2,284</td><td>2,287</td></tr><tr><td>Total shareholders' equity</td><td>719,703</td><td>651,655</td></tr><tr><td>Total liabilities and shareholders' equity</td><td>1,222,176</td><td>1,153,881</td></tr><tr><td>Insurance and Other [Member]</td><td></td><td></td></tr><tr><td>Assets:</td><td></td><td></td></tr><tr><td>Cash and cash equivalents</td><td>[2] 47,719</td><td>44,333</td></tr><tr><td>Short-term investments in U.S. Treasury Bills</td><td>[3] 321,434</td><td>286,472</td></tr><tr><td>Investments in fixed maturity securities</td><td>17,816</td><td>15,364</td></tr><tr><td>Investments in equity securities</td><td>297,778</td><td>271,588</td></tr><tr><td>Equity method investments</td><td>19,978</td><td>31,134</td></tr><tr><td>Loans and finance receivables</td><td>29,836</td><td>27,798</td></tr><tr><td>Other receivables</td><td>44,331</td><td>43,887</td></tr></table>",
+          "format": "html",
+          "word_confidence_scores": [
+            {
+              "text": "Dec.",
+              "confidence": 0.9590195634513928,
+              "start_index": 24
+            },
+            {
+              "text": " 31,",
+              "confidence": 0.9999993145475163,
+              "start_index": 28
+            },
+            {
+              "text": " 2025",
+              "confidence": 0.9997479582097306,
+              "start_index": 32
+            },
+            {
+              "text": "Dec.",
+              "confidence": 0.9997479582097306,
+              "start_index": 46
+            },
+            {
+              "text": " 31,",
+              "confidence": 0.9999999403953641,
+              "start_index": 50
+            },
+            {
+              "text": " 2024",
+              "confidence": 0.9768656141792188,
+              "start_index": 54
+            },
+            {
+              "text": "Assets:",
+              "confidence": 0.9768656141792188,
+              "start_index": 77
+            },
+            {
+              "text": "Investments",
+              "confidence": 0.9768656141792188,
+              "start_index": 120
+            },
+            {
+              "text": " in",
+              "confidence": 0.9999977350285647,
+              "start_index": 131
+            },
+            {
+              "text": " fixed",
+              "confidence": 0.9999369422603869,
+              "start_index": 134
+            },
+            {
+              "text": " maturity",
+              "confidence": 0.9999531529452337,
+              "start_index": 140
+            },
+            {
+              "text": " securities",
+              "confidence": 0.9999853576159635,
+              "start_index": 149
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999853576159635,
+              "start_index": 169
+            },
+            {
+              "text": " 17,816",
+              "confidence": 0.9999425425764193,
+              "start_index": 170
+            },
+            {
+              "text": "$",
+              "confidence": 0.9999425425764193,
+              "start_index": 186
+            },
+            {
+              "text": " 15,364",
+              "confidence": 0.9999958012421467,
+              "start_index": 187
+            },
+            {
+              "text": "Investments",
+              "confidence": 0.9999958012421467,
+              "start_index": 212
+            },
+            {
+              "text": " in",
+              "confidence": 1.0,
+              "start_index": 223
+            },
+            {
+              "text": " equity",
+              "confidence": 0.9999988079084972,
+              "start_index": 226
+            },
+            {
+              "text": " securities",
+              "confidence": 0.9999949735206453,
+              "start_index": 233
+            },
+            {
+              "text": "297,778",
+              "confidence": 0.9999949735206453,
+              "start_index": 253
+            },
+            {
+              "text": "271,588",
+              "confidence": 0.9999949735206453,
+              "start_index": 269
+            },
+            {
+              "text": "Equity",
+              "confidence": 0.9999949735206453,
+              "start_index": 294
+            },
+            {
+              "text": " method",
+              "confidence": 0.9999965429424904,
+              "start_index": 300
+            },
+            {
+              "text": " investments",
+              "confidence": 0.9999912460735575,
+              "start_index": 307
+            },
+            {
+              "text": "19,978",
+              "confidence": 0.9999912460735575,
+              "start_index": 328
+            },
+            {
+              "text": "31,134",
+              "confidence": 0.9999912460735575,
+              "start_index": 343
+            },
+            {
+              "text": "Loans",
+              "confidence": 0.9999912460735575,
+              "start_index": 367
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999998807907247,
+              "start_index": 372
+            },
+            {
+              "text": " finance",
+              "confidence": 0.9999984502816872,
+              "start_index": 376
+            },
+            {
+              "text": " receivables",
+              "confidence": 0.9999954477210916,
+              "start_index": 384
+            },
+            {
+              "text": "29,836",
+              "confidence": 0.9999954477210916,
+              "start_index": 405
+            },
+            {
+              "text": "27,798",
+              "confidence": 0.9999954477210916,
+              "start_index": 420
+            },
+            {
+              "text": "Inventories",
+              "confidence": 0.9999954477210916,
+              "start_index": 444
+            },
+            {
+              "text": "24,424",
+              "confidence": 0.9999954477210916,
+              "start_index": 464
+            },
+            {
+              "text": "24,008",
+              "confidence": 0.9999954477210916,
+              "start_index": 479
+            },
+            {
+              "text": "Equipment",
+              "confidence": 0.9999954477210916,
+              "start_index": 503
+            },
+            {
+              "text": " held",
+              "confidence": 0.9999883176260755,
+              "start_index": 512
+            },
+            {
+              "text": " for",
+              "confidence": 0.9999998807907247,
+              "start_index": 517
+            },
+            {
+              "text": " lease",
+              "confidence": 0.9979247326948151,
+              "start_index": 521
+            },
+            {
+              "text": "18,535",
+              "confidence": 0.9979247326948151,
+              "start_index": 536
+            },
+            {
+              "text": "17,828",
+              "confidence": 0.9979247326948151,
+              "start_index": 551
+            },
+            {
+              "text": "Goodwill",
+              "confidence": 0.9979247326948151,
+              "start_index": 575
+            },
+            {
+              "text": "[1]",
+              "confidence": 0.9979247326948151,
+              "start_index": 592
+            },
+            {
+              "text": " 83,074",
+              "confidence": 0.9999663121757126,
+              "start_index": 595
+            },
+            {
+              "text": "83,880",
+              "confidence": 0.9999663121757126,
+              "start_index": 611
+            },
+            {
+              "text": "Total",
+              "confidence": 0.9999663121757126,
+              "start_index": 635
+            },
+            {
+              "text": " assets",
+              "confidence": 0.9999808041230442,
+              "start_index": 640
+            },
+            {
+              "text": "1,222,176",
+              "confidence": 0.9999808041230442,
+              "start_index": 656
+            },
+            {
+              "text": "1,153,881",
+              "confidence": 0.9999808041230442,
+              "start_index": 674
+            },
+            {
+              "text": "Liabilities:",
+              "confidence": 0.9999808041230442,
+              "start_index": 701
+            },
+            {
+              "text": "Life,",
+              "confidence": 0.9999808041230442,
+              "start_index": 749
+            },
+            {
+              "text": " annuity",
+              "confidence": 0.9996075539331325,
+              "start_index": 754
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999992847447459,
+              "start_index": 762
+            },
+            {
+              "text": " health",
+              "confidence": 0.9999970197767496,
+              "start_index": 766
+            },
+            {
+              "text": " insurance",
+              "confidence": 0.9999972581939645,
+              "start_index": 773
+            },
+            {
+              "text": " benefits",
+              "confidence": 0.9999969567895435,
+              "start_index": 783
+            },
+            {
+              "text": "17,890",
+              "confidence": 0.9999969567895435,
+              "start_index": 801
+            },
+            {
+              "text": "17,616",
+              "confidence": 0.9999969567895435,
+              "start_index": 816
+            },
+            {
+              "text": "Payable",
+              "confidence": 0.9999969567895435,
+              "start_index": 840
+            },
+            {
+              "text": " for",
+              "confidence": 0.9999986886995842,
+              "start_index": 847
+            },
+            {
+              "text": " purchase",
+              "confidence": 0.9999986886995842,
+              "start_index": 851
+            },
+            {
+              "text": " of",
+              "confidence": 1.0,
+              "start_index": 860
+            },
+            {
+              "text": " U.S.",
+              "confidence": 0.9999968211029073,
+              "start_index": 863
+            },
+            {
+              "text": " Treasury",
+              "confidence": 0.9999853374722015,
+              "start_index": 868
+            },
+            {
+              "text": " Bills",
+              "confidence": 0.9999970913331288,
+              "start_index": 877
+            },
+            {
+              "text": "167",
+              "confidence": 0.9999970913331288,
+              "start_index": 892
+            },
+            {
+              "text": "12,800",
+              "confidence": 0.9999970913331288,
+              "start_index": 904
+            },
+            {
+              "text": "Income",
+              "confidence": 0.9999970913331288,
+              "start_index": 928
+            },
+            {
+              "text": " taxes,",
+              "confidence": 0.9999982118652149,
+              "start_index": 934
+            },
+            {
+              "text": " principally",
+              "confidence": 0.9999847414437658,
+              "start_index": 941
+            },
+            {
+              "text": " deferred",
+              "confidence": 0.9999944299163026,
+              "start_index": 953
+            },
+            {
+              "text": "86,955",
+              "confidence": 0.9999944299163026,
+              "start_index": 971
+            },
+            {
+              "text": "85,870",
+              "confidence": 0.9999944299163026,
+              "start_index": 986
+            },
+            {
+              "text": "Total",
+              "confidence": 0.9999944299163026,
+              "start_index": 1010
+            },
+            {
+              "text": " liabilities",
+              "confidence": 0.9898681741259653,
+              "start_index": 1015
+            },
+            {
+              "text": "502,473",
+              "confidence": 0.9898681741259653,
+              "start_index": 1036
+            },
+            {
+              "text": "502,226",
+              "confidence": 0.9898681741259653,
+              "start_index": 1052
+            },
+            {
+              "text": "Shareholders'",
+              "confidence": 0.9898681741259653,
+              "start_index": 1077
+            },
+            {
+              "text": " equity:",
+              "confidence": 0.9999986071400211,
+              "start_index": 1090
+            },
+            {
+              "text": "Common",
+              "confidence": 0.9999986071400211,
+              "start_index": 1134
+            },
+            {
+              "text": " stock",
+              "confidence": 0.9999996423722521,
+              "start_index": 1140
+            },
+            {
+              "text": " at",
+              "confidence": 1.0,
+              "start_index": 1146
+            },
+            {
+              "text": " par",
+              "confidence": 0.9999724634116024,
+              "start_index": 1149
+            },
+            {
+              "text": " value",
+              "confidence": 0.9999978542549051,
+              "start_index": 1153
+            },
+            {
+              "text": "8",
+              "confidence": 0.9999978542549051,
+              "start_index": 1168
+            },
+            {
+              "text": "8",
+              "confidence": 0.9999978542549051,
+              "start_index": 1178
+            },
+            {
+              "text": "Capital",
+              "confidence": 0.9999978542549051,
+              "start_index": 1197
+            },
+            {
+              "text": " in",
+              "confidence": 0.9999997615814777,
+              "start_index": 1204
+            },
+            {
+              "text": " excess",
+              "confidence": 0.9999990463265931,
+              "start_index": 1207
+            },
+            {
+              "text": " of",
+              "confidence": 1.0,
+              "start_index": 1214
+            },
+            {
+              "text": " par",
+              "confidence": 0.9999976158197796,
+              "start_index": 1217
+            },
+            {
+              "text": " value",
+              "confidence": 0.9999852414264894,
+              "start_index": 1221
+            },
+            {
+              "text": "35,612",
+              "confidence": 0.9999852414264894,
+              "start_index": 1236
+            },
+            {
+              "text": "35,665",
+              "confidence": 0.9999852414264894,
+              "start_index": 1251
+            },
+            {
+              "text": "Accumulated",
+              "confidence": 0.9999852414264894,
+              "start_index": 1275
+            },
+            {
+              "text": " other",
+              "confidence": 0.9999994039539004,
+              "start_index": 1286
+            },
+            {
+              "text": " comprehensive",
+              "confidence": 0.9999941587791524,
+              "start_index": 1292
+            },
+            {
+              "text": " income",
+              "confidence": 0.9999941628517969,
+              "start_index": 1306
+            },
+            {
+              "text": "(2,448)",
+              "confidence": 0.9999941628517969,
+              "start_index": 1322
+            },
+            {
+              "text": "(3,584)",
+              "confidence": 0.9999941628517969,
+              "start_index": 1338
+            },
+            {
+              "text": "Retained",
+              "confidence": 0.9999941628517969,
+              "start_index": 1363
+            },
+            {
+              "text": " earnings",
+              "confidence": 0.9999941076465066,
+              "start_index": 1371
+            },
+            {
+              "text": "763,186",
+              "confidence": 0.9999941076465066,
+              "start_index": 1389
+            },
+            {
+              "text": "696,218",
+              "confidence": 0.9999941076465066,
+              "start_index": 1405
+            },
+            {
+              "text": "Treasury",
+              "confidence": 0.9999941076465066,
+              "start_index": 1430
+            },
+            {
+              "text": " stock,",
+              "confidence": 0.9999445722833512,
+              "start_index": 1438
+            },
+            {
+              "text": " at",
+              "confidence": 0.9999994039539004,
+              "start_index": 1445
+            },
+            {
+              "text": " cost",
+              "confidence": 0.9999917551147658,
+              "start_index": 1448
+            },
+            {
+              "text": "(78,939)",
+              "confidence": 0.9999917551147658,
+              "start_index": 1462
+            },
+            {
+              "text": "(78,939)",
+              "confidence": 0.9999917551147658,
+              "start_index": 1479
+            },
+            {
+              "text": "Berkshire",
+              "confidence": 0.9999917551147658,
+              "start_index": 1505
+            },
+            {
+              "text": " shareholders'",
+              "confidence": 0.9999862316020358,
+              "start_index": 1514
+            },
+            {
+              "text": " equity",
+              "confidence": 0.9999948001338764,
+              "start_index": 1528
+            },
+            {
+              "text": "717,419",
+              "confidence": 0.9999948001338764,
+              "start_index": 1544
+            },
+            {
+              "text": "649,368",
+              "confidence": 0.9999948001338764,
+              "start_index": 1560
+            },
+            {
+              "text": "Noncontrolling",
+              "confidence": 0.9999948001338764,
+              "start_index": 1585
+            },
+            {
+              "text": " interests",
+              "confidence": 0.999998892512813,
+              "start_index": 1599
+            },
+            {
+              "text": "2,284",
+              "confidence": 0.999998892512813,
+              "start_index": 1618
+            },
+            {
+              "text": "2,287",
+              "confidence": 0.999998892512813,
+              "start_index": 1632
+            },
+            {
+              "text": "Total",
+              "confidence": 0.999998892512813,
+              "start_index": 1655
+            },
+            {
+              "text": " shareholders'",
+              "confidence": 0.9999876620140074,
+              "start_index": 1660
+            },
+            {
+              "text": " equity",
+              "confidence": 0.9999976261058987,
+              "start_index": 1674
+            },
+            {
+              "text": "719,703",
+              "confidence": 0.9999976261058987,
+              "start_index": 1690
+            },
+            {
+              "text": "651,655",
+              "confidence": 0.9999976261058987,
+              "start_index": 1706
+            },
+            {
+              "text": "Total",
+              "confidence": 0.9999976261058987,
+              "start_index": 1731
+            },
+            {
+              "text": " liabilities",
+              "confidence": 0.9999988675130158,
+              "start_index": 1736
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999998807907247,
+              "start_index": 1748
+            },
+            {
+              "text": " shareholders'",
+              "confidence": 0.999956908145464,
+              "start_index": 1752
+            },
+            {
+              "text": " equity",
+              "confidence": 0.9988861956637435,
+              "start_index": 1766
+            },
+            {
+              "text": "1,222,176",
+              "confidence": 0.9988861956637435,
+              "start_index": 1782
+            },
+            {
+              "text": "1,153,881",
+              "confidence": 0.9988861956637435,
+              "start_index": 1800
+            },
+            {
+              "text": "Insurance",
+              "confidence": 0.9988861956637435,
+              "start_index": 1827
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999998807907247,
+              "start_index": 1836
+            },
+            {
+              "text": " Other",
+              "confidence": 0.9999787811971367,
+              "start_index": 1840
+            },
+            {
+              "text": " [Member]",
+              "confidence": 0.9994357229204284,
+              "start_index": 1846
+            },
+            {
+              "text": "Assets:",
+              "confidence": 0.9994357229204284,
+              "start_index": 1891
+            },
+            {
+              "text": "Cash",
+              "confidence": 0.9994357229204284,
+              "start_index": 1934
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999983310727032,
+              "start_index": 1938
+            },
+            {
+              "text": " cash",
+              "confidence": 0.9999988079084972,
+              "start_index": 1942
+            },
+            {
+              "text": " equivalents",
+              "confidence": 0.9998657874950706,
+              "start_index": 1947
+            },
+            {
+              "text": "[2]",
+              "confidence": 0.9998657874950706,
+              "start_index": 1968
+            },
+            {
+              "text": " 47,719",
+              "confidence": 0.9999959387701268,
+              "start_index": 1971
+            },
+            {
+              "text": "44,333",
+              "confidence": 0.9999959387701268,
+              "start_index": 1987
+            },
+            {
+              "text": "Short-term",
+              "confidence": 0.9999959387701268,
+              "start_index": 2011
+            },
+            {
+              "text": " investments",
+              "confidence": 0.9999967813595916,
+              "start_index": 2021
+            },
+            {
+              "text": " in",
+              "confidence": 1.0,
+              "start_index": 2033
+            },
+            {
+              "text": " U.S.",
+              "confidence": 0.9999695637403637,
+              "start_index": 2036
+            },
+            {
+              "text": " Treasury",
+              "confidence": 0.999985218266486,
+              "start_index": 2041
+            },
+            {
+              "text": " Bills",
+              "confidence": 0.9999888094473891,
+              "start_index": 2050
+            },
+            {
+              "text": "[3]",
+              "confidence": 0.9999888094473891,
+              "start_index": 2065
+            },
+            {
+              "text": " 321,434",
+              "confidence": 0.9999947089368182,
+              "start_index": 2068
+            },
+            {
+              "text": "286,472",
+              "confidence": 0.9999947089368182,
+              "start_index": 2085
+            },
+            {
+              "text": "Investments",
+              "confidence": 0.9999947089368182,
+              "start_index": 2110
+            },
+            {
+              "text": " in",
+              "confidence": 1.0,
+              "start_index": 2121
+            },
+            {
+              "text": " fixed",
+              "confidence": 0.9999965429424904,
+              "start_index": 2124
+            },
+            {
+              "text": " maturity",
+              "confidence": 0.9999901057270286,
+              "start_index": 2130
+            },
+            {
+              "text": " securities",
+              "confidence": 0.999994253818687,
+              "start_index": 2139
+            },
+            {
+              "text": "17,816",
+              "confidence": 0.999994253818687,
+              "start_index": 2159
+            },
+            {
+              "text": "15,364",
+              "confidence": 0.999994253818687,
+              "start_index": 2174
+            },
+            {
+              "text": "Investments",
+              "confidence": 0.999994253818687,
+              "start_index": 2198
+            },
+            {
+              "text": " in",
+              "confidence": 0.9999991655356624,
+              "start_index": 2209
+            },
+            {
+              "text": " equity",
+              "confidence": 0.9999984502816872,
+              "start_index": 2212
+            },
+            {
+              "text": " securities",
+              "confidence": 0.9999850628819812,
+              "start_index": 2219
+            },
+            {
+              "text": "297,778",
+              "confidence": 0.9999850628819812,
+              "start_index": 2239
+            },
+            {
+              "text": "271,588",
+              "confidence": 0.9999850628819812,
+              "start_index": 2255
+            },
+            {
+              "text": "Equity",
+              "confidence": 0.9999850628819812,
+              "start_index": 2280
+            },
+            {
+              "text": " method",
+              "confidence": 0.9999990463265931,
+              "start_index": 2286
+            },
+            {
+              "text": " investments",
+              "confidence": 0.9999367658837666,
+              "start_index": 2293
+            },
+            {
+              "text": "19,978",
+              "confidence": 0.9999367658837666,
+              "start_index": 2314
+            },
+            {
+              "text": "31,134",
+              "confidence": 0.9999367658837666,
+              "start_index": 2329
+            },
+            {
+              "text": "Loans",
+              "confidence": 0.9999367658837666,
+              "start_index": 2353
+            },
+            {
+              "text": " and",
+              "confidence": 1.0,
+              "start_index": 2358
+            },
+            {
+              "text": " finance",
+              "confidence": 0.9999974966112362,
+              "start_index": 2362
+            },
+            {
+              "text": " receivables",
+              "confidence": 0.9999907020547874,
+              "start_index": 2370
+            },
+            {
+              "text": "29,836",
+              "confidence": 0.9999907020547874,
+              "start_index": 2391
+            },
+            {
+              "text": "27,798",
+              "confidence": 0.9999907020547874,
+              "start_index": 2406
+            },
+            {
+              "text": "Other",
+              "confidence": 0.9999907020547874,
+              "start_index": 2430
+            },
+            {
+              "text": " receivables",
+              "confidence": 0.9999591654969155,
+              "start_index": 2435
+            },
+            {
+              "text": "44,331",
+              "confidence": 0.9999591654969155,
+              "start_index": 2456
+            },
+            {
+              "text": "43,887",
+              "confidence": 0.9999591654969155,
+              "start_index": 2471
+            }
+          ]
+        }
+      ],
+      "hyperlinks": [
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B"
+      ],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9507183704825183,
+        "minimum_page_confidence_score": 0.6782100617200941,
+        "word_confidence_scores": [
+          {
+            "text": "XML",
+            "confidence": 0.9847088890554291,
+            "start_index": 0
+          },
+          {
+            "text": " 16",
+            "confidence": 0.9998888421772087,
+            "start_index": 3
+          },
+          {
+            "text": " R2.htm",
+            "confidence": 0.9993119296505011,
+            "start_index": 6
+          },
+          {
+            "text": " IDEA:",
+            "confidence": 0.9998982950567875,
+            "start_index": 13
+          },
+          {
+            "text": " XBRL",
+            "confidence": 0.9993757408296382,
+            "start_index": 19
+          },
+          {
+            "text": " DOCUMENT",
+            "confidence": 0.9999250230272376,
+            "start_index": 24
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9997913080973989,
+            "start_index": 33
+          },
+          {
+            "text": "Consolidated",
+            "confidence": 0.8747498539176244,
+            "start_index": 35
+          },
+          {
+            "text": " Balance",
+            "confidence": 0.9999971389852362,
+            "start_index": 47
+          },
+          {
+            "text": "\n",
+            "confidence": 0.7063045281552981,
+            "start_index": 55
+          },
+          {
+            "text": "Sheets",
+            "confidence": 0.984776850867841,
+            "start_index": 56
+          },
+          {
+            "text": " -",
+            "confidence": 0.9999926090786457,
+            "start_index": 62
+          },
+          {
+            "text": " USD",
+            "confidence": 0.9999815229018083,
+            "start_index": 64
+          },
+          {
+            "text": " ($)",
+            "confidence": 0.8218010646845799,
+            "start_index": 68
+          },
+          {
+            "text": "\n",
+            "confidence": 0.6782100617200941,
+            "start_index": 72
+          },
+          {
+            "text": "$",
+            "confidence": 0.9858469291366215,
+            "start_index": 73
+          },
+          {
+            "text": " in",
+            "confidence": 0.999997854237364,
+            "start_index": 74
+          },
+          {
+            "text": " Millions",
+            "confidence": 0.9997636917106331,
+            "start_index": 77
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9816509630303984,
+            "start_index": 86
+          },
+          {
+            "text": "[tbl-0.html](tbl-0.html)",
+            "confidence": 0.9983943133300179,
+            "start_index": 88
+          }
+        ]
+      },
+      "blocks": []
+    },
+    {
+      "index": 1,
+      "markdown": "[tbl-1.html](tbl-1.html)",
+      "images": [],
+      "dimensions": {
+        "dpi": 87,
+        "height": 1018,
+        "width": 720
+      },
+      "tables": [
+        {
+          "id": "tbl-1.html",
+          "content": "<table><tr><td>Inventories</td><td>24,424</td><td>24,008</td></tr><tr><td>Property, plant and equipment</td><td>31,885</td><td>30,071</td></tr><tr><td>Equipment held for lease</td><td>18,535</td><td>17,828</td></tr><tr><td>Goodwill</td><td>55,945</td><td>56,860</td></tr><tr><td>Other intangible assets</td><td>33,802</td><td>34,638</td></tr><tr><td>Deferred charges - retroactive reinsurance</td><td>8,104</td><td>8,797</td></tr><tr><td>Other</td><td>24,413</td><td>24,994</td></tr><tr><td>Total assets</td><td>976,000</td><td>917,772</td></tr><tr><td>Liabilities:</td><td></td><td></td></tr><tr><td>Unpaid losses and loss adjustment expenses</td><td>120,713</td><td>115,151</td></tr><tr><td>Unpaid losses and loss adjustment expenses - retroactive reinsurance</td><td>31,048</td><td>32,443</td></tr><tr><td>Unearned insurance premiums</td><td>31,339</td><td>30,808</td></tr><tr><td>Life, annuity and health insurance benefits</td><td>17,890</td><td>17,616</td></tr><tr><td>Other insurance policyholder liabilities</td><td>10,312</td><td>10,703</td></tr><tr><td>Accounts payable, accruals and other liabilities</td><td>38,019</td><td>37,489</td></tr><tr><td>Payable for purchase of U.S. Treasury Bills</td><td>167</td><td>12,769</td></tr><tr><td>Aircraft repurchase liabilities and unearned lease revenues</td><td>10,686</td><td>9,356</td></tr><tr><td>Notes payable and other borrowings</td><td>45,763</td><td>44,885</td></tr><tr><td>Liabilities, excluding income taxes, principally deferred, Total</td><td>305,937</td><td>311,220</td></tr><tr><td>Railroad, Utilities and Energy [Member]</td><td></td><td></td></tr><tr><td>Assets:</td><td></td><td></td></tr><tr><td>Cash and cash equivalents</td><td>[2] 4,158</td><td>3,396</td></tr><tr><td>Receivables</td><td>4,387</td><td>4,503</td></tr><tr><td>Property, plant and equipment</td><td>184,740</td><td>175,030</td></tr><tr><td>Goodwill</td><td>27,129</td><td>27,020</td></tr><tr><td>Regulatory assets</td><td>4,821</td><td>5,349</td></tr><tr><td>Other</td><td>20,941</td><td>20,811</td></tr><tr><td>Total assets</td><td>246,176</td><td>236,109</td></tr><tr><td>Liabilities:</td><td></td><td></td></tr><tr><td>Accounts payable, accruals and other liabilities</td><td>19,250</td><td>18,226</td></tr><tr><td>Regulatory liabilities</td><td>7,013</td><td>7,033</td></tr><tr><td>Notes payable and other borrowings</td><td>83,318</td><td>79,877</td></tr><tr><td>Liabilities, excluding income taxes, principally deferred, Total</td><td>$ 109,581</td><td>$ 105,136</td></tr></table>",
+          "format": "html",
+          "word_confidence_scores": [
+            {
+              "text": "Inventories",
+              "confidence": 0.990368502598697,
+              "start_index": 15
+            },
+            {
+              "text": "24,424",
+              "confidence": 0.990368502598697,
+              "start_index": 35
+            },
+            {
+              "text": "24,008",
+              "confidence": 0.990368502598697,
+              "start_index": 50
+            },
+            {
+              "text": "Property,",
+              "confidence": 0.990368502598697,
+              "start_index": 74
+            },
+            {
+              "text": " plant",
+              "confidence": 0.9999640000901282,
+              "start_index": 83
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999969005680498,
+              "start_index": 89
+            },
+            {
+              "text": " equipment",
+              "confidence": 0.9999989921426924,
+              "start_index": 93
+            },
+            {
+              "text": "31,885",
+              "confidence": 0.9999989921426924,
+              "start_index": 112
+            },
+            {
+              "text": "30,071",
+              "confidence": 0.9999989921426924,
+              "start_index": 127
+            },
+            {
+              "text": "Equipment",
+              "confidence": 0.9999989921426924,
+              "start_index": 151
+            },
+            {
+              "text": " held",
+              "confidence": 0.9999184674950152,
+              "start_index": 160
+            },
+            {
+              "text": " for",
+              "confidence": 0.9999997615814777,
+              "start_index": 165
+            },
+            {
+              "text": " lease",
+              "confidence": 0.9999972149198963,
+              "start_index": 169
+            },
+            {
+              "text": "18,535",
+              "confidence": 0.9999972149198963,
+              "start_index": 184
+            },
+            {
+              "text": "17,828",
+              "confidence": 0.9999972149198963,
+              "start_index": 199
+            },
+            {
+              "text": "Goodwill",
+              "confidence": 0.9999972149198963,
+              "start_index": 223
+            },
+            {
+              "text": "55,945",
+              "confidence": 0.9999972149198963,
+              "start_index": 240
+            },
+            {
+              "text": "56,860",
+              "confidence": 0.9999972149198963,
+              "start_index": 255
+            },
+            {
+              "text": "Other",
+              "confidence": 0.9999972149198963,
+              "start_index": 279
+            },
+            {
+              "text": " intangible",
+              "confidence": 0.9999924501546908,
+              "start_index": 284
+            },
+            {
+              "text": " assets",
+              "confidence": 0.9999968901094533,
+              "start_index": 295
+            },
+            {
+              "text": "33,802",
+              "confidence": 0.9999968901094533,
+              "start_index": 311
+            },
+            {
+              "text": "34,638",
+              "confidence": 0.9999968901094533,
+              "start_index": 326
+            },
+            {
+              "text": "Deferred",
+              "confidence": 0.9999968901094533,
+              "start_index": 350
+            },
+            {
+              "text": " charges",
+              "confidence": 0.9999947548186582,
+              "start_index": 358
+            },
+            {
+              "text": " -",
+              "confidence": 0.9999734170346474,
+              "start_index": 366
+            },
+            {
+              "text": " retroactive",
+              "confidence": 0.9997809037748714,
+              "start_index": 368
+            },
+            {
+              "text": " reinsurance",
+              "confidence": 0.9998661466001283,
+              "start_index": 380
+            },
+            {
+              "text": "8,104",
+              "confidence": 0.9998661466001283,
+              "start_index": 401
+            },
+            {
+              "text": "8,797",
+              "confidence": 0.9998661466001283,
+              "start_index": 415
+            },
+            {
+              "text": "Other",
+              "confidence": 0.9998661466001283,
+              "start_index": 438
+            },
+            {
+              "text": "24,413",
+              "confidence": 0.9998661466001283,
+              "start_index": 452
+            },
+            {
+              "text": "24,994",
+              "confidence": 0.9998661466001283,
+              "start_index": 467
+            },
+            {
+              "text": "Total",
+              "confidence": 0.9998661466001283,
+              "start_index": 491
+            },
+            {
+              "text": " assets",
+              "confidence": 0.9988005986754317,
+              "start_index": 496
+            },
+            {
+              "text": "976,000",
+              "confidence": 0.9988005986754317,
+              "start_index": 512
+            },
+            {
+              "text": "917,772",
+              "confidence": 0.9988005986754317,
+              "start_index": 528
+            },
+            {
+              "text": "Liabilities:",
+              "confidence": 0.9988005986754317,
+              "start_index": 553
+            },
+            {
+              "text": "Unpaid",
+              "confidence": 0.9988005986754317,
+              "start_index": 601
+            },
+            {
+              "text": " losses",
+              "confidence": 0.9999557753101334,
+              "start_index": 607
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999997615814777,
+              "start_index": 614
+            },
+            {
+              "text": " loss",
+              "confidence": 0.99991262722786,
+              "start_index": 618
+            },
+            {
+              "text": " adjustment",
+              "confidence": 0.9998358757532201,
+              "start_index": 623
+            },
+            {
+              "text": " expenses",
+              "confidence": 0.9999972615636933,
+              "start_index": 634
+            },
+            {
+              "text": "120,713",
+              "confidence": 0.9999972615636933,
+              "start_index": 652
+            },
+            {
+              "text": "115,151",
+              "confidence": 0.9999972615636933,
+              "start_index": 668
+            },
+            {
+              "text": "Unpaid",
+              "confidence": 0.9999972615636933,
+              "start_index": 693
+            },
+            {
+              "text": " losses",
+              "confidence": 0.9999964237340748,
+              "start_index": 699
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999998807907247,
+              "start_index": 706
+            },
+            {
+              "text": " loss",
+              "confidence": 0.999958755287689,
+              "start_index": 710
+            },
+            {
+              "text": " adjustment",
+              "confidence": 0.9999047608461067,
+              "start_index": 715
+            },
+            {
+              "text": " expenses",
+              "confidence": 0.9999699601613475,
+              "start_index": 726
+            },
+            {
+              "text": " -",
+              "confidence": 0.9999936819476216,
+              "start_index": 735
+            },
+            {
+              "text": " retroactive",
+              "confidence": 0.9994049574560349,
+              "start_index": 737
+            },
+            {
+              "text": " reinsurance",
+              "confidence": 0.9999929573297357,
+              "start_index": 749
+            },
+            {
+              "text": "31,048",
+              "confidence": 0.9999929573297357,
+              "start_index": 770
+            },
+            {
+              "text": "32,443",
+              "confidence": 0.9999929573297357,
+              "start_index": 785
+            },
+            {
+              "text": "Unearned",
+              "confidence": 0.9999929573297357,
+              "start_index": 809
+            },
+            {
+              "text": " insurance",
+              "confidence": 0.9999994039539004,
+              "start_index": 817
+            },
+            {
+              "text": " premiums",
+              "confidence": 0.9999900354438442,
+              "start_index": 827
+            },
+            {
+              "text": "31,339",
+              "confidence": 0.9999900354438442,
+              "start_index": 845
+            },
+            {
+              "text": "30,808",
+              "confidence": 0.9999900354438442,
+              "start_index": 860
+            },
+            {
+              "text": "Life,",
+              "confidence": 0.9999900354438442,
+              "start_index": 884
+            },
+            {
+              "text": " annuity",
+              "confidence": 0.9998377935718495,
+              "start_index": 889
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999997615814777,
+              "start_index": 897
+            },
+            {
+              "text": " health",
+              "confidence": 0.9999911785905904,
+              "start_index": 901
+            },
+            {
+              "text": " insurance",
+              "confidence": 0.9999957084838798,
+              "start_index": 908
+            },
+            {
+              "text": " benefits",
+              "confidence": 0.9999995159397848,
+              "start_index": 918
+            },
+            {
+              "text": "17,890",
+              "confidence": 0.9999995159397848,
+              "start_index": 936
+            },
+            {
+              "text": "17,616",
+              "confidence": 0.9999995159397848,
+              "start_index": 951
+            },
+            {
+              "text": "Other",
+              "confidence": 0.9999995159397848,
+              "start_index": 975
+            },
+            {
+              "text": " insurance",
+              "confidence": 0.9999985694905718,
+              "start_index": 980
+            },
+            {
+              "text": " policyholder",
+              "confidence": 0.9986867415846037,
+              "start_index": 990
+            },
+            {
+              "text": " liabilities",
+              "confidence": 0.9999984608084524,
+              "start_index": 1003
+            },
+            {
+              "text": "10,312",
+              "confidence": 0.9999984608084524,
+              "start_index": 1024
+            },
+            {
+              "text": "10,703",
+              "confidence": 0.9999984608084524,
+              "start_index": 1039
+            },
+            {
+              "text": "Accounts",
+              "confidence": 0.9999984608084524,
+              "start_index": 1063
+            },
+            {
+              "text": " payable,",
+              "confidence": 0.9999986489644412,
+              "start_index": 1071
+            },
+            {
+              "text": " accruals",
+              "confidence": 0.9999526174447504,
+              "start_index": 1080
+            },
+            {
+              "text": " and",
+              "confidence": 1.0,
+              "start_index": 1089
+            },
+            {
+              "text": " other",
+              "confidence": 0.9999995231630692,
+              "start_index": 1093
+            },
+            {
+              "text": " liabilities",
+              "confidence": 0.9999966452841917,
+              "start_index": 1099
+            },
+            {
+              "text": "38,019",
+              "confidence": 0.9999966452841917,
+              "start_index": 1120
+            },
+            {
+              "text": "37,489",
+              "confidence": 0.9999966452841917,
+              "start_index": 1135
+            },
+            {
+              "text": "Payable",
+              "confidence": 0.9999966452841917,
+              "start_index": 1159
+            },
+            {
+              "text": " for",
+              "confidence": 0.999998927117538,
+              "start_index": 1166
+            },
+            {
+              "text": " purchase",
+              "confidence": 0.9999990463265931,
+              "start_index": 1170
+            },
+            {
+              "text": " of",
+              "confidence": 0.9999998807907247,
+              "start_index": 1179
+            },
+            {
+              "text": " U.S.",
+              "confidence": 0.9998064789535874,
+              "start_index": 1182
+            },
+            {
+              "text": " Treasury",
+              "confidence": 0.9999779467683537,
+              "start_index": 1187
+            },
+            {
+              "text": " Bills",
+              "confidence": 0.9999974608842939,
+              "start_index": 1196
+            },
+            {
+              "text": "167",
+              "confidence": 0.9999974608842939,
+              "start_index": 1211
+            },
+            {
+              "text": "12,769",
+              "confidence": 0.9999974608842939,
+              "start_index": 1223
+            },
+            {
+              "text": "Aircraft",
+              "confidence": 0.9999974608842939,
+              "start_index": 1247
+            },
+            {
+              "text": " repurchase",
+              "confidence": 0.9999598282312979,
+              "start_index": 1255
+            },
+            {
+              "text": " liabilities",
+              "confidence": 0.9999843838709846,
+              "start_index": 1266
+            },
+            {
+              "text": " and",
+              "confidence": 1.0,
+              "start_index": 1278
+            },
+            {
+              "text": " unearned",
+              "confidence": 0.997513450670274,
+              "start_index": 1282
+            },
+            {
+              "text": " lease",
+              "confidence": 0.9999952316511552,
+              "start_index": 1291
+            },
+            {
+              "text": " revenues",
+              "confidence": 0.999993730660972,
+              "start_index": 1297
+            },
+            {
+              "text": "10,686",
+              "confidence": 0.999993730660972,
+              "start_index": 1315
+            },
+            {
+              "text": "9,356",
+              "confidence": 0.999993730660972,
+              "start_index": 1330
+            },
+            {
+              "text": "Notes",
+              "confidence": 0.999993730660972,
+              "start_index": 1353
+            },
+            {
+              "text": " payable",
+              "confidence": 0.9999999403953606,
+              "start_index": 1358
+            },
+            {
+              "text": " and",
+              "confidence": 1.0,
+              "start_index": 1366
+            },
+            {
+              "text": " other",
+              "confidence": 0.9999996423722521,
+              "start_index": 1370
+            },
+            {
+              "text": " borrowings",
+              "confidence": 0.9999917551712247,
+              "start_index": 1376
+            },
+            {
+              "text": "45,763",
+              "confidence": 0.9999917551712247,
+              "start_index": 1396
+            },
+            {
+              "text": "44,885",
+              "confidence": 0.9999917551712247,
+              "start_index": 1411
+            },
+            {
+              "text": "Liabilities,",
+              "confidence": 0.9999917551712247,
+              "start_index": 1435
+            },
+            {
+              "text": " excluding",
+              "confidence": 0.9999947548186582,
+              "start_index": 1447
+            },
+            {
+              "text": " income",
+              "confidence": 0.999997854237364,
+              "start_index": 1457
+            },
+            {
+              "text": " taxes,",
+              "confidence": 0.9999890925223557,
+              "start_index": 1464
+            },
+            {
+              "text": " principally",
+              "confidence": 0.9997630680758202,
+              "start_index": 1471
+            },
+            {
+              "text": " deferred,",
+              "confidence": 0.9998666237521309,
+              "start_index": 1483
+            },
+            {
+              "text": " Total",
+              "confidence": 0.9998353927687881,
+              "start_index": 1493
+            },
+            {
+              "text": "305,937",
+              "confidence": 0.9998353927687881,
+              "start_index": 1508
+            },
+            {
+              "text": "311,220",
+              "confidence": 0.9998353927687881,
+              "start_index": 1524
+            },
+            {
+              "text": "Railroad,",
+              "confidence": 0.9998353927687881,
+              "start_index": 1549
+            },
+            {
+              "text": " Utilities",
+              "confidence": 0.9999907017622996,
+              "start_index": 1558
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999997615814777,
+              "start_index": 1568
+            },
+            {
+              "text": " Energy",
+              "confidence": 0.9999996423722521,
+              "start_index": 1572
+            },
+            {
+              "text": " [Member]",
+              "confidence": 0.9994402366309325,
+              "start_index": 1579
+            },
+            {
+              "text": "Assets:",
+              "confidence": 0.9994402366309325,
+              "start_index": 1624
+            },
+            {
+              "text": "Cash",
+              "confidence": 0.9994402366309325,
+              "start_index": 1667
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999983310727032,
+              "start_index": 1671
+            },
+            {
+              "text": " cash",
+              "confidence": 0.9999984502816872,
+              "start_index": 1675
+            },
+            {
+              "text": " equivalents",
+              "confidence": 0.9563219467557267,
+              "start_index": 1680
+            },
+            {
+              "text": "[2]",
+              "confidence": 0.9563219467557267,
+              "start_index": 1701
+            },
+            {
+              "text": " 4,158",
+              "confidence": 0.9999900194417636,
+              "start_index": 1704
+            },
+            {
+              "text": "3,396",
+              "confidence": 0.9999900194417636,
+              "start_index": 1719
+            },
+            {
+              "text": "Receivables",
+              "confidence": 0.9999900194417636,
+              "start_index": 1742
+            },
+            {
+              "text": "4,387",
+              "confidence": 0.9999900194417636,
+              "start_index": 1762
+            },
+            {
+              "text": "4,503",
+              "confidence": 0.9999900194417636,
+              "start_index": 1776
+            },
+            {
+              "text": "Property,",
+              "confidence": 0.9999900194417636,
+              "start_index": 1799
+            },
+            {
+              "text": " plant",
+              "confidence": 0.9999996423722521,
+              "start_index": 1808
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999984502816872,
+              "start_index": 1814
+            },
+            {
+              "text": " equipment",
+              "confidence": 0.9999969629893826,
+              "start_index": 1818
+            },
+            {
+              "text": "184,740",
+              "confidence": 0.9999969629893826,
+              "start_index": 1837
+            },
+            {
+              "text": "175,030",
+              "confidence": 0.9999969629893826,
+              "start_index": 1853
+            },
+            {
+              "text": "Goodwill",
+              "confidence": 0.9999969629893826,
+              "start_index": 1878
+            },
+            {
+              "text": "27,129",
+              "confidence": 0.9999969629893826,
+              "start_index": 1895
+            },
+            {
+              "text": "27,020",
+              "confidence": 0.9999969629893826,
+              "start_index": 1910
+            },
+            {
+              "text": "Regulatory",
+              "confidence": 0.9999969629893826,
+              "start_index": 1934
+            },
+            {
+              "text": " assets",
+              "confidence": 0.9999991920280671,
+              "start_index": 1944
+            },
+            {
+              "text": "4,821",
+              "confidence": 0.9999991920280671,
+              "start_index": 1960
+            },
+            {
+              "text": "5,349",
+              "confidence": 0.9999991920280671,
+              "start_index": 1974
+            },
+            {
+              "text": "Other",
+              "confidence": 0.9999991920280671,
+              "start_index": 1997
+            },
+            {
+              "text": "20,941",
+              "confidence": 0.9999991920280671,
+              "start_index": 2011
+            },
+            {
+              "text": "20,811",
+              "confidence": 0.9999991920280671,
+              "start_index": 2026
+            },
+            {
+              "text": "Total",
+              "confidence": 0.9999991920280671,
+              "start_index": 2050
+            },
+            {
+              "text": " assets",
+              "confidence": 0.9999903673619402,
+              "start_index": 2055
+            },
+            {
+              "text": "246,176",
+              "confidence": 0.9999903673619402,
+              "start_index": 2071
+            },
+            {
+              "text": "236,109",
+              "confidence": 0.9999903673619402,
+              "start_index": 2087
+            },
+            {
+              "text": "Liabilities:",
+              "confidence": 0.9999903673619402,
+              "start_index": 2112
+            },
+            {
+              "text": "Accounts",
+              "confidence": 0.9999903673619402,
+              "start_index": 2160
+            },
+            {
+              "text": " payable,",
+              "confidence": 0.9999999602635733,
+              "start_index": 2168
+            },
+            {
+              "text": " accruals",
+              "confidence": 0.99998992694944,
+              "start_index": 2177
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999998807907247,
+              "start_index": 2186
+            },
+            {
+              "text": " other",
+              "confidence": 0.9999998807907247,
+              "start_index": 2190
+            },
+            {
+              "text": " liabilities",
+              "confidence": 0.9999980858615629,
+              "start_index": 2196
+            },
+            {
+              "text": "19,250",
+              "confidence": 0.9999980858615629,
+              "start_index": 2217
+            },
+            {
+              "text": "18,226",
+              "confidence": 0.9999980858615629,
+              "start_index": 2232
+            },
+            {
+              "text": "Regulatory",
+              "confidence": 0.9999980858615629,
+              "start_index": 2256
+            },
+            {
+              "text": " liabilities",
+              "confidence": 0.9999989569281027,
+              "start_index": 2266
+            },
+            {
+              "text": "7,013",
+              "confidence": 0.9999989569281027,
+              "start_index": 2287
+            },
+            {
+              "text": "7,033",
+              "confidence": 0.9999989569281027,
+              "start_index": 2301
+            },
+            {
+              "text": "Notes",
+              "confidence": 0.9999989569281027,
+              "start_index": 2324
+            },
+            {
+              "text": " payable",
+              "confidence": 0.9999999403953606,
+              "start_index": 2329
+            },
+            {
+              "text": " and",
+              "confidence": 0.9999990463265931,
+              "start_index": 2337
+            },
+            {
+              "text": " other",
+              "confidence": 0.9999995231630692,
+              "start_index": 2341
+            },
+            {
+              "text": " borrowings",
+              "confidence": 0.9999945628925403,
+              "start_index": 2347
+            },
+            {
+              "text": "83,318",
+              "confidence": 0.9999945628925403,
+              "start_index": 2367
+            },
+            {
+              "text": "79,877",
+              "confidence": 0.9999945628925403,
+              "start_index": 2382
+            },
+            {
+              "text": "Liabilities,",
+              "confidence": 0.9999945628925403,
+              "start_index": 2406
+            },
+            {
+              "text": " excluding",
+              "confidence": 0.9999936819476216,
+              "start_index": 2418
+            },
+            {
+              "text": " income",
+              "confidence": 0.9999768739326302,
+              "start_index": 2428
+            },
+            {
+              "text": " taxes,",
+              "confidence": 0.9999716888697991,
+              "start_index": 2435
+            },
+            {
+              "text": " principally",
+              "confidence": 0.9987747203965888,
+              "start_index": 2442
+            },
+            {
+              "text": " deferred,",
+              "confidence": 0.9998787265123995,
+              "start_index": 2454
+            },
+            {
+              "text": " Total",
+              "confidence": 0.9998568017035566,
+              "start_index": 2464
+            },
+            {
+              "text": "$",
+              "confidence": 0.9998568017035566,
+              "start_index": 2479
+            },
+            {
+              "text": " 109,581",
+              "confidence": 0.9995426884923666,
+              "start_index": 2480
+            },
+            {
+              "text": "$",
+              "confidence": 0.9995426884923666,
+              "start_index": 2497
+            },
+            {
+              "text": " 105,136",
+              "confidence": 0.9998599791830869,
+              "start_index": 2498
+            }
+          ]
+        }
+      ],
+      "hyperlinks": [
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B",
+        "javascript:void%280%29%3B"
+      ],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9999835494911344,
+        "minimum_page_confidence_score": 0.9999734170346474,
+        "word_confidence_scores": [
+          {
+            "text": "-",
+            "confidence": 0.9999734170346474,
+            "start_index": 4
+          },
+          {
+            "text": "-",
+            "confidence": 0.9999936819476216,
+            "start_index": 16
+          }
+        ]
+      },
+      "blocks": []
+    },
+    {
+      "index": 2,
+      "markdown": "[1] Net of accumulated goodwill impairments of $13.0 billion as of December 31, 2025, $11.5 billion as of December 31, 2024 and $11.1 billion as of December 31, 2023.\n\n[2] Includes U.S. Treasury Bills with maturities of three months or less when purchased of $17.6 billion at December 31, 2025 and $14.4 billion at December 31, 2024.\n\n[3] Includes unsettled purchases of U.S. Treasury Bills of $167 million and $12.8 billion at December 31, 2025 and 2024, respectively. Such amounts were also included in liabilities and were paid shortly after the respective balance sheet date.",
+      "images": [],
+      "dimensions": {
+        "dpi": 87,
+        "height": 1018,
+        "width": 720
+      },
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "confidence_scores": {
+        "average_page_confidence_score": 0.9952726982446662,
+        "minimum_page_confidence_score": 0.622358607540727,
+        "word_confidence_scores": [
+          {
+            "text": "[1]",
+            "confidence": 0.9993668012471514,
+            "start_index": 0
+          },
+          {
+            "text": " Net",
+            "confidence": 0.9998830693632708,
+            "start_index": 3
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999303866209199,
+            "start_index": 7
+          },
+          {
+            "text": " accumulated",
+            "confidence": 0.9999903441405488,
+            "start_index": 10
+          },
+          {
+            "text": " goodwill",
+            "confidence": 0.9999824765939732,
+            "start_index": 22
+          },
+          {
+            "text": " impairments",
+            "confidence": 0.9999558945068824,
+            "start_index": 31
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999973774024795,
+            "start_index": 43
+          },
+          {
+            "text": " $13.0",
+            "confidence": 0.9998006574695618,
+            "start_index": 46
+          },
+          {
+            "text": " billion",
+            "confidence": 0.9999121504688547,
+            "start_index": 52
+          },
+          {
+            "text": " as",
+            "confidence": 0.9999897481064004,
+            "start_index": 60
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999994039539004,
+            "start_index": 63
+          },
+          {
+            "text": " December",
+            "confidence": 0.9999974966112362,
+            "start_index": 66
+          },
+          {
+            "text": " 31,",
+            "confidence": 0.9999997913837988,
+            "start_index": 75
+          },
+          {
+            "text": " 2025,",
+            "confidence": 0.9999721667995997,
+            "start_index": 79
+          },
+          {
+            "text": " $11.5",
+            "confidence": 0.9999943018915088,
+            "start_index": 85
+          },
+          {
+            "text": " billion",
+            "confidence": 0.9999966621509202,
+            "start_index": 91
+          },
+          {
+            "text": " as",
+            "confidence": 0.9999998807907247,
+            "start_index": 99
+          },
+          {
+            "text": " of",
+            "confidence": 1.0,
+            "start_index": 102
+          },
+          {
+            "text": " December",
+            "confidence": 0.9999970197767496,
+            "start_index": 105
+          },
+          {
+            "text": " 31,",
+            "confidence": 1.0,
+            "start_index": 114
+          },
+          {
+            "text": " 2024",
+            "confidence": 0.9999963760733205,
+            "start_index": 118
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999924898711537,
+            "start_index": 123
+          },
+          {
+            "text": " $11.1",
+            "confidence": 0.9999997854233544,
+            "start_index": 127
+          },
+          {
+            "text": " billion",
+            "confidence": 0.9999967813595916,
+            "start_index": 133
+          },
+          {
+            "text": " as",
+            "confidence": 0.9999992847447459,
+            "start_index": 141
+          },
+          {
+            "text": " of",
+            "confidence": 1.0,
+            "start_index": 144
+          },
+          {
+            "text": " December",
+            "confidence": 0.9999977350285647,
+            "start_index": 147
+          },
+          {
+            "text": " 31,",
+            "confidence": 0.9999999701976798,
+            "start_index": 156
+          },
+          {
+            "text": " 2023.",
+            "confidence": 0.9239980796012275,
+            "start_index": 160
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.622358607540727,
+            "start_index": 166
+          },
+          {
+            "text": "[2]",
+            "confidence": 0.9999981323924589,
+            "start_index": 168
+          },
+          {
+            "text": " Includes",
+            "confidence": 0.9999866487378297,
+            "start_index": 171
+          },
+          {
+            "text": " U.S.",
+            "confidence": 0.9999998410543145,
+            "start_index": 180
+          },
+          {
+            "text": " Treasury",
+            "confidence": 0.9999771123402672,
+            "start_index": 185
+          },
+          {
+            "text": " Bills",
+            "confidence": 0.9999831917733143,
+            "start_index": 194
+          },
+          {
+            "text": " with",
+            "confidence": 0.9999940395710211,
+            "start_index": 200
+          },
+          {
+            "text": " maturities",
+            "confidence": 0.9999754435161955,
+            "start_index": 205
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999996423722521,
+            "start_index": 216
+          },
+          {
+            "text": " three",
+            "confidence": 0.9999988079084972,
+            "start_index": 219
+          },
+          {
+            "text": " months",
+            "confidence": 0.999926930045521,
+            "start_index": 225
+          },
+          {
+            "text": " or",
+            "confidence": 0.9999972581939645,
+            "start_index": 232
+          },
+          {
+            "text": " less",
+            "confidence": 0.9999977350285647,
+            "start_index": 235
+          },
+          {
+            "text": " when",
+            "confidence": 0.9999972581939645,
+            "start_index": 240
+          },
+          {
+            "text": " purchased",
+            "confidence": 0.9999984502816872,
+            "start_index": 245
+          },
+          {
+            "text": " of",
+            "confidence": 0.9994815892621668,
+            "start_index": 255
+          },
+          {
+            "text": " $17.6",
+            "confidence": 0.999998545652372,
+            "start_index": 258
+          },
+          {
+            "text": " billion",
+            "confidence": 0.9999991655356624,
+            "start_index": 264
+          },
+          {
+            "text": " at",
+            "confidence": 0.9999973774024795,
+            "start_index": 272
+          },
+          {
+            "text": " December",
+            "confidence": 0.9999939203633587,
+            "start_index": 275
+          },
+          {
+            "text": " 31,",
+            "confidence": 1.0,
+            "start_index": 284
+          },
+          {
+            "text": " 2025",
+            "confidence": 0.9999991655363459,
+            "start_index": 288
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999996423722521,
+            "start_index": 293
+          },
+          {
+            "text": " $14.4",
+            "confidence": 0.9999999284744402,
+            "start_index": 297
+          },
+          {
+            "text": " billion",
+            "confidence": 0.999998927117538,
+            "start_index": 303
+          },
+          {
+            "text": " at",
+            "confidence": 0.9999994039539004,
+            "start_index": 311
+          },
+          {
+            "text": " December",
+            "confidence": 0.9999934435319415,
+            "start_index": 314
+          },
+          {
+            "text": " 31,",
+            "confidence": 1.0,
+            "start_index": 323
+          },
+          {
+            "text": " 2024.",
+            "confidence": 0.9999999602635756,
+            "start_index": 327
+          },
+          {
+            "text": "\n\n",
+            "confidence": 0.9999997615814777,
+            "start_index": 333
+          },
+          {
+            "text": "[3]",
+            "confidence": 0.99999868869966,
+            "start_index": 335
+          },
+          {
+            "text": " Includes",
+            "confidence": 0.9999990463265931,
+            "start_index": 338
+          },
+          {
+            "text": " unsettled",
+            "confidence": 0.9989961553423768,
+            "start_index": 347
+          },
+          {
+            "text": " purchases",
+            "confidence": 0.9999972581939645,
+            "start_index": 357
+          },
+          {
+            "text": " of",
+            "confidence": 1.0,
+            "start_index": 367
+          },
+          {
+            "text": " U.S.",
+            "confidence": 0.9999848211433949,
+            "start_index": 370
+          },
+          {
+            "text": " Treasury",
+            "confidence": 0.9999983310727032,
+            "start_index": 375
+          },
+          {
+            "text": " Bills",
+            "confidence": 0.9999980926550052,
+            "start_index": 384
+          },
+          {
+            "text": " of",
+            "confidence": 0.9999997615814777,
+            "start_index": 390
+          },
+          {
+            "text": " $167",
+            "confidence": 0.9999970197866475,
+            "start_index": 393
+          },
+          {
+            "text": " million",
+            "confidence": 0.9999896288992495,
+            "start_index": 398
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999998807907247,
+            "start_index": 406
+          },
+          {
+            "text": " $12.8",
+            "confidence": 0.9999996900560103,
+            "start_index": 410
+          },
+          {
+            "text": " billion",
+            "confidence": 0.9999995231630692,
+            "start_index": 416
+          },
+          {
+            "text": " at",
+            "confidence": 0.9999973774024795,
+            "start_index": 424
+          },
+          {
+            "text": " December",
+            "confidence": 0.9999879600069962,
+            "start_index": 427
+          },
+          {
+            "text": " 31,",
+            "confidence": 0.9999999701976798,
+            "start_index": 436
+          },
+          {
+            "text": " 2025",
+            "confidence": 0.9999982833911628,
+            "start_index": 440
+          },
+          {
+            "text": " and",
+            "confidence": 0.9999997615814777,
+            "start_index": 445
+          },
+          {
+            "text": " 2024,",
+            "confidence": 0.9999781860548087,
+            "start_index": 449
+          },
+          {
+            "text": " respectively.",
+            "confidence": 0.9999996423722521,
+            "start_index": 455
+          },
+          {
+            "text": " Such",
+            "confidence": 0.9999976158197796,
+            "start_index": 469
+          },
+          {
+            "text": " amounts",
+            "confidence": 0.9999750858798929,
+            "start_index": 474
+          },
+          {
+            "text": " were",
+            "confidence": 0.9999897481064004,
+            "start_index": 482
+          },
+          {
+            "text": " also",
+            "confidence": 0.9999992847447459,
+            "start_index": 487
+          },
+          {
+            "text": " included",
+            "confidence": 0.999998927117538,
+            "start_index": 492
+          },
+          {
+            "text": " in",
+            "confidence": 0.9999955892755635,
+            "start_index": 501
+          },
+          {
+            "text": " liabilities",
+            "confidence": 0.9999904037745191,
+            "start_index": 504
+          },
+          {
+            "text": " and",
+            "confidence": 0.999998927117538,
+            "start_index": 516
+          },
+          {
+            "text": " were",
+            "confidence": 0.9999990463265931,
+            "start_index": 520
+          },
+          {
+            "text": " paid",
+            "confidence": 0.9999994039539004,
+            "start_index": 525
+          },
+          {
+            "text": " shortly",
+            "confidence": 0.9999938011552557,
+            "start_index": 530
+          },
+          {
+            "text": " after",
+            "confidence": 0.9999994039539004,
+            "start_index": 538
+          },
+          {
+            "text": " the",
+            "confidence": 0.9999995231630692,
+            "start_index": 544
+          },
+          {
+            "text": " respective",
+            "confidence": 0.9999960661089133,
+            "start_index": 548
+          },
+          {
+            "text": " balance",
+            "confidence": 0.9999986886995842,
+            "start_index": 559
+          },
+          {
+            "text": " sheet",
+            "confidence": 0.999960304883893,
+            "start_index": 567
+          },
+          {
+            "text": " date.",
+            "confidence": 0.9982447693575954,
+            "start_index": 573
+          }
+        ]
+      },
+      "blocks": []
+    }
+  ],
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 3,
+    "doc_size_bytes": 26211
+  },
+  "document_annotation": "{\"document_type\": \"Financial Statement\", \"primary_entities\": [\"Berkshire Hathaway\"], \"reporting_period\": \"As of December 31, 2025 and 2024\", \"key_dates\": [\"December 31, 2025\", \"December 31, 2024\"], \"key_amounts\": [{\"label\": \"Total Assets (Consolidated)\", \"value\": \"$ 1,222,176\"}, {\"label\": \"Total Liabilities (Consolidated)\", \"value\": \"$ 502,473\"}, {\"label\": \"Total Shareholders' Equity (Consolidated)\", \"value\": \"$ 719,703\"}, {\"label\": \"Investments in Equity Securities\", \"value\": \"$ 297,778\"}, {\"label\": \"Retained Earnings\", \"value\": \"$ 763,186\"}, {\"label\": \"Total Assets (Insurance and Other)\", \"value\": \"$ 976,000\"}, {\"label\": \"Total Assets (Railroad, Utilities and Energy)\", \"value\": \"$ 246,176\"}, {\"label\": \"Notes Payable and Other Borrowings (Railroad, Utilities and Energy)\", \"value\": \"$ 83,318\"}], \"signatories\": [], \"contains_table\": true, \"contains_signature_block\": false, \"contains_diagram_or_chart\": false}"
+}

@@ -1,0 +1,8 @@
+model,avg_confidence,arithmetic_consistency_rate,consensus_agreement_rate,latency_sec
+mistral-ocr-2512,0.993,,0.96,2.27
+mistral-ocr-3-0,0.992,,0.96,2.78
+mistral-ocr-3,0.992,,0.96,2.25
+mistral-ocr-4-0,1.0,,0.96,2.51
+mistral-ocr-latest,0.999,,0.96,4.33
+mistral-ocr-4,0.999,,0.96,2.67
+mistral-ocr-4-1,0.999,,0.96,2.74
