@@ -1,7 +1,7 @@
 # Mistral-OCR-Benchmark: Reliability Framework for Finance Domain
 
 
-## 🎯 Executive Summary
+## 🎯 Goals and Summary
 
 **Goal:** To establish a rigorous, reproducible benchmarking standard for Mistral OCR models when processing high-stakes Legal and Financial documents.
 
