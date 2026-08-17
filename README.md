@@ -1,4 +1,4 @@
-# Mistral-OCR-Benchmark: OCR Reliability Framework for Finance Domain
+# Mistral-OCR-Benchmark: Reliability Framework for Finance Domain
 
 
 ## 🎯 Executive Summary
